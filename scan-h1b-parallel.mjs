@@ -479,7 +479,16 @@ async function main() {
     process.exit(0);
   } else if (categoryFlag !== -1) {
     const category = args[categoryFlag + 1];
-    const filePath = `${H1B_CATEGORIES_DIR}/h1b-${category}.tsv`;
+    let filePath;
+    let catName = category;
+
+    // Handle aliases
+    if (category === 'all') {
+      filePath = `${H1B_CATEGORIES_DIR}/h1b-all-companies.tsv`;
+      catName = 'all-companies';
+    } else {
+      filePath = `${H1B_CATEGORIES_DIR}/h1b-${category}.tsv`;
+    }
 
     if (!existsSync(filePath)) {
       console.error(`Category "${category}" not found. Run --list to see available categories.`);
@@ -492,13 +501,13 @@ async function main() {
     createBatchDir();
     batches.forEach((batch, i) => saveBatch(i, batch));
 
-    console.log(`\nCategory: ${category}`);
+    console.log(`\nCategory: ${catName}`);
     console.log(`Total companies: ${companies.length.toLocaleString()}`);
     console.log(`Batch size: ${BATCH_SIZE}`);
     console.log(`Total batches: ${batches.length}`);
 
     sourceFile = filePath;
-    categoryName = category;
+    categoryName = catName;
   } else {
     console.error('Usage: node scan-h1b-parallel.mjs --category <name>');
     console.error('       node scan-h1b-parallel.mjs --company <name>');
