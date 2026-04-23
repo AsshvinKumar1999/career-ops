@@ -1,5 +1,5 @@
 {
-  "name": "career-ops-h1b-india-scan",
+  "name": "career-ops-h1b-india",
   "version": "1.0.0",
   "description": "AI-powered job search pipeline with H1B company database for US and India-based companies",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://santifer.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AsshvinKumar1999/career-ops-h1b-india-scan"
+    "url": "https://github.com/AsshvinKumar1999/career-ops-h1b-india"
   },
   "license": "MIT",
   "dependencies": {
