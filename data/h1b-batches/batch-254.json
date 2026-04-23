@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "TROY CONSTRUCTION LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TROY DESIGNS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "TROY UNIVERSITY",
+    "state": "AL",
+    "city": "TROY"
+  },
+  {
+    "employer": "TRU DENTAL MICHIGAN PC",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "TRU TOUCHING HUMANS LLC DBA TRUTH",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "TRUABUTMENT INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "TRUCK ACCESSORIES GROUP LLC",
+    "state": "IN",
+    "city": "ELKHART"
+  },
+  {
+    "employer": "TRUCK LITE CO LLC",
+    "state": "MI",
+    "city": "SOUTHFIELD"
+  },
+  {
+    "employer": "TRUCKPRO LLC",
+    "state": "TN",
+    "city": "CORDOVA"
+  },
+  {
+    "employer": "TRUCKSMARTER INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TRUCKX INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "TRUE GREEN CAPITAL MGMT LLC",
+    "state": "CT",
+    "city": "WESTPORT"
+  },
+  {
+    "employer": "TRUE LOVE DENTAL LLC",
+    "state": "MD",
+    "city": "BRUNSWICK"
+  },
+  {
+    "employer": "TRUE NORTH COMPLIANCE SERVICES INC",
+    "state": "CA",
+    "city": "LONG BEACH"
+  },
+  {
+    "employer": "TRUEBLUE INC",
+    "state": "WA",
+    "city": "TACOMA"
+  },
+  {
+    "employer": "TRUECAR INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TRUECORE CAPITAL INC",
+    "state": "CA",
+    "city": "SANTA CLARITA"
+  },
+  {
+    "employer": "TRUED CONSULTING LLC",
+    "state": "CO",
+    "city": "BROOMFIELD"
+  },
+  {
+    "employer": "TRUEFORT INC",
+    "state": "NJ",
+    "city": "WEEHAWKEN"
+  },
+  {
+    "employer": "TRUELITE TRACE INC DBA FLEETUP",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TRUEPILL INC",
+    "state": "CA",
+    "city": "HAYWARD"
+  },
+  {
+    "employer": "TRUERA INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "TRUEX INC D/B/A INFILLION",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "TRUGIT LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TRUHEARING INC",
+    "state": "UT",
+    "city": "DRAPER"
+  },
+  {
+    "employer": "TRUIST BANK",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TRULIOO INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "TRUMAN STATE UNIV",
+    "state": "MO",
+    "city": "KIRKSVILLE"
+  },
+  {
+    "employer": "TRUMINDS SOFTWARE SYSTEMS INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "TRUMINDS TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "TRUMP MEDIA TECHNOLOGY GROUP CORP",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "TRUMPF INC",
+    "state": "CT",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "TRUNIX LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TRUSOFT SOLUTIONS LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "TRUST  & SAFETY LABORATORY INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "TRUSTAP INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "TRUSTARC INC",
+    "state": "CA",
+    "city": "WALNUT CREEK"
+  },
+  {
+    "employer": "TRUSTED INC D/B/A TRUSTED HEALTH",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TRUSTED MEDIA BRANDS INC",
+    "state": "NY",
+    "city": "WHITE PLAINS"
+  },
+  {
+    "employer": "TRUSTEES OF AMHERST COLLEGE",
+    "state": "MA",
+    "city": "AMHERST"
+  },
+  {
+    "employer": "TRUSTEES OF BOSTON UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TRUSTEES OF DARTMOUTH COLLEGE",
+    "state": "NH",
+    "city": "HANOVER"
+  },
+  {
+    "employer": "TRUSTEES OF GRINNELL COLLEGE",
+    "state": "IA",
+    "city": "GRINNELL"
+  },
+  {
+    "employer": "TRUSTEES OF PHILLIPS ACADEMY",
+    "state": "MA",
+    "city": "ANDOVER"
+  },
+  {
+    "employer": "TRUSTEES OF THE SMITH COLLEGE",
+    "state": "MA",
+    "city": "NORTHAMPTON"
+  },
+  {
+    "employer": "TRUSTEK INC",
+    "state": "NJ",
+    "city": "MONMOUTH JUNCTION"
+  },
+  {
+    "employer": "TRUSTLESS MEDIA INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "TRUSTMARK SERVICES COMPANY",
+    "state": "IL",
+    "city": "LAKE FOREST"
+  },
+  {
+    "employer": "TRUSTWORTHY MORTGAGE CORPORATION",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "TRUU INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "TRUV INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "TRUVETA INC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "TRUWEST CREDIT UNION",
+    "state": "AZ",
+    "city": "TEMPE"
+  },
+  {
+    "employer": "TRV MECHANICAL CONTRACTORS LLC",
+    "state": "NJ",
+    "city": "KENILWORTH"
+  },
+  {
+    "employer": "TRYNOW INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TRYON SOLUTIONS",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "TRYSTAR LLC",
+    "state": "MN",
+    "city": "FARIBAULT"
+  },
+  {
+    "employer": "TS IMAGINE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "TS STAFFING SOLUTIONS LLC",
+    "state": "MI",
+    "city": "NORTHVILLE"
+  },
+  {
+    "employer": "TS TECH AMERICAS INC",
+    "state": "OH",
+    "city": "REYNOLDSBURG"
+  },
+  {
+    "employer": "TSC EDIFICE JV1 LLC",
+    "state": "VA",
+    "city": "FRONT ROYAL"
+  },
+  {
+    "employer": "TSG CONSULTING LLC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "TSI INCORPORATED",
+    "state": "MN",
+    "city": "SHOREVIEW"
+  },
+  {
+    "employer": "TSI USA LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TSMC ARIZONA CORPORATION",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "TSMC TECHNOLOGY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TSPGA LLC",
+    "state": "NJ",
+    "city": "ENGLEWOOD CLIFFS"
+  },
+  {
+    "employer": "TSQ SYSTEMS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TSR CONSULTING SERVICES INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "TSYS ACQUIRING SOLUTIONS LLC",
+    "state": "GA",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "TT TECHNOLOGIES INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "TTE TECHNOLOGY INC",
+    "state": "CA",
+    "city": "CORONA"
+  },
+  {
+    "employer": "TTEC DIGITAL LLC",
+    "state": "CO",
+    "city": "ENGLEWOOD"
+  },
+  {
+    "employer": "TTI CONSUMER POWER TOOLS INC",
+    "state": "SC",
+    "city": "ANDERSON"
+  },
+  {
+    "employer": "TTI GLOBAL INC",
+    "state": "MI",
+    "city": "BLOOMFIELD HILLS"
+  },
+  {
+    "employer": "TTL INC",
+    "state": "AL",
+    "city": "TUSCALOOSA"
+  },
+  {
+    "employer": "TTM TECHNOLOGIES INC",
+    "state": "NY",
+    "city": "SYRACUSE"
+  },
+  {
+    "employer": "TTS SOLUTIONS INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TUBI INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "TUBMAN TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "TUCCI LEARNING SOLUTIONS INC",
+    "state": "CA",
+    "city": "MARINA"
+  },
+  {
+    "employer": "TUCSON ELECTRIC POWER COMPANY",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "TUCSON PHYSICIAN GROUP HOLDINGS LLC DBA CARONDELET MEDICAL GROUP",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "TUCSON UNIFIED SCHOOL DISTRICT",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "TUDOR INVESTMENT CORPORATION",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "TUFIN SOFTWARE NORTH AMERICA INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "TUFTS MEDICAL CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TUFTS UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TULA TECHNOLOGY INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TULANE UNIVERSITY",
+    "state": "LA",
+    "city": "NEW ORLEANS"
+  },
+  {
+    "employer": "TULEX PHARMACEUTICALS INC",
+    "state": "NJ",
+    "city": "CRANBURY"
+  },
+  {
+    "employer": "TULLP INTERFACES INC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "TUNECORE",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "TUNEIN INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TUNIRASOFT LLC",
+    "state": "VA",
+    "city": "ALDIE"
+  },
+  {
+    "employer": "TUNOPTIX INC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "TUOPU NORTH AMERICA USA LIMITED INC",
+    "state": "MI",
+    "city": "MADISON HEIGHTS"
+  },
+  {
+    "employer": "TUOPU USA LLC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TUPOIN INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TUPPL TECHNOLOGIES INC",
+    "state": "TX",
+    "city": "IRVING"
+  }
+]

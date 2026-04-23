@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "CALAMP WIRELESS NETWORKS CORPORATION",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "CALANCE CORPORATION",
+    "state": "CA",
+    "city": "ANAHEIM"
+  },
+  {
+    "employer": "CALCITE SYSTEMS INC",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "CALFUS INC",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "CALHOUN COUNTY SCHOOL DISTRICT",
+    "state": "SC",
+    "city": "SAINT MATTHEWS"
+  },
+  {
+    "employer": "CALIBER 1 CONSTRUCTION INC",
+    "state": "GA",
+    "city": "VILLA RICA"
+  },
+  {
+    "employer": "CALIBER BUSINESS SYSTEMS INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "CALIBER CONSULTING INC",
+    "state": "TX",
+    "city": "LEWISVILLE"
+  },
+  {
+    "employer": "CALIBER HOLDINGS LLC",
+    "state": "TX",
+    "city": "LEWISVILLE"
+  },
+  {
+    "employer": "CALIBER HOME LOANS INC",
+    "state": "TX",
+    "city": "COPPELL"
+  },
+  {
+    "employer": "CALIBER IT SOLUTIONS INC",
+    "state": "SC",
+    "city": "ROCK HILL"
+  },
+  {
+    "employer": "CALIBER MANAGEMENT LLC",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "CALIBRATE HEALTH INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "CALIBUR INTEGRATED SOLUTIONS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "CALICO LIFE SCIENCES LLC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "CALIF STATE UNIVERSITY FULLERTON",
+    "state": "CA",
+    "city": "FULLERTON"
+  },
+  {
+    "employer": "CALIFORNIA ASSOCIATION OF RESOURCE CONSERVATION DISTRICTS ( CARCD )",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "CALIFORNIA BEES INC DBA AM WAX INC",
+    "state": "CA",
+    "city": "ORANGE"
+  },
+  {
+    "employer": "CALIFORNIA CREATIVE SOLUTIONS INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "CALIFORNIA CROSSPOINT HIGH SCHOOL",
+    "state": "CA",
+    "city": "HAYWARD"
+  },
+  {
+    "employer": "CALIFORNIA DEPARTMENT OF CORRECTIONS & REHABILITATION",
+    "state": "CA",
+    "city": "ELK GROVE"
+  },
+  {
+    "employer": "CALIFORNIA DEPT OF TRANSPORTATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CALIFORNIA GIANT INC",
+    "state": "CA",
+    "city": "WATSONVILLE"
+  },
+  {
+    "employer": "CALIFORNIA HEALTHCARE CLINICAL EMPLOYEE SERVICES P C",
+    "state": "CA",
+    "city": "CARLSBAD"
+  },
+  {
+    "employer": "CALIFORNIA HOUSING FINANCE AGENCY",
+    "state": "CA",
+    "city": "SACRAMENTO"
+  },
+  {
+    "employer": "CALIFORNIA INDEPENDANT SYSTEM OPERATOR CORPORATION",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "CALIFORNIA INDEPENDENT SYSTEM OPERATOR CORPORATION",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "CALIFORNIA INSTITUTE OF TECHNOLOGY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CALIFORNIA INSTITUTE OF THE ARTS",
+    "state": "CA",
+    "city": "VALENCIA"
+  },
+  {
+    "employer": "CALIFORNIA LUTHERAN UNIVERSITY",
+    "state": "CA",
+    "city": "THOUSAND OAKS"
+  },
+  {
+    "employer": "CALIFORNIA MENTAL HEALTH SERVICES AUTHORITY DBA CALMHSA",
+    "state": "CA",
+    "city": "SACRAMENTO"
+  },
+  {
+    "employer": "CALIFORNIA PACIFIC TECHNICAL SERVICES LLC",
+    "state": "GU",
+    "city": "TAMUNING"
+  },
+  {
+    "employer": "CALIFORNIA PHYSICAL OCCUPATIONAL SPEECH AND HAND THERAPY INC DBA CALIFORNIA REHABILITATION",
+    "state": "CA",
+    "city": "MODESTO"
+  },
+  {
+    "employer": "CALIFORNIA PHYSICIANS SERVICE DBA BLUE SHIELD OF CALIFORNIA",
+    "state": "CA",
+    "city": "EL DORADO HILLS"
+  },
+  {
+    "employer": "CALIFORNIA POLYTECHNIC STATE UNIV",
+    "state": "CA",
+    "city": "SAN LUIS OBISPO"
+  },
+  {
+    "employer": "CALIFORNIA PUBLIC UTILITIES COMMISSION",
+    "state": "CA",
+    "city": "SACRAMENTO"
+  },
+  {
+    "employer": "CALIFORNIA REHABITATION AND SPORTS THERAPY P C",
+    "state": "CA",
+    "city": "CARLSBAD"
+  },
+  {
+    "employer": "CALIFORNIA RESOURCES CORPORATION",
+    "state": "CA",
+    "city": "LONG BEACH"
+  },
+  {
+    "employer": "CALIFORNIA SOFTTECH INC",
+    "state": "MI",
+    "city": "W BLOOMFIELD"
+  },
+  {
+    "employer": "CALIFORNIA SOLAR INTREGRATORS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "CALIFORNIA STATE POLYSTECHNIC UNIVERSITY POMONA",
+    "state": "CA",
+    "city": "POMONA"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY CHICO",
+    "state": "CA",
+    "city": "CHICO"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY LONG BEACH",
+    "state": "CA",
+    "city": "LONG BEACH"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY LOS ANGELES",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY NORTHRIDGE",
+    "state": "CA",
+    "city": "NORTHRIDGE"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY SAN BERNARDINO",
+    "state": "CA",
+    "city": "SAN BERNARDINO"
+  },
+  {
+    "employer": "CALIFORNIA STATE UNIVERSITY SAN MARCOS",
+    "state": "CA",
+    "city": "SAN MARCOS"
+  },
+  {
+    "employer": "CALIFORNIA UNIVERSITY SILICON VALLEY",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "CALIFORNIA WATER SERVICE",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "CALIPER LIFE SCIENCES INC",
+    "state": "MA",
+    "city": "HOPKINTON"
+  },
+  {
+    "employer": "CALISTO CORPORATION",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "CALIX INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "CALIZA LLC D/B/A LANDING",
+    "state": "AL",
+    "city": "BIRMINGHAM"
+  },
+  {
+    "employer": "CALIZA LLC DBA LANDING",
+    "state": "AL",
+    "city": "BIRMINGHAM"
+  },
+  {
+    "employer": "CALL 4 HEALTH INC",
+    "state": "FL",
+    "city": "DELRAY BEACH"
+  },
+  {
+    "employer": "CALLAHAN & ASSOCIATES INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "CALLAWAY GOLF SALES COMPANY",
+    "state": "CA",
+    "city": "CARLSBAD"
+  },
+  {
+    "employer": "CALLIDUS SOFTWARE INC",
+    "state": "PA",
+    "city": "NEWTOWN SQUARE"
+  },
+  {
+    "employer": "CALLISONRTKL ARCHITECTS PC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "CALLISONRTKL INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "CALLISTO MEDIA INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "CALM COM INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "CALPINE CORPORATION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "CALROY HEALTH SCIENCES LLC",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "CALSOFT LABS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "CALSOFT PRIVATE LIMITED",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "CALSOFT SYSTEMS",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "CALTEC CORP",
+    "state": "CA",
+    "city": "WESTMINSTER"
+  },
+  {
+    "employer": "CALTEK SOLUTIONS INC",
+    "state": "CA",
+    "city": "UNION CITY"
+  },
+  {
+    "employer": "CALTROL INC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "CALUMET SPECIALTY PRODUCTS PARTNERS L P",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "CALVARY BAPTIST CHURCH OF LANSDALE",
+    "state": "PA",
+    "city": "LANSDALE"
+  },
+  {
+    "employer": "CALVARY DESIGN TEAM INC DBA CALVARY AUTOMATION SYSTEMS",
+    "state": "NY",
+    "city": "WEBSTER"
+  },
+  {
+    "employer": "CALVARY INTERNATIONAL MISSION DBA AGAPE CHRISTIAN SCHOOL",
+    "state": "MP",
+    "city": "SAIPAN"
+  },
+  {
+    "employer": "CALVERT RESEARCH AND MANAGEMENT",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "CALYPSO SOFT INC",
+    "state": "IL",
+    "city": "PLAINFIELD"
+  },
+  {
+    "employer": "CALYPSO TECHNOLOGY INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "CAM CAREER MANAGEMENT INC",
+    "state": "TX",
+    "city": "LEANDER"
+  },
+  {
+    "employer": "CAM GROUP USA INC",
+    "state": "OH",
+    "city": "HILLIARD"
+  },
+  {
+    "employer": "CAMACHO CALVO LAW GROUP LLC",
+    "state": "GU",
+    "city": "HAGATNA"
+  },
+  {
+    "employer": "CAMARENA HEALTH",
+    "state": "CA",
+    "city": "MADERA"
+  },
+  {
+    "employer": "CAMBAY CONSULTING LLC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "CAMBER SPINE TECHNOLOGIES LLC",
+    "state": "PA",
+    "city": "KING OF PRUSSIA"
+  },
+  {
+    "employer": "CAMBIA HEALTH SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CAMBIUM ASSESSMENT INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "CAMBIUM NETWORKS INC",
+    "state": "IL",
+    "city": "ROLLING MEADOWS"
+  },
+  {
+    "employer": "CAMBREX CHARLES CITY INC",
+    "state": "IA",
+    "city": "CHARLES CITY"
+  },
+  {
+    "employer": "CAMBREX HIGH POINT INC",
+    "state": "NC",
+    "city": "HIGH POINT"
+  },
+  {
+    "employer": "CAMBRIDGE ASSOCIATES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CAMBRIDGE CASA DEI BAMBINI LLC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "CAMBRIDGE INSTITUTE OF CHINA BUSINESS RESEARCH INC DBA CAMBRIDGE INSTITUTE OF BUSINESS RESEARCH",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "CAMBRIDGE MOBILE TELEMATICS INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "CAMBRIDGE PHARMA CONSULTANCY INC",
+    "state": "NC",
+    "city": "DURHAM"
+  },
+  {
+    "employer": "CAMBRIDGE PUBLIC HLTH COMMISSION D/B/A CAMBRIDGE HLTH ALLIANCE",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "CAMBRIDGE PUBLIC SCHOOLS",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "CAMBRIDGE SEMANTICS INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "CAMBRIDGE TECHNOLOGY INC",
+    "state": "GA",
+    "city": "NORCROSS"
+  },
+  {
+    "employer": "CAMBURAS THEODORE LTD",
+    "state": "IL",
+    "city": "DES PLAINES"
+  },
+  {
+    "employer": "CAMDEN CAPITAL LLC",
+    "state": "CA",
+    "city": "MANHATTAN BEACH"
+  },
+  {
+    "employer": "CAMDEN CLARK PHYSICIAN CORP INC",
+    "state": "WV",
+    "city": "PARKERSBURG"
+  }
+]

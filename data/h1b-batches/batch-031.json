@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "BEACON INDUSTRIES INC",
+    "state": "IN",
+    "city": "EDINBURGH"
+  },
+  {
+    "employer": "BEACON INFOSYSTEMS LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "BEACON PLATFORM INCORPORATED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BEACON SALES ACQUISITION INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "BEACONFIRE SOLUTION INC",
+    "state": "NJ",
+    "city": "EAST WINDSOR"
+  },
+  {
+    "employer": "BEACONFIRE STAFFING SOLUTIONS INC",
+    "state": "NJ",
+    "city": "EAST WINDSOR"
+  },
+  {
+    "employer": "BEACONS AI INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BEAM GLOBAL",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BEAM THERAPEUTICS INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "BEAMERY INC",
+    "state": "CA",
+    "city": "WALNUT"
+  },
+  {
+    "employer": "BEAN INFOSYSTEMS LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "BEAR CREEK FIREARMS LLC",
+    "state": "TX",
+    "city": "KELLER"
+  },
+  {
+    "employer": "BEAR RIVER ASSO INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "BEAR VALLEY COMMUNITY HEALTHCARE DISTRICT",
+    "state": "CA",
+    "city": "BIG BEAR LAKE"
+  },
+  {
+    "employer": "BEAST ENTERPRISES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BEATBREAD LIMITED",
+    "state": "UT",
+    "city": "SAINT GEORGE"
+  },
+  {
+    "employer": "BEAUMONT INDEPENDENT SCHOOL DISTRICT",
+    "state": "TX",
+    "city": "BEAUMONT"
+  },
+  {
+    "employer": "BEAUTY PLUS TRADING CO INC",
+    "state": "NJ",
+    "city": "MOONACHIE"
+  },
+  {
+    "employer": "BEAVER COUNTY HOSPITAL AUTHORITY",
+    "state": "OK",
+    "city": "BEAVER"
+  },
+  {
+    "employer": "BEAVER STREET FISHERIES INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "BEC COMPANIES INC",
+    "state": "FL",
+    "city": "TALLAHASSEE"
+  },
+  {
+    "employer": "BECAUSE TECH CONSULTING CORP",
+    "state": "NJ",
+    "city": "HOBOKEN"
+  },
+  {
+    "employer": "BECHTEL ENERGY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BECHTEL ENTERPRISES INC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "BECHTEL GLOBAL CORPORATION",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "BECHTEL MANUFACTURING & TECHNOLOGY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BECHTEL NATIONAL INC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "BECKER & POLIAKOFF PA",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "BECKER NEW YORK P C",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "BECKMAN COULTER INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BECKMAN RESEARCH INSTITUTE OF THE CITY OF HOPE",
+    "state": "CA",
+    "city": "DUARTE"
+  },
+  {
+    "employer": "BECOMING SUPERHUMAN LLC",
+    "state": "PR",
+    "city": "VIEQUES"
+  },
+  {
+    "employer": "BECTON DICKINSON AND COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BED BATH BEYOND INC",
+    "state": "NJ",
+    "city": "UNION"
+  },
+  {
+    "employer": "BEDNARK STUDIO",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "BEDROCK ENERGY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BEDROCK MANAGEMENT SERVICES LLC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "BEECH ACRES DBA BEECH ACRES PARENTING CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BEEJAUM TECHNOLOGY GROUP INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "BEELINE.COM LLC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "BEEMOK MANAGEMENT LLC",
+    "state": "SC",
+    "city": "CHARLESTON"
+  },
+  {
+    "employer": "BEESY LLC",
+    "state": "NJ",
+    "city": "SUMMIT"
+  },
+  {
+    "employer": "BEETLEAI SOLUTIONS LLC",
+    "state": "NC",
+    "city": "APEX"
+  },
+  {
+    "employer": "BEF MANAGEMENT INC",
+    "state": "OH",
+    "city": "NEW ALBANY"
+  },
+  {
+    "employer": "BEGHOU CONSULTING LLC",
+    "state": "IL",
+    "city": "EVANSTON"
+  },
+  {
+    "employer": "BEGIN WITHIN COUNSELING & COACHING SERVICES INC",
+    "state": "IL",
+    "city": "OAK PARK"
+  },
+  {
+    "employer": "BEHAVIORAL HEALTH NETWORK INC",
+    "state": "MA",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "BEHAVIORAL HEALTH RESPONSE INC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "BEHAVIORAL IDEAS LAB INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BEIGENE USA INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "BEKUM AMERICA CORPORATION",
+    "state": "MI",
+    "city": "WILLIAMSTON"
+  },
+  {
+    "employer": "BEL AIRE FARM LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BELCAN ENGINEERING GROUP LLC",
+    "state": "IL",
+    "city": "PEORIA"
+  },
+  {
+    "employer": "BELCAN SERVICES GROUP LTD PARTNERSHIP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BELCHER PHARMACEUTICALS LLC",
+    "state": "FL",
+    "city": "SEMINOLE"
+  },
+  {
+    "employer": "BELDEN INC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "BELEN CONSOLIDATED SCHOOLS",
+    "state": "NM",
+    "city": "BELEN"
+  },
+  {
+    "employer": "BELGO MOBILE LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "BELHAVEN UNIV",
+    "state": "MS",
+    "city": "JACKSON"
+  },
+  {
+    "employer": "BELITE BIO LLC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "BELK INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "BELKIN BURDEN GOLDMAN LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BELKIN INTERNATIONAL INC",
+    "state": "CA",
+    "city": "EL SEGUNDO"
+  },
+  {
+    "employer": "BELL INFO SOLUTIONS LLC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "BELL SYSTEMS INC",
+    "state": "FL",
+    "city": "LARGO"
+  },
+  {
+    "employer": "BELL1 PBC",
+    "state": "AR",
+    "city": "BENTONVILLE"
+  },
+  {
+    "employer": "BELLA INTERNATIONAL TEXTILE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BELLBROOK SUGARCREEK LOCAL SCHOOLS",
+    "state": "OH",
+    "city": "DAYTON"
+  },
+  {
+    "employer": "BELLE HAVEN CHIROPRACTIC",
+    "state": "VA",
+    "city": "ALEXANDRIA"
+  },
+  {
+    "employer": "BELLECCI & ASSO INC",
+    "state": "CA",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "BELLEVUE ANIMAL HOSPITAL P S",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BELLEVUE SCHOOL DISTRICT",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BELLEVUE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BELLEVUE VCOLLEGE",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BELLTECH LLC",
+    "state": "MD",
+    "city": "CLARKSBURG"
+  },
+  {
+    "employer": "BELLWETHER ASSET MGMT INC",
+    "state": "CA",
+    "city": "EL SEGUNDO"
+  },
+  {
+    "employer": "BELMOND USA INC",
+    "state": "SC",
+    "city": "NORTH CHARLESTON"
+  },
+  {
+    "employer": "BELMONT BEHAVIORAL HOSPITAL LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "BELMONT UNIVERSITY",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "BELONG HOME INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "BELOVED COMMUNITY INC",
+    "state": "LA",
+    "city": "NEW ORLEANS"
+  },
+  {
+    "employer": "BELVIDERE COMMUNITY UNIT SCH DIST 100",
+    "state": "IL",
+    "city": "BELVIDERE"
+  },
+  {
+    "employer": "BEN WASHINGTON SONS PLUMBING AND HEATING INC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "BENAK INC DBA BUTTERFLY PHARMACY",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "BENAKA INC",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "BENAROYA RESEARCH INSTITUTE AT VIRGINIA MASON",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "BENCHLING INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BENCHMARK EDUCATION COMPANY LLC",
+    "state": "NY",
+    "city": "NEW ROCHELLE"
+  },
+  {
+    "employer": "BENDIX COMMERCIAL VEHICLE SYSTEMS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BENECARD SERVICES INC",
+    "state": "NJ",
+    "city": "CLIFTON"
+  },
+  {
+    "employer": "BENECIAS LLC",
+    "state": "NJ",
+    "city": "CRANBURY"
+  },
+  {
+    "employer": "BENED SOFTWARE SERVICES INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "BENEDICT CANYON EQUITY HOLDINGS LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "BENEFIS HEALTH SYSTEM INC",
+    "state": "MT",
+    "city": "GREAT FALLS"
+  },
+  {
+    "employer": "BENEFIT HARBOR LP",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "BENEFIT RESOURCE INC",
+    "state": "MN",
+    "city": "EDINA"
+  },
+  {
+    "employer": "BENEFIT STREET PARTNERS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BENEFITS DATA TRUST",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "BENEFITS SCIENCE LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "BENENSON STRATEGY GROUP LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  }
+]

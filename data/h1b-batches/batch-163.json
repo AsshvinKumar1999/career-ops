@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "MP ENGINEERS P C",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MP INFOTECH CORP",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MP MAGNETICS LLC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "MP MINE OPERATIONS LLC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "MPARTICLE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MPFP LANDSCAPE ARCHITECT PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MPG OPERATIONS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MPHASIS CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MPOWER LOGIC INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "MPP ENGINEERS LLC",
+    "state": "NJ",
+    "city": "MONMOUTH JUNCTION"
+  },
+  {
+    "employer": "MPR SYSTEMS LLC",
+    "state": "CA",
+    "city": "GRANADA HILLS"
+  },
+  {
+    "employer": "MPULSE MOBILE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MRE CONSULTING LTD",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "MRI SOFTWARE LLC",
+    "state": "OH",
+    "city": "SOLON"
+  },
+  {
+    "employer": "MRL SAN FRANCISCO LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MRM NEW YORK LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MRO CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MROADS LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "MROWL COM INC",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "MRP LLC D B A I T IGNITE",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "MS INFO TECH LLC",
+    "state": "TX",
+    "city": "DENTON"
+  },
+  {
+    "employer": "MS LAM MONTESSORI LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "MSA WORLDWIDE LLC",
+    "state": "PA",
+    "city": "CRANBERRY TOWNSHIP"
+  },
+  {
+    "employer": "MSAB INC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "MSAII LLC",
+    "state": "OH",
+    "city": "POWELL"
+  },
+  {
+    "employer": "MSCI INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MSF GLOBAL SOLUTIONS LLC",
+    "state": "LA",
+    "city": "NEW ORLEANS"
+  },
+  {
+    "employer": "MSG ENTERTAINMENT GROUP LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MSG GLOBAL SOLUTIONS INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MSG VENTURES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MSHANA GROUP LLC DBA ARIESPRO",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "MSI EXPRESS INC",
+    "state": "IN",
+    "city": "PORTAGE"
+  },
+  {
+    "employer": "MSIT SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MSKV TECHNOLOGIES INC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "MSN PHARMACEUTICALS INC DBA MSN",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MSP CONCEPTS INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "MSQUARE TECHNOLOGIES INC",
+    "state": "PA",
+    "city": "MALVERN"
+  },
+  {
+    "employer": "MSRCOSMOS LLC",
+    "state": "CA",
+    "city": "STOCKTON"
+  },
+  {
+    "employer": "MSYS INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MSYS TECHNOLOGIES LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "MT DIABLO UNIFIED SCHOOL DISTRICT",
+    "state": "CA",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "MT PLEASANT INDEPENDENT SCH DIST",
+    "state": "TX",
+    "city": "MOUNT PLEASANT"
+  },
+  {
+    "employer": "MT TAM INNOVATIONS LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "MTBL GLOBAL USA INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "MTHEORY CONSULTING GROUP LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "MTN INC",
+    "state": "CO",
+    "city": "HIGHLANDS RANCH"
+  },
+  {
+    "employer": "MTR IT SOLUTIONS INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "MTSS GROUP INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "MTTN INC AKA MOUNTAIN DIGITAL INC AKA MOUNTAIN INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "MTX GROUP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MTY GROUP INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MU HEALTHIT INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "MUBEA PRECISION SPRINGS INC",
+    "state": "KY",
+    "city": "FLORENCE"
+  },
+  {
+    "employer": "MUBEA TAILOR ROLLED BLANKS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MUDRASYS INC",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "MUELLER CO LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MUENGINEERS INC",
+    "state": "FL",
+    "city": "OAKLAND PARK"
+  },
+  {
+    "employer": "MUFG BANK LTD",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MUFG SECURITIES AMERICAS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MUFG UNION BANK NA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MUFSON HOWE HUNTER AND COMPANY LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "MUJIN CORP",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MUKE GROUP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MULLEN TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "BREA"
+  },
+  {
+    "employer": "MULLER MULLER LTD",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "MULTI COLOR CORPORATION",
+    "state": "IL",
+    "city": "ELK GROVE VILLAGE"
+  },
+  {
+    "employer": "MULTI SERVICE TECHNOLOGY SOLUTIONS INC DBA TREVIPAY",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "MULTI STATE TAX ACCOUNTING INC",
+    "state": "NY",
+    "city": "EAST SETAUKET"
+  },
+  {
+    "employer": "MULTICARE HEALTH CENTER LLC",
+    "state": "MI",
+    "city": "WARREN"
+  },
+  {
+    "employer": "MULTICARE HEALTH SYSTEM",
+    "state": "WA",
+    "city": "TACOMA"
+  },
+  {
+    "employer": "MULTICULTURAL CAREER INTERN PROGRA",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MULTICULTURAL COUNSELING CENTER LLC",
+    "state": "UT",
+    "city": "WEST JORDAN"
+  },
+  {
+    "employer": "MULTIEDGE INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "MULTINET INTERNATIONAL INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MULTIPLAN INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "MULTIQUIP INC",
+    "state": "CA",
+    "city": "CYPRESS"
+  },
+  {
+    "employer": "MULTISTUDIO INC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "MULTIVISION LLC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "MULTNOMAH COUNTY",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "MULTONOMAH COUNTY SCH DIST 1J DBA PORTLAND PUBLIC SCHOOLS",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "MUNCHKIN INC",
+    "state": "CA",
+    "city": "VAN NUYS"
+  },
+  {
+    "employer": "MUNDELL AND ASSOCIATES INC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "MUNGER BROS LLC",
+    "state": "CA",
+    "city": "DELANO"
+  },
+  {
+    "employer": "MUNICH AMERICAN REASSURANCE COMPANY",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MUNICH PUBLIC SCHOOL DISTRIC 19",
+    "state": "ND",
+    "city": "MUNICH"
+  },
+  {
+    "employer": "MUNICH RE AMERICA SERVICES INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MUNICH RE TRADING LLC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "MUNICH REINSURANCE AMERICA INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MUNICIPAL TESTING LABORATORIES INC",
+    "state": "NY",
+    "city": "HAUPPAUGE"
+  },
+  {
+    "employer": "MUNRO ASSOCIATES INC",
+    "state": "MI",
+    "city": "AUBURN HILLS"
+  },
+  {
+    "employer": "MUNTERS CORPORATION",
+    "state": "MA",
+    "city": "AMESBURY"
+  },
+  {
+    "employer": "MURATA ELECTRONICS NORTH AMERICA INC",
+    "state": "GA",
+    "city": "SMYRNA"
+  },
+  {
+    "employer": "MURATA POWER SOLUTIONS INC",
+    "state": "MA",
+    "city": "WESTBOROUGH"
+  },
+  {
+    "employer": "MUREX NORTH AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MURIGENICS INC",
+    "state": "CA",
+    "city": "VALLEJO"
+  },
+  {
+    "employer": "MURPHY-BROWN LLC DBA SMITHFIELD HOG PRODUCTIONS",
+    "state": "VA",
+    "city": "SMITHFIELD"
+  },
+  {
+    "employer": "MURRAY CALLOWAY COUNTY HOSPITAL",
+    "state": "KY",
+    "city": "MURRAY"
+  },
+  {
+    "employer": "MURTHA CULLINA LLP",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "MUSARUBRA US LLC DBA TRELLIX",
+    "state": "CA",
+    "city": "ALVISO"
+  },
+  {
+    "employer": "MUSEUM OF FINE ARTS BOSTON",
+    "state": "MA",
+    "city": "BOSTON"
+  }
+]

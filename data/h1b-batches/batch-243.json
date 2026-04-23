@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "TERILLIUM INC",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "TERKIANA PC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "TERMINIX INTERNATIONAL COMPANY LP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TERNIUM USA INC",
+    "state": "LA",
+    "city": "SHREVEPORT"
+  },
+  {
+    "employer": "TERRA GUIDANCE LLC",
+    "state": "CO",
+    "city": "ENGLEWOOD"
+  },
+  {
+    "employer": "TERRA INFORMATION GROUP INC",
+    "state": "IL",
+    "city": "AURORA"
+  },
+  {
+    "employer": "TERRA MARIN SCHOOL",
+    "state": "CA",
+    "city": "MILL VALLEY"
+  },
+  {
+    "employer": "TERRACE CONSULTING INC",
+    "state": "CA",
+    "city": "LARKSPUR"
+  },
+  {
+    "employer": "TERRACLEAR INC",
+    "state": "WA",
+    "city": "ISSAQUAH"
+  },
+  {
+    "employer": "TERRACON CONSULTANTS INC",
+    "state": "KS",
+    "city": "OLATHE"
+  },
+  {
+    "employer": "TERRAIN STUDIO INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "TERRAWEST CONSERVANCY",
+    "state": "WY",
+    "city": "AFTON"
+  },
+  {
+    "employer": "TERRY MEMORIAL HOSPITAL DISTRICT",
+    "state": "TX",
+    "city": "BROWNFIELD"
+  },
+  {
+    "employer": "TERUKO WEINBERG  INC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "TERUMO AMERICAS HOLDING INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "TERUMO BCT INC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "TERUMO MEDICAL CORPORATION",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "TESCO CONTROLS LLC",
+    "state": "CA",
+    "city": "SACRAMENTO"
+  },
+  {
+    "employer": "TESCRA INC",
+    "state": "CA",
+    "city": "SAN RAMON"
+  },
+  {
+    "employer": "TESLA INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TESOLIFE US INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TESSELLATE A DELAWARE LIMITED LIABILITY COMPANY DBA ADVANTASURE",
+    "state": "MI",
+    "city": "LANSING"
+  },
+  {
+    "employer": "TESSERA DATA INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "TESSERA THERAPEUTICS INC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "TESSOLVEDTS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TESSPAY INC",
+    "state": "FL",
+    "city": "FORT MYERS"
+  },
+  {
+    "employer": "TEST INNOVATORS INC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "TEST PRODUCTS INC",
+    "state": "MI",
+    "city": "STERLING HTS"
+  },
+  {
+    "employer": "TEST TRAIN DEVELOP LLC",
+    "state": "FL",
+    "city": "OCALA"
+  },
+  {
+    "employer": "TEST YANTRA SOFTWARE SOLUTIONS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TESTENGEER INC",
+    "state": "TX",
+    "city": "PORT LAVACA"
+  },
+  {
+    "employer": "TESTINGXPERTS INC DBA DAMCOSOFT",
+    "state": "PA",
+    "city": "MECHANICSBURG"
+  },
+  {
+    "employer": "TETON TRUST COMPANY LLC",
+    "state": "WY",
+    "city": "JACKSON"
+  },
+  {
+    "employer": "TETRA GEN LLC",
+    "state": "WY",
+    "city": "CASPER"
+  },
+  {
+    "employer": "TETRA PAK INC",
+    "state": "TX",
+    "city": "DENTON"
+  },
+  {
+    "employer": "TETRA SYSTEMS LLC",
+    "state": "WA",
+    "city": "WOODINVILLE"
+  },
+  {
+    "employer": "TETRA TECH INC",
+    "state": "CA",
+    "city": "PASADENA"
+  },
+  {
+    "employer": "TETRAFORZASOFT INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "TETRASCIENCE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "TETRASOFT INC",
+    "state": "MO",
+    "city": "CHESTERFIELD"
+  },
+  {
+    "employer": "TETRIQ SOLUTIONS LLC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "TETRUS CORP",
+    "state": "NJ",
+    "city": "E BRUNSWICK"
+  },
+  {
+    "employer": "TEUTONIC TRANSPORTATION LLC",
+    "state": "PA",
+    "city": "SHARON HILL"
+  },
+  {
+    "employer": "TEVA  CONCEPT  LLC",
+    "state": "CA",
+    "city": "COSTA MESA"
+  },
+  {
+    "employer": "TEVA API INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "TEVA BRANDED PHARMACEUTICAL PRODUCTS R D INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "TEVA PHARMACEUTICALS USA INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "TEVA SALES AND MARKETING INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "TEXANS IT SERVICES INC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "TEXARA SOLUTIONS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "TEXAS A M UNIVERSITY KINGSVILLE",
+    "state": "TX",
+    "city": "KINGSVILLE"
+  },
+  {
+    "employer": "TEXAS A&M AGRILIFE RESEARCH",
+    "state": "TX",
+    "city": "COLLEGE STATION"
+  },
+  {
+    "employer": "TEXAS A&M ENGINEERING EXPERIMENT STATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS A&M FOREST SERVICE",
+    "state": "TX",
+    "city": "COLLEGE STATION"
+  },
+  {
+    "employer": "TEXAS A&M INTL UNIV",
+    "state": "TX",
+    "city": "LAREDO"
+  },
+  {
+    "employer": "TEXAS A&M TRANSPORTATION INSTITUTE",
+    "state": "TX",
+    "city": "COLLEGE STA"
+  },
+  {
+    "employer": "TEXAS A&M UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS A&M UNIVERSITY CENTRAL TEXAS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS A&M UNIVERSITY COMMERCE",
+    "state": "TX",
+    "city": "COMMERCE"
+  },
+  {
+    "employer": "TEXAS A&M UNIVERSITY SAN ANTONIO",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "TEXAS BIOMEDICAL RESEARCH INSTITUTE",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "TEXAS CAPITAL BANK",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TEXAS CHILDREN S HOSPITAL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS CHILDREN S PHYSICIAN GROUP DBA TEXAS CHILDREN S PHYSICIAN SERVICES ORGANIZATION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS COMPOUNDING EXPERTS LLC D/B/A GREENPARK COMPOUNDING PHARMACY",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS COUNTY AND DISTRICT RETIREMENT SYSTEM",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS COUNTY MEMORIAL HOSPITAL",
+    "state": "MO",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS DENTAL ASSOCIATES PA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS DEPARTMENT OF INSURANCE",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS EZPAWN L P",
+    "state": "TX",
+    "city": "ROLLINGWOOD"
+  },
+  {
+    "employer": "TEXAS GRASS FED BEEF LLC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS HEALTH AND HUMAN SERVICES COMMISSION",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS HEALTH PHYSICIANS GROUP",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TEXAS HEALTH RESOURCES",
+    "state": "TX",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "TEXAS HEART INSTITUTE",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS HOME HEALTHCARE PARTNERS LP DBA ELARA CARING",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "TEXAS INSTRUMENTS INCORPORATED",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS IPS PLLC",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "TEXAS MOBILE PCS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS MUTUAL INSURANCE COMPANY",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS PIPE AND SUPPLY COMPANY",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXAS SCH FOR THE DEAF",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS STATE UNIVERSITY",
+    "state": "TX",
+    "city": "SAN MARCOS"
+  },
+  {
+    "employer": "TEXAS TECH UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEXAS WINDSTORM INSURANCE ASSOCIATION",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "TEXAS-IBI GROUP INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TEXASOFT IT SOLUTION INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "TEXOLV",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TEXPERTS INC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "TEXPLORERS INC",
+    "state": "TX",
+    "city": "FLOWER MOUND"
+  },
+  {
+    "employer": "TEXPORT FABRICS MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "TEXTILE RESEARCH INSTITUTE DBA TRI PRINCETON",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "TEXTILES FROM EUROPE INC DBA VICTORIA CLASSICS",
+    "state": "NJ",
+    "city": "NORTH BERGEN"
+  },
+  {
+    "employer": "TEXTME INCORPORATED",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TEXTNOW INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "TEXWRAP PACKAGING SYSTEMS LLC",
+    "state": "MO",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "TEZZOPS SOLUTIONS LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TF CUSANELLI AND FILLETTI ARCHITECTS",
+    "state": "NJ",
+    "city": "HAWORTH"
+  },
+  {
+    "employer": "TFC CONSULTING INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "TFCF ENTERTAINMENT GROUP LLC INDIRECT SUBSIDIARY OF THE WALT DISNEY COMPANY",
+    "state": "CA",
+    "city": "BURBANK"
+  }
+]

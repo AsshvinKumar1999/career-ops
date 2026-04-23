@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "TEAM WENDY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TEAM94",
+    "state": "NJ",
+    "city": "ROSELAND"
+  },
+  {
+    "employer": "TEAMITSERVE INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TEAMSUCCESS LLC DBA HIED SUCCESS",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "TEAMWORK IT SOLUTIONS INC",
+    "state": "CT",
+    "city": "DANBURY"
+  },
+  {
+    "employer": "TEAMWORK SPEECH THERAPY INC",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "TEC GROUP INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "TEC5USA INC",
+    "state": "NY",
+    "city": "PLAINVIEW"
+  },
+  {
+    "employer": "TECAN GENOMICS INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "TECH  ORBIT LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "TECH ABSTRACTOR LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TECH AMERICA CONSULTING INC",
+    "state": "TX",
+    "city": "ALLEN"
+  },
+  {
+    "employer": "TECH APEX SOLUTIONS INC",
+    "state": "MI",
+    "city": "FARMINGTN HLS"
+  },
+  {
+    "employer": "TECH BRAINS SOLUTIONS INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "TECH CLUB INC",
+    "state": "IL",
+    "city": "LINCOLNSHIRE"
+  },
+  {
+    "employer": "TECH DATA CORPORATION",
+    "state": "FL",
+    "city": "CLEARWATER"
+  },
+  {
+    "employer": "TECH DELEGATES INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "TECH DYNAMIX IT SERVICES LLC",
+    "state": "MA",
+    "city": "WESTBOROUGH"
+  },
+  {
+    "employer": "TECH ETERNITY CORP",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "TECH FABRIC LLC",
+    "state": "AZ",
+    "city": "GILBERT"
+  },
+  {
+    "employer": "TECH GLOBAL LLC",
+    "state": "TX",
+    "city": "ALLEN"
+  },
+  {
+    "employer": "TECH INSPIRON LLC",
+    "state": "PA",
+    "city": "BALA CYNWYD"
+  },
+  {
+    "employer": "TECH IT SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECH JOB AID LLC",
+    "state": "NC",
+    "city": "FUQUAY VARINA"
+  },
+  {
+    "employer": "TECH KART LLC",
+    "state": "IN",
+    "city": "SOUTH BEND"
+  },
+  {
+    "employer": "TECH MAHINDRA AMERICAS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECH MAHINDRA CERIUM SYSTEMS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TECH MAHINDRA NETWORK SERVICES INTERNATIONAL INC FORMERLY LLC INTERNATIONAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECH MAHINDRA TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "BEDMINSTER"
+  },
+  {
+    "employer": "TECH NET INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECH PUNDITS INC",
+    "state": "NJ",
+    "city": "N BRUNSWICK"
+  },
+  {
+    "employer": "TECH RABBIT INC DBA TECH FIREFLY",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "TECH RAKERS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECH SMART SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "TECH TALENT LLC",
+    "state": "CO",
+    "city": "COLORADO SPRINGS"
+  },
+  {
+    "employer": "TECH TAMMINA LLC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "TECH20 SOLUTIONS INC",
+    "state": "MD",
+    "city": "GERMANTOWN"
+  },
+  {
+    "employer": "TECHAFFINITY COSULTING INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "TECHAFFINITY INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "TECHAHEAD INC",
+    "state": "CA",
+    "city": "AGOURA HILLS"
+  },
+  {
+    "employer": "TECHAHOLIC SOFT LLC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "TECHALPHA LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "TECHASPECT SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECHBITS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TECHBOW LLC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "TECHCHOIR INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "TECHCOMP USA INC DBA SCION INSTRUMENTS",
+    "state": "MD",
+    "city": "FULTON"
+  },
+  {
+    "employer": "TECHCONNECT INC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "TECHDAPT LLC",
+    "state": "TX",
+    "city": "SOUTHLAKE"
+  },
+  {
+    "employer": "TECHDATA SERVICE COMPANY LLC",
+    "state": "PA",
+    "city": "KING OF PRUSSIA"
+  },
+  {
+    "employer": "TECHDEMOCRACY LLC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "TECHDIGITAL CORPORATION",
+    "state": "MN",
+    "city": "BURNSVILLE"
+  },
+  {
+    "employer": "TECHEMPO INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TECHFIELD LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "TECHFIOS INCORPORATED",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "TECHFLURRY SOLUTIONS LLC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "TECHGENE SOLUTIONS LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TECHGIRD SYSTEMS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "TECHGLOBAL SYSTEMS INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "TECHGLOBE INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TECHGRID INC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "TECHGROUP AMERICA INC",
+    "state": "NY",
+    "city": "BALDWIN"
+  },
+  {
+    "employer": "TECHIE ASSOCIATES LLC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "TECHIE BRAINS INCORPORATED",
+    "state": "IL",
+    "city": "MCLEAN"
+  },
+  {
+    "employer": "TECHILA GLOBAL SERVICES LLC",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "TECHINTELLI SOLUTIONS INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "TECHIONS LLC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "TECHIQ SOLUTIONS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TECHJORDAN LLC",
+    "state": "MI",
+    "city": "BELLEVILLE"
+  },
+  {
+    "employer": "TECHKUBER LLC",
+    "state": "LA",
+    "city": "METAIRIE"
+  },
+  {
+    "employer": "TECHLANCE IT INC",
+    "state": "TX",
+    "city": "MISSOURI CITY"
+  },
+  {
+    "employer": "TECHLANCE SOLUTIONS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TECHLIGENT SYSTEMS INC",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "TECHLOGIX INC",
+    "state": "MA",
+    "city": "WOBURN"
+  },
+  {
+    "employer": "TECHLONG INTERNATIONAL",
+    "state": "GA",
+    "city": "SUWANEE"
+  },
+  {
+    "employer": "TECHMAGIX",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TECHMATRIX INC",
+    "state": "NJ",
+    "city": "NORTH BRUNSWICK"
+  },
+  {
+    "employer": "TECHMETICS ROBOTICS LLC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "TECHMETRO LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "TECHMILEAGE SOFTWARE SOLUTIONS LLC DBA SCIATA",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "TECHMIND SOFTWARE SOLUTIONS LLC",
+    "state": "NH",
+    "city": "NASHUA"
+  },
+  {
+    "employer": "TECHMINDS GROUP LLC",
+    "state": "NJ",
+    "city": "PLAINSBORO"
+  },
+  {
+    "employer": "TECHMINERS LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "TECHMORGONITE SOFTWARE SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECHMYNDS INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "TECHNAMO LLC",
+    "state": "VA",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "TECHNICA ENGINEERING INC",
+    "state": "MI",
+    "city": "WATERFORD"
+  },
+  {
+    "employer": "TECHNICAL & BUSINESS CONSULTING LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECHNICAL MANUFACTURING CORPORATION",
+    "state": "MA",
+    "city": "PEABODY"
+  },
+  {
+    "employer": "TECHNICAL STRATEGIES INC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "TECHNICAL TOOLBOXES POWERTOOLS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TECHNICOLOR CONNECTED HOME USA LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TECHNICOLOR CREATIVE SERVICES USA INC",
+    "state": "CA",
+    "city": "CULVER CITY"
+  },
+  {
+    "employer": "TECHNICON DESIGN CORPORATION",
+    "state": "CA",
+    "city": "LAGUNA NIGUEL"
+  },
+  {
+    "employer": "TECHNIKONS INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "TECHNILIGERNT INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "TECHNIP ENERGIES USA INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TECHNIPFMC USA INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TECHNIPROS LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "TECHNIQORE SOLUTIONS INC",
+    "state": "NJ",
+    "city": "MATAWAN"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "A4G SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "MONMOUTH JN"
+  },
+  {
+    "employer": "A4SOFTECH LLC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "A5 LABS INC",
+    "state": "CA",
+    "city": "FOSTER CITY"
+  },
+  {
+    "employer": "A52 LLC DBA ELASTIC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "A9.COM INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AA & SA ENTERPRISES INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AA & TC INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "AA SOFTWARE & NETWORKING INC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "AA SOLUTIONS INC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "AA TECH GROUP LLC",
+    "state": "CO",
+    "city": "PARKER"
+  },
+  {
+    "employer": "AAA AMERICAN CPA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "AAA CLUB ALLIANCE INC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "AAA GLOBAL TECHNOLOGIES LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "AAA LIFE INSURANCE COMPANY",
+    "state": "MI",
+    "city": "LIVONIA"
+  },
+  {
+    "employer": "AAA TEXAS LLC",
+    "state": "CA",
+    "city": "COSTA MESA"
+  },
+  {
+    "employer": "AAA VIRGINIA CONSULTING INC",
+    "state": "VA",
+    "city": "LEESBURG"
+  },
+  {
+    "employer": "AABACO HOLDINGS LTD",
+    "state": "IA",
+    "city": "GRUNDY CENTER"
+  },
+  {
+    "employer": "AABAN SOLUTIONS LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AABC TRAVELS INC.",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AABRAR INC DBA CASTRO VALLEY ANIMAL HOSPITAL",
+    "state": "CA",
+    "city": "CASTRO VALLEY"
+  },
+  {
+    "employer": "AAD IT SOLUTION LLC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "AADHYA INFOTECH LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "AADIYA CONSULTING LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AAJ TRAVEL TOUR INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "AAMP OF FLORIDA INC",
+    "state": "FL",
+    "city": "CLEARWATER"
+  },
+  {
+    "employer": "AANEEL INFOTECH LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "AARAV SOLUTIONS INC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "AARETE LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AARISHA INC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "AARKAY CONSULTING INC",
+    "state": "NJ",
+    "city": "EAST BRUNSWICK"
+  },
+  {
+    "employer": "AARNA PRIYA INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "AARNA TECHNOLOGIES LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AARNAV IT CONSULTING LLC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "AARP",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AART VENTURES PC",
+    "state": "MA",
+    "city": "SHREWSBURY"
+  },
+  {
+    "employer": "AARYAN LLC",
+    "state": "MD",
+    "city": "UPPER MARLBORO"
+  },
+  {
+    "employer": "AASHRIT HOLDINGS LLC",
+    "state": "WY",
+    "city": "CASPER"
+  },
+  {
+    "employer": "AASRITA CONSULTING LLC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "AASYMTECH INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AAVAS INC",
+    "state": "NJ",
+    "city": "PARLIN"
+  },
+  {
+    "employer": "AAXA TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "AAXY LLC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "AB CARVAL INVESTORS LP",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "AB CONSULTANTS INC",
+    "state": "MD",
+    "city": "LANHAM"
+  },
+  {
+    "employer": "AB INFOTEK LLC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "AB OVO INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "AB SCILEX LLC DBA SIEX",
+    "state": "MA",
+    "city": "FRAMINGHAM"
+  },
+  {
+    "employer": "AB STAR GROUP",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "AB TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AB2 CONSULTING INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABAB SOLUTIONS INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "ABACUS AI INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "ABACUS BUILDERS GENERAL CONTRACTORS INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "ABACUS INSIGHTS INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "ABACUS PLANNING GROUP INC",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "ABACUS SERVICE CORPORATION",
+    "state": "MI",
+    "city": "SOUTHFIELD"
+  },
+  {
+    "employer": "ABAGY ROBOTIC SYSTEMS INC.",
+    "state": "IL",
+    "city": "WHEELING"
+  },
+  {
+    "employer": "ABAL TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "HAMILTON"
+  },
+  {
+    "employer": "ABALINE PAPER PRODUCTS",
+    "state": "NJ",
+    "city": "BAYONNE"
+  },
+  {
+    "employer": "ABB E-MOBILITY INC",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "ABB INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABB MOTORS AND MECHANICAL INC",
+    "state": "AR",
+    "city": "FORT SMITH"
+  },
+  {
+    "employer": "ABBOTT CONSTRUCTION LLC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "ABBOTT DIABETES CARE INC AN ABBOTT LABORATORIES COMPANY",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBOTT DIAGNOSTICS SCARBOROUGH INC AN ABBOTT LABORATORIES COMPANY",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBOTT LABORATORIES",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBOTT LABORATORIES INC AN ABBOTT LABORATORIES COMPANY",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBOTT MOLECULAR INC ABBOTT LABORATORIES COMPANY",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBOTT RAPID DIAGNOSTICS INFORMATICS INC AN ABBOTT LABORATORIES COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABBOTT RAPID DX NORTH AMERICA LLC AN ABBOTT LABORATORIES COMPANY",
+    "state": "IL",
+    "city": "ABBOTT PARK"
+  },
+  {
+    "employer": "ABBVIE BIOTHERAPEUTICS INC AN ABBVIE INC COMPANY",
+    "state": "IL",
+    "city": "NORTH CHICAGO"
+  },
+  {
+    "employer": "ABBVIE INC",
+    "state": "IL",
+    "city": "NORTH CHICAGO"
+  },
+  {
+    "employer": "ABBVIE US LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABC ACCOUNTING AND TAX SERVICES",
+    "state": "CA",
+    "city": "DIAMOND BAR"
+  },
+  {
+    "employer": "ABC FITNESS SOLUTIONS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "ABC LEGAL SERVICES LLC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "ABC SUPPLY CORPORATION INC",
+    "state": "WI",
+    "city": "BELOIT"
+  },
+  {
+    "employer": "ABCLONAL SCIENCE INC",
+    "state": "MA",
+    "city": "WOBURN"
+  },
+  {
+    "employer": "ABD INSURANCE AND FINANCIAL SERVICES INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "ABD SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABDEV SOLUTIONS INC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "ABDUL MEMON MD PLLC DBA CARDIOVASCULAR ASSOIATES OF ARIZONA",
+    "state": "AZ",
+    "city": "GLOBE"
+  },
+  {
+    "employer": "ABEC INC",
+    "state": "PA",
+    "city": "BETHLEHEM"
+  },
+  {
+    "employer": "ABENA NORTH AMERICA INC",
+    "state": "CA",
+    "city": "SAN MARCOS"
+  },
+  {
+    "employer": "ABERCROMBIE & FITCH MANAGEMENT CO",
+    "state": "OH",
+    "city": "NEW ALBANY"
+  },
+  {
+    "employer": "ABG HR LLC DBA AUTHENTIC BRANDS GROUP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "ABG OPERATING LLC DBA AMERICAN BATH GROUP LLC",
+    "state": "TN",
+    "city": "SAVANNAH"
+  },
+  {
+    "employer": "ABHAY SOLUTIONS INC",
+    "state": "IL",
+    "city": "AURORA"
+  },
+  {
+    "employer": "ABHYANTH SOLUTIONS INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "ABI ENGINEERING CONSULTANTS, INC",
+    "state": "CA",
+    "city": "SANTA ANA"
+  },
+  {
+    "employer": "ABILENECHRISTIAN UNIVERSITY",
+    "state": "TX",
+    "city": "ABILENE"
+  },
+  {
+    "employer": "ABILITY WORKS REHAB SERVICES LLC",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "ABINE INC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "ABINFOTECHNOLOGIES LLC",
+    "state": "CA",
+    "city": "SANTA CLARITA"
+  },
+  {
+    "employer": "ABINGTON MEMORIAL HOSPITAL DBA JEFFERSON HEALTH ABINGTON HOSPITAL",
+    "state": "DE",
+    "city": "DOVER"
+  },
+  {
+    "employer": "ABINTRA MONTESSORI SCHOOL",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "ABIO-X HOLDINGS INC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "ABIOMED INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "ABJAYON INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "ABLAMSKY COMPANY CPAS LLC",
+    "state": "NY",
+    "city": "PORT WASHINGTON"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "DAYTOWN REALTY LLC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "DAZ PRODUCTIONS INC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "DAZZLERS TOPPERS PTL INC",
+    "state": "MI",
+    "city": "WEST BLOOMFIELD"
+  },
+  {
+    "employer": "DAZZLON COMPUTER SERVICES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DB ADMINISTRATIVE SERVICES INC",
+    "state": "CT",
+    "city": "NORWALK"
+  },
+  {
+    "employer": "DB GLOBAL TECHNOLOGY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DB USA CORE CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DBB ARCHITECTURE PC",
+    "state": "NY",
+    "city": "WHITE PLAINS"
+  },
+  {
+    "employer": "DBF TECHNOLOGIES INC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "DBI PROJECTS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DBM VIRCON SERVICES USA INC",
+    "state": "AZ",
+    "city": "TEMPE"
+  },
+  {
+    "employer": "DBR ENGINEERING CONSULTANTS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "DBS BANK LTD",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DBT LABS INC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DC BILINGUAL PUBLIC CHARTER SCHOOL",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "DC CAPITAL PARTNERS MANAGEMENT LP",
+    "state": "VA",
+    "city": "ALEXANDRIA"
+  },
+  {
+    "employer": "DC GROUP INC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "DC HEALTH BENEFIT EXCHANGE AUTH",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "DC INTEGRATE INC",
+    "state": "CA",
+    "city": "CITY OF INDUSTRY"
+  },
+  {
+    "employer": "DC INTERNATIONAL GROUP INC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "DCB AND ASSOCIATES LLC D/B/A CENTURY 21 CITYSIDE",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "DCI CONSULTING GROUP INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "DCI MANUFACTURING DBA DISPLAYCRAFT",
+    "state": "GA",
+    "city": "DALTON"
+  },
+  {
+    "employer": "DCM INFOTECH LIMITED",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "DCM MANAGEMENT INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "DCP SERVICES LLC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "DCS SOLUTIONS CORPORATION",
+    "state": "PA",
+    "city": "ALLENTOWN"
+  },
+  {
+    "employer": "DCUBE DATA SCIENCES CORPORATION",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "DCUBE SOLUTIONS INC",
+    "state": "NC",
+    "city": "RESEARCH TRIANGLE PA"
+  },
+  {
+    "employer": "DD DANNAR LLC",
+    "state": "IN",
+    "city": "MUNCIE"
+  },
+  {
+    "employer": "DD&B CONSTRUCTION INC",
+    "state": "MD",
+    "city": "GAITHERSBURG"
+  },
+  {
+    "employer": "DDB CHICAGO INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "DDC TECHNOLOGIES INC",
+    "state": "NY",
+    "city": "OCEANSIDE"
+  },
+  {
+    "employer": "DDH NORTH AMERICA INC",
+    "state": "TX",
+    "city": "PEARLAND"
+  },
+  {
+    "employer": "DE AMERTEK CORPORATION INC",
+    "state": "IL",
+    "city": "LOMBARD"
+  },
+  {
+    "employer": "DE CORP",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "DE GROOT BRIL EARTH SCIENCES USA LLC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "DE LAGE LANDEN FINANCIAL SERVICES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DE NORA WATER TECHNOLOGIES TEXAS LLC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "DE ZAVALA DENTISTRY AND ORTHODONTICS PLLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DEACONESS ILLINOIS SPECIALTY CLINIC INC",
+    "state": "IN",
+    "city": "EVANSVILLE"
+  },
+  {
+    "employer": "DEALERDIRECT LLC D B A FORDDIRECT",
+    "state": "MI",
+    "city": "DEARBORN"
+  },
+  {
+    "employer": "DEALERSOCKET INC",
+    "state": "TX",
+    "city": "ROANOKE"
+  },
+  {
+    "employer": "DEALEXPRESS LLC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "DEALLUS CONSULTING INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DEAN HEALTH SYSTEMS INC",
+    "state": "WI",
+    "city": "MADISON"
+  },
+  {
+    "employer": "DEAN SAKAMOTO ARCHITECTS LLC",
+    "state": "HI",
+    "city": "HONOLULU"
+  },
+  {
+    "employer": "DEANS ARCHER CO CPAS",
+    "state": "NY",
+    "city": "LYNBROOK"
+  },
+  {
+    "employer": "DEARBORN FAMILY SMILES PLLC",
+    "state": "MI",
+    "city": "DEARBORN"
+  },
+  {
+    "employer": "DEBEVOISE PLIMPTON LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DEBIAN SYSTEMS INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "DEBORAH BRADLEY CONSTRUCTION MANAGEMENT SERVICES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DECALOGUE INC",
+    "state": "MD",
+    "city": "CLARKSBURG"
+  },
+  {
+    "employer": "DECATUR MEMORIAL HOSPITAL",
+    "state": "IL",
+    "city": "DECATUR"
+  },
+  {
+    "employer": "DECCO US POST HARVEST INC",
+    "state": "CA",
+    "city": "MONROVIA"
+  },
+  {
+    "employer": "DECENT US GROUP HOLDINGS LIMITED",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "DECEUNINCK NORTH AMERICA LLC",
+    "state": "OH",
+    "city": "MONROE"
+  },
+  {
+    "employer": "DECHEN CONSULTING GROUP INC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "DECHERT LLP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DECIMAL HEALTH LLC",
+    "state": "CA",
+    "city": "FAIRFIELD"
+  },
+  {
+    "employer": "DECIPHER SOFTWARE SOLUTIONS LLC",
+    "state": "FL",
+    "city": "CLEARWATER"
+  },
+  {
+    "employer": "DECIPHERA PHARMACEUTICALS LLC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "DECISION LENS INC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "DECISION LLC",
+    "state": "VA",
+    "city": "VIRGINIA BEACH"
+  },
+  {
+    "employer": "DECISION MINDS INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "DECISION READY SOLUTIONS INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "DECISION RESEARCH CORPORATION",
+    "state": "HI",
+    "city": "HONOLULU"
+  },
+  {
+    "employer": "DECISION RESOURCES LLC D/B/A CLARIVATE",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "DECISION SIX INC",
+    "state": "PA",
+    "city": "NEWTOWN SQ"
+  },
+  {
+    "employer": "DECISIONWAVE TECHNOLOGIES INC",
+    "state": "NH",
+    "city": "BEDFORD"
+  },
+  {
+    "employer": "DECITECH CONSULTING INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "DECKED LLC",
+    "state": "ID",
+    "city": "KETCHUM"
+  },
+  {
+    "employer": "DECKERS OUTDOOR CORPORATION",
+    "state": "CA",
+    "city": "GOLETA"
+  },
+  {
+    "employer": "DECODE DIGITAL MARKETING LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "DECOFRUT INC",
+    "state": "NJ",
+    "city": "GLOUCESTER CITY"
+  },
+  {
+    "employer": "DECORATIVE FLOORING LLC",
+    "state": "TX",
+    "city": "STAFFORD"
+  },
+  {
+    "employer": "DECORMATTERS INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "DECOSTAR INDUSTRIES INC",
+    "state": "GA",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "DEDICATED PHYSICIANS GROUP OF MICHIGAN PLLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "DEDICATED SENIOR MEDICAL CENTERS OF FLORIDA LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DEDICATED TECH SERVICES INC",
+    "state": "OH",
+    "city": "DUBLIN"
+  },
+  {
+    "employer": "DEDICATED TO WOMEN OB GYN PA",
+    "state": "DE",
+    "city": "DOVER"
+  },
+  {
+    "employer": "DEDRONE HOLDINGS INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "DEEBECON INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DEEL INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DEEMSYS INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "DEEP BLUE AQUATICS INC",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "DEEP ENTERPRISES INC",
+    "state": "TX",
+    "city": "CLINT"
+  },
+  {
+    "employer": "DEEP FOODS INC",
+    "state": "NJ",
+    "city": "UNION"
+  },
+  {
+    "employer": "DEEP INSIGHT SOLUTIONS INC DBA BLATTNER TECHNOLOGIES",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "DEEPBD INC",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "DEEPCAL INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "DEEPCURE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "DEEPFRAUD TECHNOLOGIES INC DBA EVOLUTIONIQ",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DEEPHAVEN",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DEEPNET COMPUTER CONSULTING LLC",
+    "state": "CA",
+    "city": "SANTA ROSA"
+  },
+  {
+    "employer": "DEEPROUTE.AI LTD",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DEEPSCRIBE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DEER MANAGEMENT CO LLC DBA BESSEMER VENTURE PARTNERS LP",
+    "state": "NY",
+    "city": "LARCHMONT"
+  },
+  {
+    "employer": "DEERE AND COMPANY",
+    "state": "",
+    "city": ""
+  }
+]

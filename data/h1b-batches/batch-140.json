@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "LAMBDANETS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "LAMBDANETS SERVICES LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "LAMESA DENTAL",
+    "state": "TX",
+    "city": "LAMESA"
+  },
+  {
+    "employer": "LAMI GRUBB MANAGEMENT SERVICES INC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "LAMPS PLUS INC",
+    "state": "CA",
+    "city": "CHATSWORTH"
+  },
+  {
+    "employer": "LANCASTER GENERAL HOSPITAL",
+    "state": "PA",
+    "city": "LANCASTER"
+  },
+  {
+    "employer": "LANCASTER REGIONAL HOSPITAL LP D/B/A CRESCENT MEDICAL CENTER LANCASTER",
+    "state": "TX",
+    "city": "LANCASTER"
+  },
+  {
+    "employer": "LANCESOFT INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "LANCO GLOBAL SYSTEMS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "LAND O LAKES INC",
+    "state": "MN",
+    "city": "ARDEN HILLS"
+  },
+  {
+    "employer": "LANDDESIGN INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "LANDING AI US CORP",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "LANDIS GYR TECHNOLOGY INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "LANDMARK GRAFIX INC DBA LANDMARK GRAFIX",
+    "state": "CA",
+    "city": "SAN LEANDRO"
+  },
+  {
+    "employer": "LANDMARK GRAPHICS CORPORATION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "LANDMARK TITLE SERVICES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "LANDOR FITCH LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LANDRY DESIGN GROUP, INC.",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "LANDS END INC",
+    "state": "WI",
+    "city": "DODGEVILLE"
+  },
+  {
+    "employer": "LANDSCAPE STRUCTURES INC",
+    "state": "MN",
+    "city": "DELANO"
+  },
+  {
+    "employer": "LANE BRYANT BRANDS OPCO LLC",
+    "state": "OH",
+    "city": "PATASKALA"
+  },
+  {
+    "employer": "LANG ARCHITECTURE LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LANGAN ENGINEERING AND ENVIRONMENTAL SERVICES INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "LANGAN ENGINEERING ENVIRONMENTAL SURVEYING LANDSCAPE ARCHITECTURE AND GEOLOGY DPC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "LANGE STRUCTURAL GROUP LLC",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "LANGSTON UNIVERSITY",
+    "state": "OK",
+    "city": "LANGSTON"
+  },
+  {
+    "employer": "LANI CITY MEDICAL",
+    "state": "CA",
+    "city": "RANCHO CUCAMONGA"
+  },
+  {
+    "employer": "LANKENAU INSTITUTE FOR MEDICAL RESEARCH",
+    "state": "PA",
+    "city": "WYNNEWOOD"
+  },
+  {
+    "employer": "LANNER ELECTRONICS USA INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "LANSHENG NEW YORK INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LANTHEUS MEDICAL IMAGING INC",
+    "state": "MA",
+    "city": "NORTH BILLERICA"
+  },
+  {
+    "employer": "LANTUUN DOHIO",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "LANVERA LTD",
+    "state": "TX",
+    "city": "COPPELL"
+  },
+  {
+    "employer": "LANXESS CORPORATION",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "LANZATECH INC",
+    "state": "IL",
+    "city": "SKOKIE"
+  },
+  {
+    "employer": "LAREDO LABS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "LAREDO PHYSICIANS GROUP",
+    "state": "TX",
+    "city": "LAREDO"
+  },
+  {
+    "employer": "LARES IT SOLUTIONS INC",
+    "state": "MD",
+    "city": "GERMANTOWN"
+  },
+  {
+    "employer": "LARGETON INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "LARK TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "LARKEN ASSOCIATES LP",
+    "state": "NJ",
+    "city": "BRANCHBURG"
+  },
+  {
+    "employer": "LARRABEE AIR CONDITIONING INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "LARRAINVIAL SECURITIES US LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "LARSON DARBY INC",
+    "state": "IL",
+    "city": "ROCKFORD"
+  },
+  {
+    "employer": "LAS CRUCES PHYSICIAN PRACTICES LLC",
+    "state": "NM",
+    "city": "LAS CRUCES"
+  },
+  {
+    "employer": "LAS CRUCES PHYSICIAN SERVICES",
+    "state": "NM",
+    "city": "LAS CRUCES"
+  },
+  {
+    "employer": "LAS CUMBRES OBSERVATORY GLOBAL TELESCOPE NETWORK",
+    "state": "CA",
+    "city": "GOLETA"
+  },
+  {
+    "employer": "LASAI TECHNOLOGIES LLC DBA DIGITECH LABS",
+    "state": "WA",
+    "city": "REDMOND"
+  },
+  {
+    "employer": "LASH ME INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "LASSO LABS INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "LAST CHANCE MANUFACTURING LLC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "LAST FRONTIER HEALTHCARE DISTRICT DBA MODOC MEDICAL CENTER",
+    "state": "CA",
+    "city": "ALTURAS"
+  },
+  {
+    "employer": "LAST WORD CONSULTING INC",
+    "state": "NJ",
+    "city": "LAUREL SPRINGS"
+  },
+  {
+    "employer": "LAST9 INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "LATAM AIRLINES GROUP SA",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "LATCH SYSTEMS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LATENTAI INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "LATENTVIEW ANALYTICS CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "LATHAM AND WATKINS LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LATHAM BIOPHARM GROUP LLC",
+    "state": "MD",
+    "city": "ELKRIDGE"
+  },
+  {
+    "employer": "LATHAM POOL PRODUCTS INC",
+    "state": "NY",
+    "city": "LATHAM"
+  },
+  {
+    "employer": "LATHIA INVESTMENTS LLC  DBA LITECH SOLUTION",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "LATHIA INVESTMENTS, LLC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "LATICRETE INTERNATIONAL INC",
+    "state": "CT",
+    "city": "BETHANY"
+  },
+  {
+    "employer": "LATINO COMMUNITY FUND INC. D/B/A LCF GEORGIA",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "LATINOS Y MAS RESTAURANT LLC",
+    "state": "FL",
+    "city": "OCALA"
+  },
+  {
+    "employer": "LATITUDE AI LLC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "LATITUDE LLC",
+    "state": "TN",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "LATITUDE THIRTY SIX INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "LATOUR TRADING LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LATTICE SEMICONDUCTOR CORP",
+    "state": "OR",
+    "city": "HILLSBORO"
+  },
+  {
+    "employer": "LAUFSED LLC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "LAUNCH IT CORP",
+    "state": "IA",
+    "city": "URBANDALE"
+  },
+  {
+    "employer": "LAURAL HOME LLC",
+    "state": "NJ",
+    "city": "CRESSKILL"
+  },
+  {
+    "employer": "LAURENS COUNTY SCHOOL DISTRICT 55",
+    "state": "SC",
+    "city": "LAURENS"
+  },
+  {
+    "employer": "LAURIA CRISCLONE NETWORKS INC DBA LCN CONSULTING INC",
+    "state": "NJ",
+    "city": "WEST CALDWELL"
+  },
+  {
+    "employer": "LAURION CAPITAL MANAGEMENT LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAUSD STUDENT HEALTH SUPPORT SERVICES FUND DBA THE L A TRUST FOR CHILDREN S HEALTH",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "LAVACA HOSPITAL DISTRICT",
+    "state": "TX",
+    "city": "HALLETTSVILLE"
+  },
+  {
+    "employer": "LAVAZZA NORTH AMERICA INC",
+    "state": "PA",
+    "city": "WEST CHESTER"
+  },
+  {
+    "employer": "LAVENDER LANDSCAPE DESIGN CO LLC",
+    "state": "AZ",
+    "city": "TEMPE"
+  },
+  {
+    "employer": "LAVSUN TECHNOLOGIES INC",
+    "state": "TX",
+    "city": "PROSPER"
+  },
+  {
+    "employer": "LAW OFFICE OF ANDREA J. FERRARA D/B/A FERRARA LAW OFFICE",
+    "state": "MI",
+    "city": "ROSEVILLE"
+  },
+  {
+    "employer": "LAW OFFICE OF ANIL JETHMALANI PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICE OF JEREMY D MORLEY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICE OF MARCIA I PEREZ",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "LAW OFFICE OF ROBERT B JOBE",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "LAW OFFICE OF XIAOMIN HU P C",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "LAW OFFICES OF ANDREW PARK PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICES OF BARRY COHEN PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICES OF BINDU SANJEEVKUMAR PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICES OF CHEN AND ASSOCIATES PC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "LAW OFFICES OF DAVID Z SU",
+    "state": "CA",
+    "city": "WEST COVINA"
+  },
+  {
+    "employer": "LAW OFFICES OF KIM ASSOCIATES PC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "LAW OFFICES OF LORCAN SHANNON PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "LAW OFFICES OF PETER MCNULTY DBA MCNULTY LAW FIRM",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "LAW OFFICES OF RAKESH MEHROTRA INC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "LAW OFFICES OF REUBEN YEROUSHALAMI A PROF. CORP",
+    "state": "CA",
+    "city": "BEVERLY HILLS"
+  },
+  {
+    "employer": "LAW OFFICES OF SHENGJIN YANG",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "LAW OFFICES OF SUSHEELA VERMA",
+    "state": "NJ",
+    "city": "ISELIN"
+  }
+]

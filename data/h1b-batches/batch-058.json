@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "COMSOL INC",
+    "state": "MA",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "COMSYS TECHNOLOGIES INC",
+    "state": "MN",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "COMTEC CONSULTANTS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "COMTEK GLOBAL INC DBA CENTILLIONZ",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "COMTRIX SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONAGRA BRANDS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONCAT SYSTEMS INC",
+    "state": "IA",
+    "city": "URBANDALE"
+  },
+  {
+    "employer": "CONCENTRA SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONCENTRIC SOFTWARE INC",
+    "state": "CA",
+    "city": "SARATOGA"
+  },
+  {
+    "employer": "CONCENTRIX CVG CORPORATION",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "CONCENTRIX CVG CUSTOMER MANAGEMENT GROUP INC",
+    "state": "OR",
+    "city": "BEAVERTON"
+  },
+  {
+    "employer": "CONCEPT ART HOUSE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "CONCEPT ELEVATOR GROUP LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "CONCEPT SCHOOLS NFP DBA HSA MCKINL",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "CONCEPT SOFTWARE AND SERVICES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "CONCEPTION BIOSCIENCES INC",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "CONCEPTS INFORMATION TECHNOLOGY INC",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "CONCEPTUAL MINDS INC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "CONCERT TECH CORPORATION",
+    "state": "VA",
+    "city": "LEESBURG"
+  },
+  {
+    "employer": "CONCERTOCARE MEDICAL GROUP OF CALIFORNIA PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "CONCH TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONCIERGE AUCTIONS LLC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "CONCOR IT SOLUTIONS INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "CONCORD ENGINEERING, INC.",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "CONCORD HOSPITAL",
+    "state": "NH",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "CONCORD HOSPITAL LACONIA",
+    "state": "NH",
+    "city": "LACONIA"
+  },
+  {
+    "employer": "CONCORD USA LLC",
+    "state": "MN",
+    "city": "HOPKINS"
+  },
+  {
+    "employer": "CONCORDIA COLLEGE",
+    "state": "MN",
+    "city": "MOORHEAD"
+  },
+  {
+    "employer": "CONCORDIA UNIVERSITY ST PAUL",
+    "state": "MN",
+    "city": "SAINT PAUL"
+  },
+  {
+    "employer": "CONCRETE AI INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "CONCUR CONSTRUCTION LLC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "CONCUR TECHNOLOGIES INC",
+    "state": "PA",
+    "city": "NEWTOWN SQUARE"
+  },
+  {
+    "employer": "CONCURRENCY INC",
+    "state": "WI",
+    "city": "BROOKFIELD"
+  },
+  {
+    "employer": "CONDORES ARCHITECTURAL DESIGN LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "CONDUCTOR LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "CONDUCTORONE INC",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "CONDUENT BUSINESS PROCESS OPTIMIZATION SERVICES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONDUENT BUSINESS SERVICES LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT CARE SOLUTIONS LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT COMMERCIAL SOLUTIONS LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT CREDIT BALANCE SOLUTIONS LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT EDUCATION SERVICES LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT HR SERVICES LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT HUMAN RESOURCE SERVICES LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT LEGAL & COMPLIANCE SOLUTIONS LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT PATIENT ACCESS SOLUTIONS LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT PUBLIC HEALTH SOLUTIONS INC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT STATE & LOCAL SOLUTIONS INC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT STATE HEALTHCARE LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUENT TRANSPORT SOLUTIONS INC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "CONDUIT CONSULTANCY SERVICES LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "CONEBEAM IMAGING LLC",
+    "state": "NY",
+    "city": "GREAT NECK"
+  },
+  {
+    "employer": "CONEXUS MEDSTAFF LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "CONEXUS SOLUTIONS INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "CONFI DENTAL LLC",
+    "state": "CT",
+    "city": "WALLINGFORD"
+  },
+  {
+    "employer": "CONFIDENCE INTERVAL LLC",
+    "state": "CO",
+    "city": "BROOMFIELD"
+  },
+  {
+    "employer": "CONFIDENCE SYSTEMS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "CONFIMINDS LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "CONFIZ LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "CONFLUENCE INC",
+    "state": "IA",
+    "city": "DES MOINES"
+  },
+  {
+    "employer": "CONFLUENCE TECHNOLOGIES INC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "CONFLUENT INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "CONFLUX SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONFORMIS INC",
+    "state": "MA",
+    "city": "BILLERICA"
+  },
+  {
+    "employer": "CONGENSYS CORP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONGENT HEALTHCARE OF IOWA P C D B A SOUND PHYSICIANS OF IOWA II",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "CONGLOMERATE IT SERVICES INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "CONGLOMERATEIT LLC",
+    "state": "TX",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "CONIFER SYSTEMS INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "CONJECTURE CONSULTING INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "CONJECTURE CONSULTING LLC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "CONN APPLIANCES INC DBA CONNS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONNECT AMERICA.COM LLC",
+    "state": "PA",
+    "city": "BALA CYNWYD"
+  },
+  {
+    "employer": "CONNECT CARE HOSPITALISTS LLC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "CONNECT ERP LLC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "CONNECT HOLDING II LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "CONNECTABILITY OF MN INC",
+    "state": "MN",
+    "city": "WAITE PARK"
+  },
+  {
+    "employer": "CONNECTCHAIN INC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "CONNECTEDX INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONNECTICUT CHILDREN'S SPECIALTY GROUP INC",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "CONNECTICUT COLLEGE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "CONNECTICUT INSTITUTE FOR COMMUNITIES INC",
+    "state": "CT",
+    "city": "DANBURY"
+  },
+  {
+    "employer": "CONNECTICUT MUNICIPAL ELECTRIC ENERGY COOP",
+    "state": "CT",
+    "city": "NORWICH"
+  },
+  {
+    "employer": "CONNECTICUT NEPHROLOGY ASSO LLC",
+    "state": "CT",
+    "city": "MERIDEN"
+  },
+  {
+    "employer": "CONNECTIQ LABS, INC.",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "CONNECTIVITY SOLUTIONS INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "CONNECTIX CORPORATION",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "CONNECTTEL INC DBA CONNECT TECH & TALENT",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "CONNOR CONSULTING CORPORATION",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "CONNOR CS INC",
+    "state": "NV",
+    "city": "RENO"
+  },
+  {
+    "employer": "CONNOR GROUP INC",
+    "state": "NV",
+    "city": "RENO"
+  },
+  {
+    "employer": "CONNVERTEX TECHNOLOGIES INC",
+    "state": "UT",
+    "city": "SOUTH JORDAN"
+  },
+  {
+    "employer": "CONOCOPHILLIPS COMPANY",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "CONQUEST CONSULTING LLC",
+    "state": "TX",
+    "city": "CEDAR PARK"
+  },
+  {
+    "employer": "CONRELV SOLUTIONS INC",
+    "state": "ID",
+    "city": "BOISE"
+  },
+  {
+    "employer": "CONSCENDO AVIATION INVESTMENTS LLC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "CONSELLO TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "CONSENSYS INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "CONSENSYS SOFTWARE INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "CONSERVATION INTL",
+    "state": "VA",
+    "city": "ARLINGTON"
+  }
+]

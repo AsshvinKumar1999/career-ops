@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "BRAINCHIP INC",
+    "state": "CA",
+    "city": "LAGUNA HILLS"
+  },
+  {
+    "employer": "BRAINCO INC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "BRAINDO LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "BRAINHR IT SOLUTIONS INCORPORATION",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "BRAINLAB INC",
+    "state": "IL",
+    "city": "WESTCHESTER"
+  },
+  {
+    "employer": "BRAINOFT INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "BRAINQ TECHNOLOGIES US,INC.",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BRAINS TECHNOLOGY SOLUTIONS INC",
+    "state": "MI",
+    "city": "FARMINGTN HLS"
+  },
+  {
+    "employer": "BRAINSCOPE COMPANY INC",
+    "state": "MD",
+    "city": "CHEVY CHASE"
+  },
+  {
+    "employer": "BRAINTREE TECHNOLOGY SOLUTIONS LLC",
+    "state": "IL",
+    "city": "PLAINFIELD"
+  },
+  {
+    "employer": "BRAINWARE INC",
+    "state": "NJ",
+    "city": "BRIDGEWATER"
+  },
+  {
+    "employer": "BRAINZ INC",
+    "state": "MN",
+    "city": "BROOKLYN PARK"
+  },
+  {
+    "employer": "BRAMASOL INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "BRANCH MESSENGER INC",
+    "state": "MN",
+    "city": "GOLDEN VALLEY"
+  },
+  {
+    "employer": "BRANCH METRICS INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "BRANCH RICHARDS CO P S",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "BRANCHPATTERN INC",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "BRAND SHARED SERVICES LLC",
+    "state": "GA",
+    "city": "KENNESAW"
+  },
+  {
+    "employer": "BRANDBOOM INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "BRANDEIS UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRANDING BOSSES LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "BRANDING BRAND INC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "BRANDON CONSULTING ASSOCIATES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRANDON HAW ARCHITECTURE LLP",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "BRANDON VANCE LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BRANDSCAPES WORLDWIDE CONSULTANCY LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "BRANDT INFORMATION SERVICES LLC",
+    "state": "FL",
+    "city": "TALLAHASSEE"
+  },
+  {
+    "employer": "BRANTA GROUP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRASS TACKS COLLECTIVE LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "BRASSCRAFT MANUFACTURING COMPANY",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "BRAUN INTERTEC CORPORATION",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "BRAUN WEISS INC DBA BRAUNWEISS",
+    "state": "MA",
+    "city": "NEWTON LOWER FALLS"
+  },
+  {
+    "employer": "BRAUNHAGEY & BORDEN LLP",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BRAVEN TECHNOLOGIES INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "BRAVES TECHNOLOGIES LLC",
+    "state": "GA",
+    "city": "WOODSTOCK"
+  },
+  {
+    "employer": "BRAVIANT LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "BRAVO LEARNING TECHNOLOGIES LLC",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "BRAZE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BREAD FINANCIAL PAYMENTS INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "BREADWARE HOLDING LLC",
+    "state": "NV",
+    "city": "RENO"
+  },
+  {
+    "employer": "BREAK VENTURES LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "BREAKTHROUGH LI CHIEF EXECUTIVE OFFICER",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "BREAKTHROUGHFUEL LLC",
+    "state": "WI",
+    "city": "APPLETON"
+  },
+  {
+    "employer": "BREEDLOVE & ASSOCIATES LLC D B A HOMEPAY",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "BREETHE INC",
+    "state": "MA",
+    "city": "DANVERS"
+  },
+  {
+    "employer": "BREEZEML INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "BREG INC",
+    "state": "CA",
+    "city": "CARLSBAD"
+  },
+  {
+    "employer": "BRELYON INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "BREMBO INSPIRATION LAB CORP",
+    "state": "MI",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "BRENAU UNIVERSITY",
+    "state": "GA",
+    "city": "GAINESVILLE"
+  },
+  {
+    "employer": "BRENNTAG LATIN AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRENTWOOD ACQUISITION SHREVEPORT INC D B A BRENTWOOD HOSPITAL",
+    "state": "LA",
+    "city": "SHREVEPORT"
+  },
+  {
+    "employer": "BREUER PREMIUM PET FOOD COMPANY I",
+    "state": "NY",
+    "city": "BEDFORD"
+  },
+  {
+    "employer": "BREVAN HOWARD US INVESTMENT MANAGEMENT LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BREVARD HEALTH ALLIANCE INC",
+    "state": "FL",
+    "city": "WEST MELBOURNE"
+  },
+  {
+    "employer": "BREVARD PHARMACY LLC DBA COMMUNITY DISCOUNT PHARMACY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BREWER SCIENCE INC",
+    "state": "MO",
+    "city": "ROLLA"
+  },
+  {
+    "employer": "BREWS BROTHERS LLC D/BA GLACIER BREW HOUSE",
+    "state": "AK",
+    "city": "ANCHORAGE"
+  },
+  {
+    "employer": "BREX INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRIAN ASSOCIATES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BRICKS IT SOLUTIONS LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "BRICZ LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "BRIDE BROOK SNF OPERATIONS LLC D/B/A ATLAS HEALTHCARE",
+    "state": "CT",
+    "city": "NIANTIC"
+  },
+  {
+    "employer": "BRIDENT DDS PC DBA WATERSIDE DENTAL CARE",
+    "state": "CA",
+    "city": "ORANGE"
+  },
+  {
+    "employer": "BRIDENT DENTAL ASSOCIATES PC",
+    "state": "CA",
+    "city": "ORANGE"
+  },
+  {
+    "employer": "BRIDGE EDUCATION LLC",
+    "state": "CA",
+    "city": "WALNUT"
+  },
+  {
+    "employer": "BRIDGE GROUP LLC",
+    "state": "IL",
+    "city": "ROLLING MDWS"
+  },
+  {
+    "employer": "BRIDGE INTELLIGENCE LLC",
+    "state": "NJ",
+    "city": "NORTH BRUNSWICK"
+  },
+  {
+    "employer": "BRIDGE INVESTMENT GROUP LLC",
+    "state": "UT",
+    "city": "SANDY"
+  },
+  {
+    "employer": "BRIDGE IT INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BRIDGE SOLUTIONS GROUP INC",
+    "state": "NJ",
+    "city": "FORT LEE"
+  },
+  {
+    "employer": "BRIDGE TECHNOLOGIES LLC",
+    "state": "NJ",
+    "city": "BAYONNE"
+  },
+  {
+    "employer": "BRIDGELINE DIGITAL INC",
+    "state": "MA",
+    "city": "WOBURN"
+  },
+  {
+    "employer": "BRIDGENEXUS TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "BRIDGEPORT CHEMISTS INC DBA HANCOCK PHARMACY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRIDGEPORT HOSPITAL",
+    "state": "CT",
+    "city": "BRIDGEPORT"
+  },
+  {
+    "employer": "BRIDGESOFT INFOSEC LLC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "BRIDGESTONE AMERICAS INC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "BRIDGESTONE INDUSTRIAL PRODUCTS AMERICAS INC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "BRIDGETOWN CONSULTING GROUP INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "BRIDGETREE LLC",
+    "state": "NC",
+    "city": "MOORESVILLE"
+  },
+  {
+    "employer": "BRIDGEWATER ASSOCIATES LP",
+    "state": "CT",
+    "city": "WESTPORT"
+  },
+  {
+    "employer": "BRIDGEWATER COLLEGE",
+    "state": "VA",
+    "city": "BRIDGEWATER"
+  },
+  {
+    "employer": "BRIDGEWATER INTERIORS LLC",
+    "state": "MI",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "BRIERLEY ASSOCIATES CORPORATION",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "BRIGADE CAPITAL MANAGEMENT LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BRIGENE BIOSCIENCES INC",
+    "state": "MD",
+    "city": "DERWOOD"
+  },
+  {
+    "employer": "BRIGGS STRATTON LLC",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "BRIGHAM & WOMEN S PHYSICIAN ORGANIZATION",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "BRIGHAM AND WOMEN S HOSPITAL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BRIGHAM YOUNG UNIVERSITY",
+    "state": "UT",
+    "city": "PROVO"
+  },
+  {
+    "employer": "BRIGHAM YOUNG UNIVERSITY HAWAII",
+    "state": "HI",
+    "city": "LAIE"
+  },
+  {
+    "employer": "BRIGHT BIRD TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "BRIGHT CHOICE DENTAL SICKLERVILLE LP",
+    "state": "NJ",
+    "city": "SICKLERVILLE"
+  },
+  {
+    "employer": "BRIGHT DENTAL AND BRACES LLC",
+    "state": "WI",
+    "city": "FITCHBURG"
+  },
+  {
+    "employer": "BRIGHT DENTAL LLC",
+    "state": "IL",
+    "city": "GURNEE"
+  },
+  {
+    "employer": "BRIGHT HEALTH MANAGEMENT INC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "BRIGHT HORIZONS CHILDRENS CENTERS LLC",
+    "state": "MA",
+    "city": "NEWTON"
+  },
+  {
+    "employer": "BRIGHT MACHINES INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BRIGHT POWER INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  }
+]

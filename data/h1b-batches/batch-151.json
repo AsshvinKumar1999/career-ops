@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "MARK INFOTECH INC",
+    "state": "NJ",
+    "city": "E BRUNSWICK"
+  },
+  {
+    "employer": "MARK MAGRANN ASSOCIATES INC",
+    "state": "NJ",
+    "city": "MOUNT LAUREL"
+  },
+  {
+    "employer": "MARK TECHNOLOGIES INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "MARK YOUNG CONSTRUCTION LLC",
+    "state": "CO",
+    "city": "FREDERICK"
+  },
+  {
+    "employer": "MARKEL CORPORATION",
+    "state": "VA",
+    "city": "GLEN ALLEN"
+  },
+  {
+    "employer": "MARKEM-IMAJE CORPORATION",
+    "state": "NH",
+    "city": "KEANE"
+  },
+  {
+    "employer": "MARKET AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARKET GROCERY INC",
+    "state": "NY",
+    "city": "POUGHKEEPSIE"
+  },
+  {
+    "employer": "MARKET LEADER GROUP INC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "MARKET LOGIC SOFTWARE INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "MARKET RESOURCE PARTNERS LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "MARKETAXESS CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARKETCAST LLC",
+    "state": "CA",
+    "city": "CULVER CITY"
+  },
+  {
+    "employer": "MARKETDIAL INC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "MARKETING ASSOCIATES LLC DBA ONEMAGNIFY",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "MARKETING CARD TECHNOLOGY LLC",
+    "state": "IL",
+    "city": "DOWNERS GROVE"
+  },
+  {
+    "employer": "MARKETING EVOLUTION INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARKETWISE SOLUTIONS LLC",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "MARKIMEX INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "MARKING SERVICES INC",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "MARKIT NORTH AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARKITSERV LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARKLOGIC CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARLABS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARLEX PHARMACEUTICALS INC",
+    "state": "DE",
+    "city": "NEW CASTLE"
+  },
+  {
+    "employer": "MARLIN  ENGINEERING INC",
+    "state": "FL",
+    "city": "HOMESTEAD"
+  },
+  {
+    "employer": "MAROUS BROTHERS CONSTRUCTION INC",
+    "state": "OH",
+    "city": "WILLOUGHBY"
+  },
+  {
+    "employer": "MARQETA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARQUARDT SWITCHES INC",
+    "state": "MI",
+    "city": "ROCHESTER HILLS"
+  },
+  {
+    "employer": "MARQUEE TECHNOLOGY SOLUTIONS INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "MARQUETTE UNIVERSITY",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "MARRIOTT INTERNATIONAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARRIOTT OWNERSHIP RESORTS INC",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "MARS FOOD US LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "MARS INCORPORATED",
+    "state": "VA",
+    "city": "MC LEAN"
+  },
+  {
+    "employer": "MARS IT CORP D B A MARS SOLUTIONS GROUP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARS PARTNERS INC",
+    "state": "NJ",
+    "city": "COLONIA"
+  },
+  {
+    "employer": "MARS TECH SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "MARS WRIGLEY CONFECTIONERY US LLC",
+    "state": "NJ",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "MARSH MCLENNAN COMPANIES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARSH MCLENNAN SHARED SERVICES LLC",
+    "state": "NJ",
+    "city": "HOBOKEN"
+  },
+  {
+    "employer": "MARSH PMK INTERNATIONAL LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "MARSH USA INC",
+    "state": "NJ",
+    "city": "HOBOKEN"
+  },
+  {
+    "employer": "MARSHALL ASSOCIATES INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "MARSHALL CONSULTING GROUP LLC",
+    "state": "VA",
+    "city": "WARRENTON"
+  },
+  {
+    "employer": "MARSHALL COUNTY HOSPITAL",
+    "state": "KY",
+    "city": "BENTON"
+  },
+  {
+    "employer": "MARSHALL ELECTRIC CORPORATION",
+    "state": "IN",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "MARSHALL ENVIRONMENTAL MANAGEMENT INC",
+    "state": "OK",
+    "city": "OKLAHOMA CITY"
+  },
+  {
+    "employer": "MARSHALL TECHNOLOGIES INC",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "MARSHALL UNIVERSITY",
+    "state": "WV",
+    "city": "HUNTINGTON"
+  },
+  {
+    "employer": "MARSHALL UNIVERSITY RESEARCH CORP",
+    "state": "WV",
+    "city": "HUNTINGTON"
+  },
+  {
+    "employer": "MARSHALL WACE NORTH AMERICA LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARSHFIELD CLINIC",
+    "state": "WI",
+    "city": "MARSHFIELD"
+  },
+  {
+    "employer": "MARSOL TRADING LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "MARTELLO RE SERVICES COMPANY LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "MARTIN BRUDNIZKI DESIGN STUIDIO LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARTIN FINANCIAL LLC TRANSITIONS WEALTH MANAGEMENT",
+    "state": "AR",
+    "city": "LITTLE ROCK"
+  },
+  {
+    "employer": "MARTIN HOPP ARCHITECT PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARTIN KOBUS INC",
+    "state": "CA",
+    "city": "SAUSALITO"
+  },
+  {
+    "employer": "MARTIN LUTHER SCHOOL",
+    "state": "NY",
+    "city": "MASPETH"
+  },
+  {
+    "employer": "MARTIN MARIETTA MATERIALS INC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "MARTIN PAINTING & COATING CO",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "MARTIN SPROCKET & GEAR INC",
+    "state": "TX",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "MARTINEZ MOORE ENGINEERS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "MARTINS FAMOUS PASTRY SHOPPE INC",
+    "state": "PA",
+    "city": "CHAMBERSBURG"
+  },
+  {
+    "employer": "MARU SPORTS INC D B A DYNAMICS WORLD",
+    "state": "NY",
+    "city": "FLORAL PARK"
+  },
+  {
+    "employer": "MARUCCO STODDARD FERENVACH & WALSH INC",
+    "state": "IL",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "MARUTEE ENGINEERING SERVICES LLC",
+    "state": "MI",
+    "city": "ROYAL OAK"
+  },
+  {
+    "employer": "MARUTHI TECHNOLOGIES INC DBA ANBLICKS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARVEL ARCHITECTS LANDSCAPE ARCHITECTS URBAN DEISGNERS PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MARVEL TECH GROUP INC",
+    "state": "NC",
+    "city": "DURHAM"
+  },
+  {
+    "employer": "MARVEL TECHNOLOGIES INC",
+    "state": "MI",
+    "city": "SOUTHFIELD"
+  },
+  {
+    "employer": "MARVEL TECHNOLOGY SOLUTIONS INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "MARVELL SEMICONDUCTOR INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARVELOUS TECHNOLOGIES INC",
+    "state": "IL",
+    "city": "GURNEE"
+  },
+  {
+    "employer": "MARVELTECH CONSULTING SERVICES INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "MARWOOD ASSETS MANAGEMENT LLC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "MARY GREELEY MEDICAL CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MARY HITCHCOCK MEMORIAL HOSPITAL",
+    "state": "NH",
+    "city": "LEBANON"
+  },
+  {
+    "employer": "MARY KAY, INC.",
+    "state": "TX",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "MARY MACDOWELL FRIENDS SCHOOL",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "MARYADA TECHNOLOGY GROUP",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "MARYLAND INSTITUTE COLLEGE OF ART",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "MARYLAND PAPER COMPANY LP",
+    "state": "MD",
+    "city": "WILLIAMSPORT"
+  },
+  {
+    "employer": "MARYLAND SMILES IN OLNEY DBA OLNEY DENTAL WELLNESS",
+    "state": "MD",
+    "city": "OLNEY"
+  },
+  {
+    "employer": "MARYLAND WELLNESS LLC",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "MARYS CENTER FOR MATERNAL AND CHILD CARE INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MAS BUILDING & BRIDGE INC",
+    "state": "MA",
+    "city": "NORFOLK"
+  },
+  {
+    "employer": "MAS CHARTER SCHOOLS",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "MAS IT LABS LLC",
+    "state": "TX",
+    "city": "THE COLONY"
+  },
+  {
+    "employer": "MAS NAPLES LLC",
+    "state": "FL",
+    "city": "NAPLES"
+  },
+  {
+    "employer": "MAS US HOLDINGS INC",
+    "state": "NC",
+    "city": "ASHEBORO"
+  },
+  {
+    "employer": "MASCON INC DBA ATW SECURITY",
+    "state": "MA",
+    "city": "WOBURN"
+  },
+  {
+    "employer": "MASHWORK INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MASIMO AMERICAS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MASIMO CORPORATION",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "MASIMO TECHNOLOGY CAFE LLC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "MASON BROTHERS",
+    "state": "MN",
+    "city": "WADENA"
+  },
+  {
+    "employer": "MASON CITY CLINIC",
+    "state": "IA",
+    "city": "MASON CITY"
+  },
+  {
+    "employer": "MASON TECHNOLOGIES INC",
+    "state": "NY",
+    "city": "DEER PARK"
+  }
+]

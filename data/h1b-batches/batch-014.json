@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "AME INC",
+    "state": "NJ",
+    "city": "FAIRFIELD"
+  },
+  {
+    "employer": "AMEC FOSTER WHEELER USA CORPORATION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AMEDISYS HOLDING LLC",
+    "state": "LA",
+    "city": "BATON ROUGE"
+  },
+  {
+    "employer": "AMEEX TECHNOLOGIES CORP",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "AMEKOR INDUSTRIES INC",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "AMELIA US LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMENSYS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMEO SOLUTIONS LLC",
+    "state": "CA",
+    "city": "ALHAMBRA"
+  },
+  {
+    "employer": "AMEREN SERVICES COMPANY",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "AMERI AND PARTNERS INC DBA AMERI100",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERI-SOURCE SPECIALTY PRODUCTS INC",
+    "state": "PA",
+    "city": "BETHEL PARK"
+  },
+  {
+    "employer": "AMERICA AT HOME HEALTHCARE AND NURSING SERVICES LTD DBA ELARA CARING III",
+    "state": "TX",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "AMERICA CAN",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "AMERICA DIAGNOSTICS INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "AMERICA EVANGELICAL UNIVERSITY",
+    "state": "CA",
+    "city": "GARDENA"
+  },
+  {
+    "employer": "AMERICA FIRST CREDIT UNION",
+    "state": "UT",
+    "city": "OGDEN"
+  },
+  {
+    "employer": "AMERICA METAL EXPORT INC",
+    "state": "CA",
+    "city": "ALHAMBRA"
+  },
+  {
+    "employer": "AMERICA S COLLECTIBLES NETWORK INC",
+    "state": "TN",
+    "city": "KNOXVILLE"
+  },
+  {
+    "employer": "AMERICA TO GO LLC DBA ATG FINANCIAL TECHNOLOGIES",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN ACADEMY OF DERMATOLOGY INC",
+    "state": "IL",
+    "city": "ROSEMONT"
+  },
+  {
+    "employer": "AMERICAN ACADEMY OF OPHTHALMOLOGY",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "AMERICAN AIR LIQUIDE INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AMERICAN AIRLINES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN ANALYST INC",
+    "state": "NJ",
+    "city": "BUDD LAKE"
+  },
+  {
+    "employer": "AMERICAN APPLIANCE PRODUCTS LLC",
+    "state": "TN",
+    "city": "NEWPORT"
+  },
+  {
+    "employer": "AMERICAN ASSN OF STATE COLLEGE & UNIVERSITIES",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN ASSOCIATION OF MOTOR VEHICLE ADMINISTRATORS",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "AMERICAN AUDIO COMPONENT INC",
+    "state": "CA",
+    "city": "CUPERTINO"
+  },
+  {
+    "employer": "AMERICAN AXLE MANUFACTURING INC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "AMERICAN BACKHOE SERVICE AND EXCAVATING CO",
+    "state": "IL",
+    "city": "UNIVERSITY PARK"
+  },
+  {
+    "employer": "AMERICAN BANKERS INSURANCE COMPANY OF FLORIDA ABIC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "AMERICAN BATTERY SOLUTIONS INC",
+    "state": "MI",
+    "city": "LAKE ORION"
+  },
+  {
+    "employer": "AMERICAN BEAR LOGISTICS CORP",
+    "state": "IL",
+    "city": "ITASCA"
+  },
+  {
+    "employer": "AMERICAN BOARD OF INTERNAL MEDICINE",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "AMERICAN BOARD OF PODIATRIC SURGERY INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "AMERICAN BRIDGE COMPANY",
+    "state": "PA",
+    "city": "CORAOPOLIS"
+  },
+  {
+    "employer": "AMERICAN BRILLIANCE EDUCATION LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AMERICAN BROADBAND HOLDING COMPANY",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "AMERICAN BUREAU OF SHIPPING",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "AMERICAN BUSINESS INSTITUTE CORP",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "AMERICAN BUSINESS SOLUTIONS INC",
+    "state": "OH",
+    "city": "LEWIS CENTER"
+  },
+  {
+    "employer": "AMERICAN CANCER SOCIETY INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "AMERICAN CENTURY INVESTMENT MANAGEMENT INC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "AMERICAN CHASE LLC",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "AMERICAN CIVIL LIBERTIES UNION OF MASSACHUSETTS",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "AMERICAN CLOUD SERVICES LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "AMERICAN COLLEGE OF RADIOLOGY",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "AMERICAN CONSULTING SOLUTIONS INC",
+    "state": "FL",
+    "city": "BOYNTON BEACH"
+  },
+  {
+    "employer": "AMERICAN CONTRACTING AND ENVIRONMENTAL SERVICE INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "AMERICAN COUNCIL FOR AN ENERGY EFFICIENT ECONOMY",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN CREDIT ACCEPTANCE LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN CREDIT INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "AMERICAN CYBERSYSTEMS INC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "AMERICAN DAIRY QUEEN CORP",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "AMERICAN DENTAL EDUCATION ASSN",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN DENTAL MANAGEMENT PC",
+    "state": "PA",
+    "city": "FORT WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN DRUG CENTER INC",
+    "state": "VA",
+    "city": "NORFOLK"
+  },
+  {
+    "employer": "AMERICAN EAGLE OUTFITTERS INC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "AMERICAN EDUCATION AND TRANSLATION SERVICES CORP",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "AMERICAN EDUCATION CENTER INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN ELECTRIC POWER",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "AMERICAN ENTERPRISE INST FOR PUBLIC POLICY RESEARCH",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN ENTERPRISE SERVICES COMPANY",
+    "state": "IA",
+    "city": "DES MOINES"
+  },
+  {
+    "employer": "AMERICAN EQUITY INVESTMENT LIFE INSURANCE COMPANY",
+    "state": "IA",
+    "city": "WEST DES MOINES"
+  },
+  {
+    "employer": "AMERICAN EXCHANGE TIME LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN EXPRESS COMPANY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN EXPRESS TRAVEL RELATED SERVICES COMPANY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN FAMILY CONNECT PROPERTY AND CASUALTY INSURANCE COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN FAMILY DENTISTRY OF MEMPHIS P C",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "AMERICAN FAMILY LIFE ASSURANCE COMPANY OF COLUMBUS AFLAC",
+    "state": "GA",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "AMERICAN FAMILY MUTUAL INSURANCE COMPANY S I",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN FIDELITY ASSURANCE COMPANY",
+    "state": "OK",
+    "city": "OKLAHOMA CITY"
+  },
+  {
+    "employer": "AMERICAN FINANCIAL ALLIANCE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN FIRST FINANCE LLC",
+    "state": "TX",
+    "city": "COPPELL"
+  },
+  {
+    "employer": "AMERICAN FRIENDS OF THE ALEXANDER VON HUMBOLDT FOUNDATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN GENERAL LIFE INSURANCE COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN HEALTH FORMULATIONS INC",
+    "state": "NY",
+    "city": "HAUPPAUGE"
+  },
+  {
+    "employer": "AMERICAN HEART ASSOCIATION INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "AMERICAN HERITAGE SCHOOLS INC AMERICA HERITAGE WORLDWIDE CAMPUS",
+    "state": "UT",
+    "city": "AMERICAN FORK"
+  },
+  {
+    "employer": "AMERICAN HOME SHIELD CORPORATION",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "AMERICAN HOMECARE EQUIPMENT INC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "AMERICAN HONDA MOTOR CO INC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "AMERICAN HOSPICE AND HOME HEALTH CARE SERVICES INC",
+    "state": "CA",
+    "city": "DUBLIN"
+  },
+  {
+    "employer": "AMERICAN HOSPITALITY DBA C F KENT CONTRACT INC",
+    "state": "CA",
+    "city": "COMMERCE"
+  },
+  {
+    "employer": "AMERICAN HYDROSTATICS DISTRIBUTION INC D B A AH GROUP OF COMPANIES",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "AMERICAN IMAGING MANAGEMENT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN IMMIGRATION LAW GROUP LLC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "AMERICAN INDIAN COLLEGE FUND",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN INDUSTRIAL PLASTICS LLC",
+    "state": "FL",
+    "city": "DAYTONA BEACH"
+  },
+  {
+    "employer": "AMERICAN INFORMATION TECH CORP",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "AMERICAN INFOSYS INC",
+    "state": "VA",
+    "city": "HENRICO"
+  },
+  {
+    "employer": "AMERICAN INFRASTRUCTURE TECHNOLOGIES INC",
+    "state": "IL",
+    "city": "WHEATON"
+  },
+  {
+    "employer": "AMERICAN INNOVATIVE TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "NEPTUNE"
+  },
+  {
+    "employer": "AMERICAN INST OF MATHEMATICS",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "AMERICAN INSTITUTES FOR RESEARCH",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "AMERICAN INTERNATIONAL FORWARDING INC D/B/A AMERICAN INTERNATIONAL RELOCATION SOLUTIONS LLC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "AMERICAN INTERNATIONAL MONTESSORI SCHOOL INC",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "AMERICAN IT INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "AMERICAN IT RESOURCE GROUP INC",
+    "state": "",
+    "city": ""
+  }
+]

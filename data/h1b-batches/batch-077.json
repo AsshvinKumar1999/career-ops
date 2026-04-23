@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "EAI TECHNOLOGIES",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "EALEARN INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "EAMAN PHYSICAL THERAPY LLC",
+    "state": "MD",
+    "city": "GERMANTOWN"
+  },
+  {
+    "employer": "EAN COM LP",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "EAPOGEE INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "EARGO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EARLHAM COLLEGE",
+    "state": "IN",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "EARLI INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "EARLITEC DIAGNOSTICS INC",
+    "state": "GA",
+    "city": "DECATUR"
+  },
+  {
+    "employer": "EARLY AGE CARE INC DBA GINKGO X CHILD CARE",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "EARLY GIRLS LLC DBA PICCINO",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EARLY WARNING SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EARNED VISIBILITY INC DBA TERAKEET",
+    "state": "NY",
+    "city": "SYRACUSE"
+  },
+  {
+    "employer": "EARNEST LLC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "EARNITY INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "EARNUP INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "EARTH RETENTION LLC",
+    "state": "GA",
+    "city": "WOODSTOCK"
+  },
+  {
+    "employer": "EARTH WALL PRODUCTS LLC",
+    "state": "GA",
+    "city": "SMYRNA"
+  },
+  {
+    "employer": "EASSRI LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "EAST BATON ROUGE PARISH SCHOOL BOARD",
+    "state": "LA",
+    "city": "BATON ROUGE"
+  },
+  {
+    "employer": "EAST BAY INSTITUTE FOR RESEARCH AND EDUCATION",
+    "state": "CA",
+    "city": "MATHER"
+  },
+  {
+    "employer": "EAST BAY MEDICAL GROUP INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "EAST BOSTON NEIGHBORHOOD HEALTH CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EAST CAROLINA UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EAST CARROLL PARISH SCHOOL BOARD",
+    "state": "LA",
+    "city": "LAKE PROVIDENCE"
+  },
+  {
+    "employer": "EAST CENTRAL MENTAL HLTH & CHEMICAL DEPENDENCY CTR",
+    "state": "SD",
+    "city": "BROOKINGS"
+  },
+  {
+    "employer": "EAST COAST REALTY INCORPORATED",
+    "state": "MA",
+    "city": "ALLSTON"
+  },
+  {
+    "employer": "EAST END RESOURCES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EAST FLUSHING PHYSICAL THERAPY PC DBA OPTIMUM REHAB PHYSICAL THERAPY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EAST GATE MONTESSORI GARDEN",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "EAST GREEN MARKETING MANAGEMENT CORP",
+    "state": "WA",
+    "city": "ALGONA"
+  },
+  {
+    "employer": "EAST LIBERTY FAMILY HEALTH CARE CENTER",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "EAST LINK ACADEMY",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "EAST MEMPHIS INVESTMENTS LLC",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "EAST MOLINE GLASS CO",
+    "state": "IL",
+    "city": "EAST MOLINE"
+  },
+  {
+    "employer": "EAST NEWTON COUNTY R-VI SCHOOL DISTRICT",
+    "state": "MO",
+    "city": "GRANBY"
+  },
+  {
+    "employer": "EAST PHILLIPS COUNTY HOSPITAL DIST",
+    "state": "CO",
+    "city": "HOLYOKE"
+  },
+  {
+    "employer": "EAST POINT ACADEMY",
+    "state": "SC",
+    "city": "WEST COLUMBIA"
+  },
+  {
+    "employer": "EAST RIVER CHILD DEVELOPMENT CTR",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EAST TENNESSEE CHILDRENS HOSPITAL ASSOCIATION INC",
+    "state": "TN",
+    "city": "KNOXVILLE"
+  },
+  {
+    "employer": "EAST TENNESSEE STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EAST TERRACE REHABILITATION & WELLNESS CENTER LP DBA COUNTRY VILLA EAST NURSING CENTER",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "EAST WEST BANK",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EAST WEST HAULING INC",
+    "state": "NJ",
+    "city": "HARRISON"
+  },
+  {
+    "employer": "EAST WEST SYSTEMS INC",
+    "state": "NJ",
+    "city": "FAIRFIELD"
+  },
+  {
+    "employer": "EAST YORK VETERINARY CENTER",
+    "state": "PA",
+    "city": "YORK"
+  },
+  {
+    "employer": "EASTBANC TECHNOLOGIES LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "EASTERN ACCOUNTING TAX INC DBA  EASTERN ACCOUNTING AND CONSULTING",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "EASTERN CAROLINA HOME HEALTH AGENCY LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "EASTERN COLUMBIA PLAZA LLC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "EASTERN EMERALD GROUP LLC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "EASTERN ILLINOIS UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EASTERN KENTUCKY UNIVERSITY",
+    "state": "KY",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "EASTERN MAINE MEDICAL CENTER",
+    "state": "ME",
+    "city": "BANGOR"
+  },
+  {
+    "employer": "EASTERN MEDICAL CENTER",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "EASTERN MICHIGAN UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EASTERN NEW MEXICO UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EASTERN VIRGINIA MEDICAL SCHOOL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EASTERN WASHINGTON UNIVERSITY",
+    "state": "WA",
+    "city": "CHENEY"
+  },
+  {
+    "employer": "EASTERNCCTV USA LLC",
+    "state": "NY",
+    "city": "PLAINVIEW"
+  },
+  {
+    "employer": "EASTIN MANAGEMENT INC",
+    "state": "CA",
+    "city": "RANCHO CUCAMONGA"
+  },
+  {
+    "employer": "EASTLAND FOOD CORPORATION",
+    "state": "MD",
+    "city": "JESSUP"
+  },
+  {
+    "employer": "EASTMAN CHEMICAL COMPANY",
+    "state": "TN",
+    "city": "JOHNSON CITY"
+  },
+  {
+    "employer": "EASTSIDE THERAPY SERVICES",
+    "state": "WA",
+    "city": "ISSAQUAH"
+  },
+  {
+    "employer": "EASTWIND HOTEL MANAGEMENT LLC",
+    "state": "NY",
+    "city": "WINDHAM"
+  },
+  {
+    "employer": "EASY ACCESS USA INC",
+    "state": "NJ",
+    "city": "PINE BROOK"
+  },
+  {
+    "employer": "EASY AERIAL INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "EASY WEBCONTENT INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "EASYKNOCK INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EASYMAY INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EASYRENT CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EASYRENT REALTY LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EAT JUST PROTEIN INC",
+    "state": "CA",
+    "city": "ALAMEDA"
+  },
+  {
+    "employer": "EATEAM INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "EATON CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EATON VANCE MANAGEMENT",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "EAU CLAIRE COOPERATIVE HEALTH CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EAZZY CONSULTING LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EB5 PARTNERS LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "EBATES PERF MKTNG INC DBA RAKUTEN REWARDS",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "EBAY COMMERCE INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "EBAY INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "EBAY PAYMENTS LLC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "EBB CARBON INC",
+    "state": "CA",
+    "city": "SAN CARLOS"
+  },
+  {
+    "employer": "EBH 18 LLC",
+    "state": "NJ",
+    "city": "EAST BRUNSWICK"
+  },
+  {
+    "employer": "EBIN NEW YORK INC",
+    "state": "NJ",
+    "city": "MOONACHIE"
+  },
+  {
+    "employer": "EBIX INC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "EBIZONCLOUD  LLC",
+    "state": "WY",
+    "city": "CHEYENNE"
+  },
+  {
+    "employer": "EBOTS INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "EBS MINDS IT INC",
+    "state": "TX",
+    "city": "PILOT POINT"
+  },
+  {
+    "employer": "EBSCO PUBLISHING DBA EBSCO INFORMATION SERVICES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "EBSOFT CONSULTING INC",
+    "state": "MD",
+    "city": "LAUREL"
+  },
+  {
+    "employer": "EBUSINESS SOLUTIONS INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "EBY BROWN COMPANY LLC",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "EBYTE TECHNOLOGIES INC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "EC SOURCE SERVICES LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "ECA MEDICAL INSTRUMENTS",
+    "state": "CA",
+    "city": "THOUSAND OAKS"
+  },
+  {
+    "employer": "ECBLEND LLC",
+    "state": "OR",
+    "city": "MEDFORD"
+  },
+  {
+    "employer": "ECCLESIASTES INC",
+    "state": "DE",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "ECE SOLUTION LLC DBA ECE DESIGN",
+    "state": "IL",
+    "city": "NORTHBROOK"
+  }
+]

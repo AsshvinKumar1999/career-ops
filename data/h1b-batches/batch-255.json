@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "TURBO CAPITAL INC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "TURBO DIESEL & ELECTRICAL SYSTEMS INC",
+    "state": "GA",
+    "city": "FOREST PARK"
+  },
+  {
+    "employer": "TURING ENTERPRISES INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "TURING IT LAB LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TURING VIDEO INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "TURKISH DEPOT FOREIGN TRADE CORP",
+    "state": "NJ",
+    "city": "ELMWOOD PARK"
+  },
+  {
+    "employer": "TURKON AMERICA INC",
+    "state": "NJ",
+    "city": "SECAUCUS"
+  },
+  {
+    "employer": "TURN/RIVER MANAGEMENT L P",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TURNBERRY SOLUTIONS INC",
+    "state": "PA",
+    "city": "BLUE BELL"
+  },
+  {
+    "employer": "TURNBRIDGE RE FUND MANAGEMENT COMPANY I LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "TURNER CONSTRUCTION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TURNER SERVICES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "TURNER TOWNSEND INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TURNER WARREN HWANG AND CONRAD ACCOUNTING CORP",
+    "state": "CA",
+    "city": "BURBANK"
+  },
+  {
+    "employer": "TURNITIN LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TURNKEY HOSPITALITY SOLUTIONS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TURNSTILE SOFTWARE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TURNSTONE BIOLOGICS CORP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "TURNTIDE TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "TURO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TURVO INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "TUSCULUM UNIVERSITY",
+    "state": "TN",
+    "city": "TUSCULUM"
+  },
+  {
+    "employer": "TUSIMPLE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TUSKEGEE UNIVERSITY",
+    "state": "AL",
+    "city": "TUSKEGEE"
+  },
+  {
+    "employer": "TUTOR PERINI BUILDING CORP",
+    "state": "NV",
+    "city": "HENDERSON"
+  },
+  {
+    "employer": "TUV RHEINLAND OF NORTH AMERICA INC",
+    "state": "MA",
+    "city": "LITTLETON"
+  },
+  {
+    "employer": "TUV SUD AMERICA INC",
+    "state": "MA",
+    "city": "WAKEFIELD"
+  },
+  {
+    "employer": "TVG MEDULLA PHYSICIANS LLC",
+    "state": "IL",
+    "city": "OAK BROOK"
+  },
+  {
+    "employer": "TVISHA TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "TVS NEXT INC",
+    "state": "NJ",
+    "city": "NORTH BRUNSWICK"
+  },
+  {
+    "employer": "TVS SERVICES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "TVS SUPPLY CHAIN SOLUTIONS NORTH AMERICA INC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "TW METALS",
+    "state": "PA",
+    "city": "EXTON"
+  },
+  {
+    "employer": "TWEEZERMAN INTERNATIONAL LLC",
+    "state": "NY",
+    "city": "PORT WASHINGTON"
+  },
+  {
+    "employer": "TWELVE BENEFIT CORP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TWELVE LABS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "TWENTIETH CENTURY FOX FILM CORPORATION INDIRECT SUBSIDIARY OF THE WALT DISNEY COMPANY",
+    "state": "CA",
+    "city": "BURBANK"
+  },
+  {
+    "employer": "TWENTY TWENTY THERAPEUTICS LLC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "TWIGEO INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "TWILIO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TWIN BEECH CAPITAL LP",
+    "state": "NY",
+    "city": "PURCHASE"
+  },
+  {
+    "employer": "TWIN FARMS OPERATIONS LLC",
+    "state": "VT",
+    "city": "BARNARD"
+  },
+  {
+    "employer": "TWIN HEALTH INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "TWIN RIVERS RECREATION ASSOCIATION INC",
+    "state": "MS",
+    "city": "GREENWOOD"
+  },
+  {
+    "employer": "TWINCO MANUFACTURING CO INC",
+    "state": "NY",
+    "city": "HAUPPAUGE"
+  },
+  {
+    "employer": "TWINGATE INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "TWINS PEAK INC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "TWINTRON DATA SYSTEMS INC",
+    "state": "NJ",
+    "city": "VOORHEES TOWNSHIP"
+  },
+  {
+    "employer": "TWIST BIOSCIENCE CORPORATION",
+    "state": "CA",
+    "city": "S SAN FRAN"
+  },
+  {
+    "employer": "TWISTHINK LLC",
+    "state": "MI",
+    "city": "HOLLAND"
+  },
+  {
+    "employer": "TWITCH INTERACTIVE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TWITTER INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TWO ROADS DEVELOPMENT LLC",
+    "state": "FL",
+    "city": "WEST PALM BEACH"
+  },
+  {
+    "employer": "TWO SIGMA INVESTMENTS LP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TWO SIGMA SOLUTIONS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TWO95 INTERNATIONAL",
+    "state": "NJ",
+    "city": "CHERRY HILL"
+  },
+  {
+    "employer": "TWOMAGNETS INC",
+    "state": "CA",
+    "city": "COVINA"
+  },
+  {
+    "employer": "TWOPIRADIAN INFOTECH LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "TWS COMMUNITY OUTREACH",
+    "state": "MD",
+    "city": "GWYNN OAK"
+  },
+  {
+    "employer": "TX A&M UNIV CORPUS CHRISTI",
+    "state": "TX",
+    "city": "CORPUS CHRISTI"
+  },
+  {
+    "employer": "TX A&M VETERINARY MEDICAL DIAGNOSTIC LABORATORY",
+    "state": "TX",
+    "city": "COLLEGE STATION"
+  },
+  {
+    "employer": "TX SCD DENTAL PC",
+    "state": "TX",
+    "city": "ABILENE"
+  },
+  {
+    "employer": "TX TEAM REHAB INC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "TXMQ INC",
+    "state": "NY",
+    "city": "BUFFALO"
+  },
+  {
+    "employer": "TXONE NETWORKS USA INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TXU ENERGY RETAIL COMPANY LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "TYAN COMPUTER CORPORATION",
+    "state": "CA",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "TYB INC",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "TYBER MEDICAL LLC",
+    "state": "PA",
+    "city": "BETHLEHEM"
+  },
+  {
+    "employer": "TYCO FIRE PRODUCTS LLP",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "TYCON PROPERTIES INC",
+    "state": "CA",
+    "city": "FULLERTON"
+  },
+  {
+    "employer": "TYGRIS DENTAL MANAGEMENT CORP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TYLER INDEPENDENT SCHOOL DISTRICT",
+    "state": "TX",
+    "city": "TYLER"
+  },
+  {
+    "employer": "TYLER TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "TYMOFF & MOSS ARCHITECTS",
+    "state": "VA",
+    "city": "NORFOLK"
+  },
+  {
+    "employer": "TYMON GLOBAL INC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "TYPEFACE INC FKA CORTEX6 INC",
+    "state": "CA",
+    "city": "LOS ALTOS HILLS"
+  },
+  {
+    "employer": "TYPICAL SET LLC",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "TYSON FOODS INC",
+    "state": "AR",
+    "city": "SPRINGDALE"
+  },
+  {
+    "employer": "TYVAK NANO SATELLITE SYSTEMS INC",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "TZG ACCOUNTING LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "U AND ME COMMUNICATIONS INC",
+    "state": "TX",
+    "city": "ALLEN"
+  },
+  {
+    "employer": "U POWER ROBOTICS INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "U S BORAX INC",
+    "state": "CA",
+    "city": "BORON"
+  },
+  {
+    "employer": "U S CELLULAR CORPORATION",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "U S GREEN BLDG COUNCIL INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "U S IMMIGRATION FUND LLC",
+    "state": "FL",
+    "city": "JUPITER"
+  },
+  {
+    "employer": "U S INTERACTIVE CORP",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "U SAVE INSURANCE SERVICES INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "U-BLOX SAN DIEGO INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "UAH TECHNOLOGIES LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "UB FAMILY MEDICINE INC",
+    "state": "NY",
+    "city": "BUFFALO"
+  },
+  {
+    "employer": "UB TECHNOLOGY INNOVATIONS INC",
+    "state": "CA",
+    "city": "ANAHEIM"
+  },
+  {
+    "employer": "UBER FREIGHT US LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UBER TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "UBERTEJAS LLC DBA BIZCLOUD EXPERTS",
+    "state": "TX",
+    "city": "LEWISVILLE"
+  },
+  {
+    "employer": "UBILINX TECHNOLOGY INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "UBIQUITI INC",
+    "state": "MI",
+    "city": "ANN ARBOR"
+  },
+  {
+    "employer": "UBIQUITY USA GLOBAL SERVICES US INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "UBIQUS REPORTING INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  }
+]

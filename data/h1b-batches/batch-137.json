@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "KMA 7 OF VA LC D/B/A CHRISTOPHER A ENRIGHT CPA",
+    "state": "VA",
+    "city": "HENRICO"
+  },
+  {
+    "employer": "KMI INC",
+    "state": "NY",
+    "city": "YONKERS"
+  },
+  {
+    "employer": "KMINDS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "KMK CONSULTING INC",
+    "state": "NJ",
+    "city": "MORRISTOWN"
+  },
+  {
+    "employer": "KMM TECHNOLOGIES INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "KN TECH SOLUTIONS LLC",
+    "state": "PA",
+    "city": "DUBLIN"
+  },
+  {
+    "employer": "KNACK NY INC",
+    "state": "CA",
+    "city": "LA JOLLA"
+  },
+  {
+    "employer": "KNACK SYSTEMS LLC",
+    "state": "NJ",
+    "city": "WOODBRIDGE"
+  },
+  {
+    "employer": "KNACKSOFT LLC",
+    "state": "WA",
+    "city": "REDMOND"
+  },
+  {
+    "employer": "KNAPHEIDE MANUFACTURING COMPANY",
+    "state": "IL",
+    "city": "QUINCY"
+  },
+  {
+    "employer": "KNAPP INC",
+    "state": "GA",
+    "city": "KENNESAW"
+  },
+  {
+    "employer": "KNAV P A",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "KNB RETAIL LLC",
+    "state": "PA",
+    "city": "NORRISTOWN"
+  },
+  {
+    "employer": "KNG GROUP LLC",
+    "state": "MA",
+    "city": "NORFOLK"
+  },
+  {
+    "employer": "KNIGHT CAPITAL LLC DBA KNIGHT CAPITAL FUNDING",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "KNIGHT INFOTECH LLC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "KNIT",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "KNOLL INC",
+    "state": "PA",
+    "city": "EAST GREENVILLE"
+  },
+  {
+    "employer": "KNORR BRAKE COMPANY LLC",
+    "state": "MD",
+    "city": "WESTMINSTER"
+  },
+  {
+    "employer": "KNOTT SOLUTIONS LLC",
+    "state": "CA",
+    "city": "TUSTIN"
+  },
+  {
+    "employer": "KNOVIQ IT SOLUTIONS LLC",
+    "state": "NY",
+    "city": "LEVITTOWN"
+  },
+  {
+    "employer": "KNOVVA ACADEMY INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "KNOWABLE INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "KNOWLEDGE BUILDERS INC",
+    "state": "NY",
+    "city": "ALBANY"
+  },
+  {
+    "employer": "KNOWLEDGE RESOURCES GROUP INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "KNOWLES ELECTRONICS LLC",
+    "state": "IL",
+    "city": "ITASCA"
+  },
+  {
+    "employer": "KNOWN GLOBAL LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "KNOX HOLDING CORP DBA KNOX FINANCIAL",
+    "state": "MA",
+    "city": "WESTON"
+  },
+  {
+    "employer": "KNOXVILLE COMMUNITY HOSPITAL INC D/B/A KNOXVILLE HOSPITAL & CLINICS",
+    "state": "IA",
+    "city": "KNOXVILLE"
+  },
+  {
+    "employer": "KO & YUN LLP D B A JH & ASSOCIATES",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "KOBELCO STEWART BOLLING INC",
+    "state": "OH",
+    "city": "HUDSON"
+  },
+  {
+    "employer": "KOCH AG & ENERGY SOLUTIONS LLC",
+    "state": "KS",
+    "city": "WICHITA"
+  },
+  {
+    "employer": "KOCH CAPABILITIES LLC",
+    "state": "KS",
+    "city": "WICHITA"
+  },
+  {
+    "employer": "KODAI CAPITAL MANAGEMENT LP",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "KODAK ALARIS INC",
+    "state": "NY",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "KODDI INC",
+    "state": "TX",
+    "city": "FORT WORTH"
+  },
+  {
+    "employer": "KODEM LAW FIRM PLLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "KODER LABS LLC DBA KODERLABS LLC",
+    "state": "TX",
+    "city": "SOUTHLAKE"
+  },
+  {
+    "employer": "KODERZLAB INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "KODEVA LLC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "KODIAK ISLAND BOROUGH SCHOOL DISTRICT",
+    "state": "AK",
+    "city": "KODIAK"
+  },
+  {
+    "employer": "KODIAK ROBOTICS INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "KOEHLER INSTRUMENT COMPANY INC",
+    "state": "NY",
+    "city": "HOLTSVILLE"
+  },
+  {
+    "employer": "KOFAX INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "KOGNITIV INC",
+    "state": "MA",
+    "city": "NEWTON CENTER"
+  },
+  {
+    "employer": "KOGNITIV US LLC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "KOGNITOS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "KOH YOUNG AMERICA INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "KOHLBERG CO LLC",
+    "state": "NY",
+    "city": "MOUNT KISCO"
+  },
+  {
+    "employer": "KOHLBERG KRAVIS ROBERTS CO LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "KOHLER CO",
+    "state": "WI",
+    "city": "KOHLER"
+  },
+  {
+    "employer": "KOHLS INC",
+    "state": "WI",
+    "city": "MENOMONEE FALLS"
+  },
+  {
+    "employer": "KOHN PEDERSEN FOX ASSOCIATES PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "KOI PALACE CONTEMPO LLC",
+    "state": "CA",
+    "city": "CUPERTINO"
+  },
+  {
+    "employer": "KOJO TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "WALNUT"
+  },
+  {
+    "employer": "KOKUA KALIHI VALLEY COMPREHENSIVE FAMILY SERVICES",
+    "state": "HI",
+    "city": "HONOLULU"
+  },
+  {
+    "employer": "KOLLASOFT INC",
+    "state": "NJ",
+    "city": "MIDDLESEX"
+  },
+  {
+    "employer": "KOLON TISSUEGENE IN",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "KOLVAN CORPORATION",
+    "state": "TX",
+    "city": "LEWISVILLE"
+  },
+  {
+    "employer": "KOMATSU AMERICA CORP",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "KOMMFORCE SOLUTIONS INC",
+    "state": "TX",
+    "city": "COPPELL"
+  },
+  {
+    "employer": "KOMODO FIRE SYSTEMS INC",
+    "state": "CA",
+    "city": "MORGAN HILL"
+  },
+  {
+    "employer": "KOMODO HEALTH INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "KOMODO TECHNOLOGIES LLC",
+    "state": "MA",
+    "city": "DORCHESTER"
+  },
+  {
+    "employer": "KOMPUTER PLUS PERIPHERALS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "KONAMI GAMING INC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "KONBIZ INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "KONDURU CONSULTING SERVICES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "KONE INC",
+    "state": "IL",
+    "city": "LISLE"
+  },
+  {
+    "employer": "KONG INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "KONGREGATE INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "KONIAG MANAGEMENT SOLUTIONS LLC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "KONKASOFT LLC DBA SOFTIKON",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "KONSTANTIN PAVOLOTSKY DDS INC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "KONTOOR SERVICES LLC",
+    "state": "NC",
+    "city": "GREENSBORO"
+  },
+  {
+    "employer": "KOO CHINESE ACADEMY LLC",
+    "state": "NJ",
+    "city": "BASKING RIDGE"
+  },
+  {
+    "employer": "KOO CHOW CO LLP",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "KOOAPPS LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "KOOS MANUFACTURING INC",
+    "state": "CA",
+    "city": "SOUTH GATE"
+  },
+  {
+    "employer": "KOOWILL INC",
+    "state": "WI",
+    "city": "MENOMONIE"
+  },
+  {
+    "employer": "KOPENTECH LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "KORANDO CORPORATION",
+    "state": "GU",
+    "city": "GMF BARRIGADA"
+  },
+  {
+    "employer": "KORBER PHARMA SOFTWARE INC F K A WERUM IT SOLUTIONS AMERICA INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "KORBER SUPPLY CHAIN US INC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "KORCOMPTENZ INC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "KORE AI INC",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "KORE POWER INC",
+    "state": "ID",
+    "city": "COEUR D ALENE"
+  },
+  {
+    "employer": "KOREAN CHURCH OF ATLANTA UMC INC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "KOREAN COMMUNITY SVCS OF METROPOLITAN NEW YORK INC",
+    "state": "NY",
+    "city": "BAYSIDE"
+  },
+  {
+    "employer": "KOREAN HEALTH EDUCATION INFORMATION AND RESEARCH CENTER",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "KOREIN TILLERY PC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "KORN FERRY US",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "KORNERSTONE ADMINISTRATIVE SERVICES LLC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "KORNIT DIGITAL NORTH AMERICA INC",
+    "state": "NJ",
+    "city": "ENGLEWOOD"
+  },
+  {
+    "employer": "KORRUS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "KORTE CONSTRUCTION COMPANY DBA THE KORTE COMPANY",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "KOSHKIL NORTH AMERICA INC",
+    "state": "TX",
+    "city": "FORT WORTH"
+  },
+  {
+    "employer": "KOSTAL OF AMERICA INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "KOTOBUKIYA TREVES NORTH AMERICA KTNA",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "KOVA PRODUCTS INC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  }
+]

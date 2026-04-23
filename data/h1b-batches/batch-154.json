@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "MECKLER DENTAL PROVIDERS OLMSTED INC",
+    "state": "OH",
+    "city": "NORTH OLMSTED"
+  },
+  {
+    "employer": "MED-STRATEGIES INC DBA BRANSON MANAGEMENT GROUP IN NEVADA",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "MEDABLE INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "MEDABOME INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "MEDALLIA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDALOGIX LLC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "MEDCARE PHARMACY INC",
+    "state": "IL",
+    "city": "GURNEE"
+  },
+  {
+    "employer": "MEDCENTRAL HLTH SYSTEM DBA OHIOHEALTH MANSFIELD HOSPITAL",
+    "state": "OH",
+    "city": "MANSFIELD"
+  },
+  {
+    "employer": "MEDCESSITY INC",
+    "state": "CA",
+    "city": "LONG BEACH"
+  },
+  {
+    "employer": "MEDCOMPS CORPORATION",
+    "state": "IL",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "MEDCRYPT",
+    "state": "CA",
+    "city": "SOLANA BEACH"
+  },
+  {
+    "employer": "MEDEANALYTICS INC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "MEDECISION",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "MEDEFIL INC",
+    "state": "IL",
+    "city": "GLENDALE HEIGHTS"
+  },
+  {
+    "employer": "MEDENNIUM INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "MEDFORD AREA PUBLIC SCHOOL DISTRICT",
+    "state": "WI",
+    "city": "MEDFORD"
+  },
+  {
+    "employer": "MEDFORD SQUARE DENTISTRY AND IMPLANTS LLC",
+    "state": "MA",
+    "city": "MEDFORD"
+  },
+  {
+    "employer": "MEDGENOME INC",
+    "state": "CA",
+    "city": "FOSTER CITY"
+  },
+  {
+    "employer": "MEDGLOBAL INC",
+    "state": "IL",
+    "city": "CHICAGO RIDGE"
+  },
+  {
+    "employer": "MEDHA GLOBAL SERVICES LLC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "MEDHA TECHNOLOGIES LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "MEDHOST SERVICES INC",
+    "state": "TN",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "MEDIA TEK USA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "MEDIAAGILITY INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "MEDIACOM WORLDWIDE LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MEDIALAB AI INC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "MEDIAMATH INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MEDIAOCEAN LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDIATECH INC",
+    "state": "NY",
+    "city": "CORNING"
+  },
+  {
+    "employer": "MEDIATEK NORTH AMERICA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "MEDIATEK USA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDIAVEST WORLDWIDE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MEDICA CORP.",
+    "state": "MA",
+    "city": "BEDFORD"
+  },
+  {
+    "employer": "MEDICA SERVICES COMPANY LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDICAGO USA INC",
+    "state": "NC",
+    "city": "DURHAM"
+  },
+  {
+    "employer": "MEDICAL ASSET MANAGEMENT INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MEDICAL B&T SVCS LLC D/B/A PRACTICEFORCES",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "MEDICAL CARE OF BOSTON MANAGEMENT CORPORATION",
+    "state": "MA",
+    "city": "NEEDHAM"
+  },
+  {
+    "employer": "MEDICAL CENTER HOSPITAL",
+    "state": "TX",
+    "city": "ODESSA"
+  },
+  {
+    "employer": "MEDICAL COLLEGE OF WISCONSIN AFFILIATED HOSPITALS INC",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "MEDICAL COLLEGE OF WISCONSIN INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDICAL DEVICE BUSINESS SERVICES INC",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "MEDICAL DIAGNOSTIC SERVICES INC",
+    "state": "IL",
+    "city": "SKOKIE"
+  },
+  {
+    "employer": "MEDICAL EDUCATION ASSISTANCE CORPORATION",
+    "state": "TN",
+    "city": "JOHNSON CITY"
+  },
+  {
+    "employer": "MEDICAL FACILITIES SOLUTIONS LLC",
+    "state": "CA",
+    "city": "SANJOSE"
+  },
+  {
+    "employer": "MEDICAL FACULTY ASSOCIATES INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MEDICAL FOUNDATION INC",
+    "state": "MS",
+    "city": "MERIDIAN"
+  },
+  {
+    "employer": "MEDICAL FOUNDATION OF MISSISSIPPI DBA BAPTIST MEDICAL GROUP",
+    "state": "MS",
+    "city": "JACKSON"
+  },
+  {
+    "employer": "MEDICAL MANAGEMENT INTERNATIONAL INC",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "MEDICAL MUTUAL OF OHIO",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "MEDICAL TRANSPORTATION MANAGEMENT INC",
+    "state": "MO",
+    "city": "LAKE SAINT LOUIS"
+  },
+  {
+    "employer": "MEDICAL UNIVERSITY OF SC AND AFFIL",
+    "state": "SC",
+    "city": "CHARLESTON"
+  },
+  {
+    "employer": "MEDICOMP INC",
+    "state": "FL",
+    "city": "MELBOURNE"
+  },
+  {
+    "employer": "MEDICREDIT INC DBA THE OUTSOURCE GROUP",
+    "state": "MO",
+    "city": "EARTH CITY"
+  },
+  {
+    "employer": "MEDIDATA SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDIMMUNE LLC",
+    "state": "MD",
+    "city": "GAITHERSBURG"
+  },
+  {
+    "employer": "MEDIMPACT HEALTHCARE SYSTEMS INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "MEDISENS WIRELESS INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "MEDISOLV INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "MEDITERRANEAN SHIPPING COMPANY USA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "MEDLINE INDUSTRIES LP",
+    "state": "IL",
+    "city": "WINNETKA"
+  },
+  {
+    "employer": "MEDLYTIX LLC",
+    "state": "GA",
+    "city": "ROSWELL"
+  },
+  {
+    "employer": "MEDNAX SERVICES INC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "MEDNET HEALTHCARE SYSTEMS",
+    "state": "PA",
+    "city": "FEASTERVILLE TREVOSE"
+  },
+  {
+    "employer": "MEDPACE INC",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "MEDPLEX PHARMACY LLC",
+    "state": "MI",
+    "city": "BRIDGEPORT"
+  },
+  {
+    "employer": "MEDRA INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "MEDRIO INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "MEDSTAR GEORGETOWN MED CTR INC D/B/A MEDSTAR GEORGETOWN UNIV HOSP MGUH",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MEDSTAR GEORGETOWN MEDICAL CENTER INC D/B/A MGUH",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "MEDSTAR HEALTH INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "MEDSTAR HEALTH RESEARCH INSTITUTE INC",
+    "state": "MD",
+    "city": "HYATTSVILLE"
+  },
+  {
+    "employer": "MEDSTAR MEDICAL GROUP II LLC D B A MEDSTAR MEDICAL GROUP",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "MEDSTAR MEDICAL GROUP-SOUTHERN MARYLAND LLC D/B/A MEDSTAR SHAHMEDICAL GROUP",
+    "state": "MD",
+    "city": "HOLLYWOOD"
+  },
+  {
+    "employer": "MEDSTAR REHABILITATION SERVICES INC",
+    "state": "MI",
+    "city": "CANTON"
+  },
+  {
+    "employer": "MEDSTAR SHAH MSO LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDSYS TECHNOLOGIES INC",
+    "state": "FL",
+    "city": "HOLLYWOOD"
+  },
+  {
+    "employer": "MEDTRONIC INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEDUSIND INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "MEDUVI LLC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "MEDVISION INC",
+    "state": "IL",
+    "city": "ARLINGTON HEIGHTS"
+  },
+  {
+    "employer": "MEDZED LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MEENAS CORPORATION",
+    "state": "GU",
+    "city": "TAMUNING"
+  },
+  {
+    "employer": "MEGA CIRCUIT INC",
+    "state": "IL",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "MEGA CONTRACTING GROUP LLC",
+    "state": "NY",
+    "city": "ASTORIA"
+  },
+  {
+    "employer": "MEGA CREDIT BOOST",
+    "state": "CA",
+    "city": "ONTARIO"
+  },
+  {
+    "employer": "MEGAN SOFT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEGAN SOFT VA INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "MEGATRENDZ MEDIA USA INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "MEGAZONE CORPORATION",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "MEGHAZ INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "MEHARRY MEDICAL COLLEGE",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "MEI PARTNERS LLC",
+    "state": "FL",
+    "city": "WINTER PARK"
+  },
+  {
+    "employer": "MEI SERVICES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "MEIJER GREAT LAKES LIMITED PARTNERSHIP",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "MEILBERT DE VERA LOPEZ DBA NORTHERN CONSTRUCTION",
+    "state": "GU",
+    "city": "YIGO"
+  },
+  {
+    "employer": "MEJENTA SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "MEKANISM INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "MELALEUCA INC",
+    "state": "ID",
+    "city": "IDAHO FALLS"
+  },
+  {
+    "employer": "MELANIA CLARA LLC",
+    "state": "FL",
+    "city": "VERO BEACH"
+  }
+]

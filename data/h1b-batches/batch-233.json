@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "SUMMIT EXCAVATION & GRADING, LLC",
+    "state": "WY",
+    "city": "GREYBULL"
+  },
+  {
+    "employer": "SUMMIT HUMAN CAPITAL",
+    "state": "VA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "SUMMIT IMPORT CORP",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "SUMMIT MORTGAGE BANKERS INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "SUMMIT PHARMACY GROUP LLC DBA SUMMIT HEALTHCARE PHARMACY",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "SUMMIT PHYSICIAN SVCS",
+    "state": "PA",
+    "city": "CHAMBERSBURG"
+  },
+  {
+    "employer": "SUMMIT REHABILITATION PLLC",
+    "state": "CA",
+    "city": "CARLSBAD"
+  },
+  {
+    "employer": "SUMMIT RIDGE ENERGY LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "SUMMITWORKS TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "SUMNER COUNTY HOSPITAL DISTRICT NO 1",
+    "state": "KS",
+    "city": "CALDWELL"
+  },
+  {
+    "employer": "SUMO LOGIC INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "SUMTER COUNTY SCHOOLS",
+    "state": "GA",
+    "city": "AMERICUS"
+  },
+  {
+    "employer": "SUMTOTAL SYSTEMS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SUN AUTOMATION INC",
+    "state": "MD",
+    "city": "GLEN ARM"
+  },
+  {
+    "employer": "SUN CHEMICAL CORPORATION",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "SUN CLOUD LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SUN FRESH INTERNATIONAL, LLC",
+    "state": "CA",
+    "city": "VISALIA"
+  },
+  {
+    "employer": "SUN HING FOODS INC",
+    "state": "CA",
+    "city": "S SAN FRAN"
+  },
+  {
+    "employer": "SUN HOSPITALITY LLC",
+    "state": "GA",
+    "city": "MCDONOUGH"
+  },
+  {
+    "employer": "SUN LIFE FINANCIAL US SERVICES COMPANY INC",
+    "state": "MA",
+    "city": "WELLESLEY HILLS"
+  },
+  {
+    "employer": "SUN MAR MANAGEMENT SVCS INC",
+    "state": "CA",
+    "city": "BREA"
+  },
+  {
+    "employer": "SUN PACIFIC",
+    "state": "CA",
+    "city": "EXETER"
+  },
+  {
+    "employer": "SUN PHARMACEUTICAL INDUSTRIES INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "SUN POWER CONSULTING LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SUN RIVER HEALTH INC",
+    "state": "NY",
+    "city": "PEEKSKILL"
+  },
+  {
+    "employer": "SUN STATE CARDIOLOGY P C",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "SUN SYSTEMS LLC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "SUN TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SUN TRIBE SOLAR LLC",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE"
+  },
+  {
+    "employer": "SUN VILLAGE MANAGEMENT LLC",
+    "state": "FL",
+    "city": "BONITA SPRINGS"
+  },
+  {
+    "employer": "SUN-IT SOLUTIONS INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "SUNAR TECH SOLUTIONS INC",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "SUNBELT BEVERAGE COMPANY LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SUNBELT RENTALS INC",
+    "state": "SC",
+    "city": "FORT MILL"
+  },
+  {
+    "employer": "SUNBIT INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SUNCOKE TECHNOLOGY & DEVELOPMENT, LLC.",
+    "state": "IL",
+    "city": "LISLE"
+  },
+  {
+    "employer": "SUNDANCE INSTITUTE",
+    "state": "UT",
+    "city": "PARK CITY"
+  },
+  {
+    "employer": "SUNDT CONSTRUCTION INC",
+    "state": "AZ",
+    "city": "TEMPE"
+  },
+  {
+    "employer": "SUNERA TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SUNFLOWER COUNTY CONSOLIDATED SCHO",
+    "state": "MS",
+    "city": "INDIANOLA"
+  },
+  {
+    "employer": "SUNG HUANG AND CO, CPA, LLP",
+    "state": "CA",
+    "city": "ARTESIA"
+  },
+  {
+    "employer": "SUNGROW USA CORPORATION",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "SUNGWON GROUP LLC LOTTE PLAZA MARKET",
+    "state": "MD",
+    "city": "JESSUP"
+  },
+  {
+    "employer": "SUNIKSHA TECHNOLOGIES LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "SUNLAND LOGISTICS SOLUTIONS INC",
+    "state": "SC",
+    "city": "SIMPSONVILLE"
+  },
+  {
+    "employer": "SUNLIGHT FINANCIAL LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "SUNLIGHT IO INC",
+    "state": "UT",
+    "city": "MIDVALE"
+  },
+  {
+    "employer": "SUNLIGHT TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "SUWANEE"
+  },
+  {
+    "employer": "SUNMERGE SYSTEMS INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "SUNMODO CORPORATION",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "SUNNOVA ENERGY CORPORATION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SUNNY OPOTECH NORTH AMERICA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SUNNY SOFT SOLUTIONS LLC",
+    "state": "MD",
+    "city": "HAGERSTOWN"
+  },
+  {
+    "employer": "SUNNYSIDE UNIFIED SCHOOL DISTRICT 12",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "SUNPLUS DATA GROUP INC",
+    "state": "GA",
+    "city": "LAWRENCEVILLE"
+  },
+  {
+    "employer": "SUNPOWER CORPORATION",
+    "state": "CA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "SUNPOWER CORPORATION SYSTEMS",
+    "state": "CA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "SUNRAISE TECHNOLOGIES INC",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "SUNRAY ENTERPRISE INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SUNRAY INFORMATICS INC",
+    "state": "NJ",
+    "city": "EAST BRUNSWICK"
+  },
+  {
+    "employer": "SUNRAY INFORMATION TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "MONROE TOWNSHIP"
+  },
+  {
+    "employer": "SUNRAY INFOSYS INCORPORATION",
+    "state": "NJ",
+    "city": "PLAINSBORO"
+  },
+  {
+    "employer": "SUNRAY SYSTEMS INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "SUNRIDGE CORPORATION",
+    "state": "CA",
+    "city": "PASADENA"
+  },
+  {
+    "employer": "SUNRISE FUTURES LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "SUNRISE INFOTEK CORP DBA LIGHTNING MINDS",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "SUNRISE OLIVE RANCH LLC",
+    "state": "CA",
+    "city": "MONTEBELLO"
+  },
+  {
+    "employer": "SUNRISE PHARMACEUTICAL INC",
+    "state": "NJ",
+    "city": "RAHWAY"
+  },
+  {
+    "employer": "SUNRISE TECHNOLOGIES LLC",
+    "state": "NE",
+    "city": "GRAND ISLAND"
+  },
+  {
+    "employer": "SUNRUN INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SUNSET PARK HEALTH COUNCIL INC DBA FAMILY HEALTH CENTERS AT NYU LANGONE",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SUNSHINE INTERNATIONAL CORP",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "SUNSHINE MILLS INC",
+    "state": "AL",
+    "city": "RED BAY"
+  },
+  {
+    "employer": "SUNSHINE TECHNOLOGIES INC",
+    "state": "OH",
+    "city": "LEWIS CENTER"
+  },
+  {
+    "employer": "SUNSHINE TECHNOLOGY SOLUTIONS CORP DBA SUNSHINE TECH",
+    "state": "FL",
+    "city": "MIAMI LAKES"
+  },
+  {
+    "employer": "SUNSOFT SERVICES INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "SUNSOFT SOLUTIONS INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SUNSOFT TECHNOLOGIES INC",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "SUNSONG NORTH AMERICA INC",
+    "state": "OH",
+    "city": "DAYTON"
+  },
+  {
+    "employer": "SUNTEC BUSINESS SOLUTIONS INC",
+    "state": "PA",
+    "city": "CANONSBURG"
+  },
+  {
+    "employer": "SUNTEC BUSINESS SOLUTIONS PVT LTD",
+    "state": "PA",
+    "city": "CANONSBURG"
+  },
+  {
+    "employer": "SUNTECHPROS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SUNTEK SORPORATIONS INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "SUNTISFY INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "SUNY UPSTATE MEDICAL UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SUPER DEAL AUTO GROUP LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "SUPER DISPATCH INC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "SUPER DRIVE USA GROUP",
+    "state": "CA",
+    "city": "CITY OF INDUSTRY"
+  },
+  {
+    "employer": "SUPER EVIL MEGA CORP",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "SUPER HK OF EL MONTE INC",
+    "state": "CA",
+    "city": "EL MONTE"
+  },
+  {
+    "employer": "SUPER MICRO COMPUTER INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SUPER TECH CONSULTING LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SUPER TECHNOLOGY SOLUTIONS INC",
+    "state": "NJ",
+    "city": "DUNELLEN"
+  },
+  {
+    "employer": "SUPERDROP LABS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SUPERIOR CONSTRUCTION COMPANY",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "SUPERIOR ESSEX INTERNATIONAL INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SUPERIOR ESSEX SERVICES LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SUPERIOR INDUSTRIES INTERNATIONAL ARKANSAS LLC",
+    "state": "AR",
+    "city": "FAYETTEVILLE"
+  },
+  {
+    "employer": "SUPERIOR VISION BENEFIT MANAGEMENT INC",
+    "state": "MD",
+    "city": "LINTHICUM HEIGHTS"
+  }
+]

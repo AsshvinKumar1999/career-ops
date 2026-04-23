@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "COLLEGE OF WILLIAM AND MARY",
+    "state": "VA",
+    "city": "WILLIAMSBURG"
+  },
+  {
+    "employer": "COLLEGIUM PHARMACEUTICAL INC",
+    "state": "MA",
+    "city": "STOUGHTON"
+  },
+  {
+    "employer": "COLLETON COUNTY SCHOOL DISTRICT",
+    "state": "SC",
+    "city": "WALTERBORO"
+  },
+  {
+    "employer": "COLLIBRA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLLIERS ENGINEERING DESIGN INC",
+    "state": "CT",
+    "city": "MADISON"
+  },
+  {
+    "employer": "COLLIERS INTERNATIONAL SOUTH CAROLINA INC",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "COLLIERS INTERNATIONAL VALUATION & ADVISORY SERVICES LLC",
+    "state": "CO",
+    "city": "CENTENNIAL"
+  },
+  {
+    "employer": "COLLIS LLC",
+    "state": "KY",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "COLONIAL PIPELINE COMPANY",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "COLONIAL STAFFING GROUP INC",
+    "state": "MA",
+    "city": "WALPOLE"
+  },
+  {
+    "employer": "COLOR HEALTH INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLORADO COLLEGE",
+    "state": "CO",
+    "city": "COLORADO SPRINGS"
+  },
+  {
+    "employer": "COLORADO DEPT OF PUBLIC HEALTH & ENVIRONMENT CDPHE",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "COLORADO FOUNDATION FOR CONDUCTIVE EDUCATION",
+    "state": "CO",
+    "city": "LAFAYETTE"
+  },
+  {
+    "employer": "COLORADO INTERACTIVE LLC",
+    "state": "KS",
+    "city": "OLATHE"
+  },
+  {
+    "employer": "COLORADO MESA UNIVERSITY",
+    "state": "CO",
+    "city": "GRAND JUNCTION"
+  },
+  {
+    "employer": "COLORADO MOUNTAIN JR COLLEGE DIST D/B/A COLORADO MOUNTAIN COLLEGE",
+    "state": "CO",
+    "city": "GLENWOOD SPRINGS"
+  },
+  {
+    "employer": "COLORADO SCHOOL OF MINES",
+    "state": "CO",
+    "city": "GOLDEN"
+  },
+  {
+    "employer": "COLORADO STATE UNIV PUEBLO",
+    "state": "CO",
+    "city": "PUEBLO"
+  },
+  {
+    "employer": "COLORADO STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLORADO WEST HEALTHCARE SYSTEM D/B/A COMMUNITY HOSPITAL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLORTOKENS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "COLQUITT REGIONAL MEDICAL CENTER",
+    "state": "GA",
+    "city": "MOULTRIE"
+  },
+  {
+    "employer": "COLSH CONSULTANTS LLC",
+    "state": "NJ",
+    "city": "MONMOUTH JUNCTION"
+  },
+  {
+    "employer": "COLUBRISMX INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "COLUMBIA BASIN COLLEGE",
+    "state": "WA",
+    "city": "PASCO"
+  },
+  {
+    "employer": "COLUMBIA BRANDS USA LLC",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "COLUMBIA CHEMISTS LLC DBA FELDMANS MEDICAL CENTER PHARMACY",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "COLUMBIA COLLEGE",
+    "state": "MO",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "COLUMBIA DENTAL PC",
+    "state": "CT",
+    "city": "MANCHESTER"
+  },
+  {
+    "employer": "COLUMBIA INTL UNIV",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "COLUMBIA MANAGEMENT INVESTMENT ADVISERS LLC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "COLUMBIA SPORTSWEAR COMPANY",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "COLUMBIA ST MARY'S HOSPITAL MILWAUKEE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLUMBIA SURGICAL SPECIALISTS PS DBA SURGICAL SPECIALISTS OF SPOKANE",
+    "state": "WA",
+    "city": "SPOKANE"
+  },
+  {
+    "employer": "COLUMBIA UNION CONFERENCE OF SEVENTH DAY ADVENTISTS",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "COLUMBIA UNIVERSITY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "COLUMBIAN MUTUAL LIFE INSURANCE CO",
+    "state": "NY",
+    "city": "VESTAL"
+  },
+  {
+    "employer": "COLUMBUS AMBULATORY HEALTHCARE SERVICES INC",
+    "state": "GA",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS COLLEGE OF ART & DESIGN",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS COMMUNITY HOSPITAL",
+    "state": "TX",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS COMMUNITY HOSPITAL INC",
+    "state": "NE",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS INTERNATIONAL CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COLUMBUS LITERACY COUNCIL INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS MCKINNON CORPORATION",
+    "state": "NY",
+    "city": "GETZVILLE"
+  },
+  {
+    "employer": "COLUMBUS REGIONAL HEALTH PHYSICIANS LLC",
+    "state": "IN",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS REGIONAL HOSPITAL",
+    "state": "IN",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS STATE UNIVERSITY",
+    "state": "GA",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "COLUMBUS TECHNOLOGY SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COMANCHE BIOPHARMA CORP",
+    "state": "MA",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "COMANCHE COUNTY HOSPITAL AUTHORITY D/B/A COMANCHE COUNTY MEMORIAL HOSPITAL",
+    "state": "OK",
+    "city": "LAWTON"
+  },
+  {
+    "employer": "COMAU LLC",
+    "state": "MI",
+    "city": "SOUTHFIELD"
+  },
+  {
+    "employer": "COMBOCURVE INC",
+    "state": "TX",
+    "city": "HUMBLE"
+  },
+  {
+    "employer": "COMCAP HOLDINGS LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "COMCARE HOME HEALTH INC",
+    "state": "CA",
+    "city": "GLENDALE"
+  },
+  {
+    "employer": "COMCAST CABLE COMMUNICATIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COMERICA MANAGEMENT COMPANY",
+    "state": "MI",
+    "city": "AUBURN HILLS"
+  },
+  {
+    "employer": "COMETRICS PARTNERS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "COMFORTABLE CARE DENTAL HEALTH PROFESSIONALS PA",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "COMGEN AMERICA INC",
+    "state": "AL",
+    "city": "OPELIKA"
+  },
+  {
+    "employer": "COMMAND ALKON INC",
+    "state": "AL",
+    "city": "BIRMINGHAM"
+  },
+  {
+    "employer": "COMMAND NUTRITIONALS LLC",
+    "state": "NJ",
+    "city": "FAIRFIELD"
+  },
+  {
+    "employer": "COMMBRIDGE CORPORATION",
+    "state": "CA",
+    "city": "SAN BRUNO"
+  },
+  {
+    "employer": "COMMDEX CONSULTING LLC",
+    "state": "GA",
+    "city": "SMYRNA"
+  },
+  {
+    "employer": "COMMERCE TECHNOLOGIES LLC DBA COMMERCEHUB",
+    "state": "NY",
+    "city": "LATHAM"
+  },
+  {
+    "employer": "COMMERCECX INC",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "COMMERCIAL CREDIT GROUP",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "COMMERCIAL SEWING INC",
+    "state": "CT",
+    "city": "TORRINGTON"
+  },
+  {
+    "employer": "COMMERCIAL STAINLESS FABRICATORS, INC.",
+    "state": "GA",
+    "city": "MARIETTA"
+  },
+  {
+    "employer": "COMMERCIAL STEEL PRODUCTS LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "COMMERX US INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "COMMIITT LLC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "COMMITPOINT INC",
+    "state": "VA",
+    "city": "LEESBURG"
+  },
+  {
+    "employer": "COMMODORE CONSTRUCTION CORP",
+    "state": "NY",
+    "city": "MOUNT VERNON"
+  },
+  {
+    "employer": "COMMON FATE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "COMMON PROJECTS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "COMMON SECURITIZATION SOLUTIONS LLC",
+    "state": "MD",
+    "city": "BETHESDA"
+  },
+  {
+    "employer": "COMMON SENSE MEDIA INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "COMMONWEALTH CARE ALLIANCE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "COMMONWEALTH EDISON AN EXELON COMPANY",
+    "state": "PA",
+    "city": "KENNETT SQUARE"
+  },
+  {
+    "employer": "COMMONWEALTH ELECTRICAL TECHNOLOGIES INC",
+    "state": "MA",
+    "city": "WORCESTER"
+  },
+  {
+    "employer": "COMMONWEALTH EQUITY SERVICES LLC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "COMMONWEALTH HEALTH INSURANCE CONNECTOR AUTHORITY",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "COMMONWEALTH HEALTHCARE CORP",
+    "state": "MP",
+    "city": "SAIPAN"
+  },
+  {
+    "employer": "COMMONWEALTH OF MASSACHUSETTS D B A FITCHBURG STATE UNIVERSITY",
+    "state": "MA",
+    "city": "FITCHBURG"
+  },
+  {
+    "employer": "COMMONWEALTH UTILITIES CORPORATION",
+    "state": "MP",
+    "city": "SAIPAN"
+  },
+  {
+    "employer": "COMMSCOPE INC OF NORTH CAROLINA",
+    "state": "NC",
+    "city": "HICKORY"
+  },
+  {
+    "employer": "COMMSCOPE TECHNOLOGIES LLC",
+    "state": "NC",
+    "city": "HICKORY"
+  },
+  {
+    "employer": "COMMUNICARE HEALTH SERVICES",
+    "state": "OH",
+    "city": "BLUE ASH"
+  },
+  {
+    "employer": "COMMUNICATION TECHNOLOGY SERVICES LLC",
+    "state": "MA",
+    "city": "MARLBOROUGH"
+  },
+  {
+    "employer": "COMMUNICATIONS TEST DESIGN INC",
+    "state": "PA",
+    "city": "WEST CHESTER"
+  },
+  {
+    "employer": "COMMUNISPACE CORPORATION",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "COMMUNITION EXPERTS INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "COMMUNITY ASSISTANCE RESOURCES AND EXTENDED SERVICES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "COMMUNITY CARE HEALTH NETWORK LLC",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "COMMUNITY CONSOLIDATED SCHOOL DISTRICT 54",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "COMMUNITY COUNSELING AND MEDIATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COMMUNITY DESIGN ARCHITECTURE INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "COMMUNITY DEVELOPMENT VENTURE CAPITAL ALLIANCE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "COMMUNITY HEALTH ASSOCIATION OF SPOKANE",
+    "state": "WA",
+    "city": "SPOKANE"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "TG AUTOMOTIVE GROUP LLC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "TG MEDICAL USA INC",
+    "state": "CA",
+    "city": "AZUSA"
+  },
+  {
+    "employer": "TGCS CPAS A PROFESSIONAL CORPORATION",
+    "state": "CA",
+    "city": "BREA"
+  },
+  {
+    "employer": "TGS MANAGEMENT COMPANY LLC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "TGS NOPEC GEOPHYSICAL COMPANY",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "TGS TECHNOLOGY LLC",
+    "state": "NC",
+    "city": "WAXHAW"
+  },
+  {
+    "employer": "TGU SCHOOL DISTRICT NO 60",
+    "state": "ND",
+    "city": "TOWNER"
+  },
+  {
+    "employer": "THA CONSULTING INC",
+    "state": "PA",
+    "city": "BLUE BELL"
+  },
+  {
+    "employer": "THADDEUS STEVENS COLLEGE OF TECHNOLOGY",
+    "state": "PA",
+    "city": "LANCASTER"
+  },
+  {
+    "employer": "THALES AVIONICS INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THALES DIS CPL USA INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THALES DIS USA INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THALES TRANSPORT & SECURITY INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THAR PROCESS INC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "THARSTERN INC",
+    "state": "GA",
+    "city": "KENNESAW"
+  },
+  {
+    "employer": "THATGAMECOMPANY INC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "THAW DIGITAL INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "THE 400 PEOPLE INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "THE ACT 1 GROUP INC",
+    "state": "CA",
+    "city": "GLENDALE"
+  },
+  {
+    "employer": "THE ADMINISTRATION MP INC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "THE ADVERTISING COUNCIL INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ADVZOR GROUP LLC",
+    "state": "VA",
+    "city": "GLEN ALLEN"
+  },
+  {
+    "employer": "THE AKA TEAM INC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "THE ALFRED E MANN FOUNDATION FOR SCIENTIFIC RESEARCH",
+    "state": "CA",
+    "city": "VALENCIA"
+  },
+  {
+    "employer": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE AMERICAN CHEMICAL SOCIETY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE AMERICAN INSTITUTE OF ARCHITECTS",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE AND PARTNERSHIP HOLDINGS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ANDERSONS INC",
+    "state": "OH",
+    "city": "MAUMEE"
+  },
+  {
+    "employer": "THE ARNOLD GROUP LLC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "THE AROOSTOOK MEDICAL CENTER",
+    "state": "ME",
+    "city": "PRESQUE ISLE"
+  },
+  {
+    "employer": "THE ARTHUR PAGE SOCIETY DBA ARTHUR PAGE W PAGE SOCIETY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ASHLAR GROUP LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ASIAN AMERICANS FOR COMMUNITY INVOLVEMENT OF SANTA CLARA COUNTY INC AACI",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "THE ASPEN INSTITUTE",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE ASSISTANCE FUND INC",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "THE ASSOCIATED PRESS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ATLANTIC COUNCIL",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE AUSCHWITZ INSTITUTE FOR THE PREVENTION OF GENOCIDE AND MASS ATROCITIES",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE AUSTIN CLUB",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THE AVON COMPANY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE AWTY INTERNATIONAL SCHOOL",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "THE AYN RAND INSTITUTE THE CENTER FOR THE ADVANCEMENT OF OBJECTIVISM",
+    "state": "CA",
+    "city": "SANTA ANA"
+  },
+  {
+    "employer": "THE B&P TEAM LLC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "THE BANK OF NEW YORK MELLON",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE BANK OF NOVA SCOTIA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE BASE HOLDING COMPANY DBA MUSHROOM GG",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "THE BATON ROUGE CLINIC AMC",
+    "state": "LA",
+    "city": "BATON ROUGE"
+  },
+  {
+    "employer": "THE BEACON MUTUAL INSURANCE COMPANY",
+    "state": "RI",
+    "city": "WARWICK"
+  },
+  {
+    "employer": "THE BENEFICIENT COMPANY GROUP USA LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "THE BLUELINE GROUP",
+    "state": "WA",
+    "city": "KIRKLAND"
+  },
+  {
+    "employer": "THE BOARD OF DIRECTORS OF WITTENBERG COLLEGE DBA WITTENBERG UNIVERSITY",
+    "state": "OH",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "THE BOSTON CONSULTING GROUP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE BOWA GROUP INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE BOY SCOUTS OF AMERICA",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "THE BREAKTHROUGH INSTITUTE",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "THE BRIDGE SCHOOL",
+    "state": "CA",
+    "city": "BURLINGAME"
+  },
+  {
+    "employer": "THE BRITE GROUP",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "THE BRIXTON GROUP INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "THE BROOKDALE HOSPITAL MEDICAL CENTER",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "THE BROOKINGS INSTITUTION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE BROUSSARD GROUP INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THE BSST SOFTWARE GROUP D/B/A THE BOSTON GROUP",
+    "state": "MA",
+    "city": "NORTHBOROUGH"
+  },
+  {
+    "employer": "THE BUREAU OF NATIONAL AFFAIRS INC D/B/A BLOOMBERG INDUSTRY GROUP",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "THE BURGISS GROUP LLC",
+    "state": "NJ",
+    "city": "HOBOKEN"
+  },
+  {
+    "employer": "THE CA CONSERVATORY OF GUITAR INC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "THE CAPITAL MARKETS COMPANY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE CARLE FOUNDATION",
+    "state": "IL",
+    "city": "URBANA"
+  },
+  {
+    "employer": "THE CARLYLE GROUP EMPLOYEE CO LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE CAROLINE KLINE GALLAND HOME",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "THE CATHOLIC SCHOOLS FOUNDATION INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "THE CATHOLIC UNIVERSITY OF AMERICA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE CELLULAR CONNECTION LLC",
+    "state": "IN",
+    "city": "FISHERS"
+  },
+  {
+    "employer": "THE CHAMBERLAIN GROUP LLC",
+    "state": "IL",
+    "city": "OAK BROOK"
+  },
+  {
+    "employer": "THE CHARLES MACHINE WORKS INC",
+    "state": "OK",
+    "city": "PERRY"
+  },
+  {
+    "employer": "THE CHARLOTTE MECKLENBURG HOSPITAL AUTHORITY D B A ATRIUM HEALTH",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "THE CHAUTAUQUA CENTER",
+    "state": "NY",
+    "city": "DUNKIRK"
+  },
+  {
+    "employer": "THE CHEMOURS COMPANY FC LLC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "THE CHILD THERAPY INST OF MARIN",
+    "state": "CA",
+    "city": "SAN RAFAEL"
+  },
+  {
+    "employer": "THE CHILDREN S HOSPITAL OF PHILADELPHIA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE CHILDREN S MERCY HOSPITAL",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "THE CHILDRENS GUILD INC",
+    "state": "MD",
+    "city": "PARKVILLE"
+  },
+  {
+    "employer": "THE CHRIST HOSPITAL PHYSICIANS LLC",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "THE CHRISTIAN POST",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE CITY OF TYLER",
+    "state": "TX",
+    "city": "TYLER"
+  },
+  {
+    "employer": "THE CK GROUP INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "THE CLARA BARTON HOSPITAL ASSOCIATION INC",
+    "state": "KS",
+    "city": "HOISINGTON"
+  },
+  {
+    "employer": "THE CLEAR FUND DBA GIVEWELL",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "THE CLOROX COMPANY",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "THE CLOROX SERVICES COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE COCA COLA COMPANY",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "THE CODE CORPORATION",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "THE COLLEGE OF IDAHO",
+    "state": "ID",
+    "city": "CALDWELL"
+  },
+  {
+    "employer": "THE COLLEGE OF WOOSTER",
+    "state": "OH",
+    "city": "WOOSTER"
+  },
+  {
+    "employer": "THE COMMITTEE TO PROTECT JOURNALISTS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE COMMON APPLICATION INC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "THE COMMONWEALTH FUND",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE COMMUNITY SCHOOL OF MOUNT DESERT ISLAND",
+    "state": "ME",
+    "city": "MOUNT DESERT"
+  },
+  {
+    "employer": "THE CONCOURSE GROUP INC D/B/A METABRONX",
+    "state": "NY",
+    "city": "PLEASANTVILLE"
+  },
+  {
+    "employer": "THE CONSULTANTS CONSORTIUM INC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  }
+]

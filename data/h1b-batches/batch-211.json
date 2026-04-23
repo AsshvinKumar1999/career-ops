@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "SALEM INFOTECH INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "SALEM STATE UNIVERSITY",
+    "state": "MA",
+    "city": "SALEM"
+  },
+  {
+    "employer": "SALEM VA HEALTH CARE SYSTEM",
+    "state": "OK",
+    "city": "MUSKOGEE"
+  },
+  {
+    "employer": "SALERNO PACKAGING INC",
+    "state": "NY",
+    "city": "PLATTSBURGH"
+  },
+  {
+    "employer": "SALESFORCE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SALESLOFT INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SALIENSE CONSULTING LLC",
+    "state": "VA",
+    "city": "MC LEAN"
+  },
+  {
+    "employer": "SALIENT SYSTEMS CORPORATION",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "SALIGRAM SYSTEMS INC",
+    "state": "NJ",
+    "city": "PLAINSBORO"
+  },
+  {
+    "employer": "SALINA HEALTH EDUCATON FOUNDATION INC DBA SALINA FAMILY HEALTHCARE CENTER",
+    "state": "KS",
+    "city": "SALINA"
+  },
+  {
+    "employer": "SALINA REGIONAL HLTH CTR",
+    "state": "KS",
+    "city": "SALINA"
+  },
+  {
+    "employer": "SALINE VALLEY DIAGNOSTIC RADIOLOGY D/B/A SPECIALISTS IN MED IMAGING S C",
+    "state": "IL",
+    "city": "ELLERY"
+  },
+  {
+    "employer": "SALIOGEN THERAPEUTICS INC",
+    "state": "MA",
+    "city": "LEXINGTON"
+  },
+  {
+    "employer": "SALLIE MAE BANK",
+    "state": "DE",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "SALLY BEAUTY SUPPLY LLC",
+    "state": "TX",
+    "city": "DENTON"
+  },
+  {
+    "employer": "SALT DESIGN STUDIO LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "SALUD REVENUE PARTNERS LLC",
+    "state": "IN",
+    "city": "WEST LAFAYETTE"
+  },
+  {
+    "employer": "SALUJA MEDICAL ASSO P A",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "SALUS CAPITAL INC",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "SALUS LABS INC DBA TRIPLEBYTE",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SALVATIERRA LAW GROUP PLLC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "SAM ANALYTIC SOLUTIONS, LLC",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "SAM HOUSTON STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SAM NETWORK SYSTEMS LLC",
+    "state": "IL",
+    "city": "PEORIA"
+  },
+  {
+    "employer": "SAM'S STRINGS LLC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "SAMACARE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAMBA TV INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAMBANOVA SYSTEMS INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "SAMET CORPORATION",
+    "state": "NC",
+    "city": "GREENSBORO"
+  },
+  {
+    "employer": "SAMIR TADHA DENTAL CORPORATION",
+    "state": "CA",
+    "city": "REDLANDS"
+  },
+  {
+    "employer": "SAMITI TECHNOLOGY INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "SAMNI SYSTEMS LLC",
+    "state": "IN",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "SAMOOHA, INC",
+    "state": "CA",
+    "city": "LOS ALTOS HILLS"
+  },
+  {
+    "employer": "SAMP RX INC",
+    "state": "NY",
+    "city": "BRONX"
+  },
+  {
+    "employer": "SAMPLER STORES INC D/B/A RALLY HOUSE KANSAS SAMPLER",
+    "state": "KS",
+    "city": "LENEXA"
+  },
+  {
+    "employer": "SAMPRASOFT LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SAMRU SYSTEMS LLC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "SAMSARA INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAMSUNG AUSTIN SEMICONDUCTOR LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SAMSUNG ELECTRONICS AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SAMSUNG RESEARCH AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SAMSUNG SDI AMERICA INC",
+    "state": "MI",
+    "city": "AUBURN HILLS"
+  },
+  {
+    "employer": "SAMSUNG SDS AMERICA INC",
+    "state": "NJ",
+    "city": "RIDGEFIELD PARK"
+  },
+  {
+    "employer": "SAMSUNG SEMICONDUCTOR INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SAMTEC INC",
+    "state": "IN",
+    "city": "NEW ALBANY"
+  },
+  {
+    "employer": "SAMUDHRA INC",
+    "state": "NJ",
+    "city": "FRANKLIN PARK"
+  },
+  {
+    "employer": "SAMUEL MERRITT UNIVERSITY",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "SAMURAI INFOTECH LLC",
+    "state": "GA",
+    "city": "SUWANEE"
+  },
+  {
+    "employer": "SAMY'S DRUG STORE",
+    "state": "WA",
+    "city": "OLYMPIA"
+  },
+  {
+    "employer": "SAN BENITO HEALTH FOUNDATION",
+    "state": "CA",
+    "city": "HOLLISTER"
+  },
+  {
+    "employer": "SAN CARLOS UNIFIED SCHOOL DISTRICT 20",
+    "state": "AZ",
+    "city": "SAN CARLOS"
+  },
+  {
+    "employer": "SAN DIEGO BIOMEDICAL RESEARCH INST",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "SAN DIEGO STATE UNIVERSITY",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "SAN DIEGO STATE UNIVERSITY RESEARCH FOUNDATION",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "SAN DIEGO SUNRISE REALTY",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "SAN FRANCISCO HEALTH AUTHORITY DBA SAN FRANCISCO HEALTH PLAN",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAN FRANCISCO STATE UNIVERSITY",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAN FRANCISCO UNIFIED SCHOOL DISTRICT",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAN FRANCISCO UNIV HIGH SCHOOL",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SAN JOAQUIN COUNTY ON BEHALF OF SAN JOAQUIN COUNTY CLINICS D B A SAN JOAQUIN HEALTH CENTERS SJ HEALTH",
+    "state": "CA",
+    "city": "STOCKTON"
+  },
+  {
+    "employer": "SAN JOAQUIN CRITICAL CARE MEDICAL GROUP INC",
+    "state": "CA",
+    "city": "STOCKTON"
+  },
+  {
+    "employer": "SAN JOSE STATE UNIVERSITY",
+    "state": "CA",
+    "city": "FRESNO"
+  },
+  {
+    "employer": "SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SAN JOSE UNIFIED SCHOOL DISTRICT",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SAN MATEO FOSTER CITY SCHOOL DISTRICT",
+    "state": "CA",
+    "city": "FOSTER CITY"
+  },
+  {
+    "employer": "SAN MATEO HEALTHCARE AND WELLNESS CENTRE LP DBA BURLINGAME SKILLED NURSING",
+    "state": "CA",
+    "city": "BURLINGAME"
+  },
+  {
+    "employer": "SAN SOLUTIONS INC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "SANA BIOTECHNOLOGY INC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "SANABRIA & ASSOCIATES LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "SANAV TECHNOLOGIES LLC",
+    "state": "IA",
+    "city": "URBANDALE"
+  },
+  {
+    "employer": "SANCTITYINTERNATIONAL LLC",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "SANCTUS LLC DBA SHIFT DIGITAL",
+    "state": "MI",
+    "city": "BIRMINGHAM"
+  },
+  {
+    "employer": "SANDAG",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "SANDERS SANDERS BLOCK WOYCIK VIENER GROSSMAN PC",
+    "state": "NY",
+    "city": "GARDEN CITY"
+  },
+  {
+    "employer": "SANDIS CIVIL ENGINEERS SURVEYORS PLANNERS",
+    "state": "CA",
+    "city": "ROSEVILLE"
+  },
+  {
+    "employer": "SANDOZ INC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "SANDS ANDERSON PC",
+    "state": "VA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "SANDSRX LLC",
+    "state": "TX",
+    "city": "WYLIE"
+  },
+  {
+    "employer": "SANDSTONE STRUCTURES LLC",
+    "state": "NJ",
+    "city": "FORT LEE"
+  },
+  {
+    "employer": "SANDVICK ARCHITECTS INC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "SANDVIK PUBLISHING INTERACTIVE INC",
+    "state": "CT",
+    "city": "DANBURY"
+  },
+  {
+    "employer": "SANESO INC",
+    "state": "WV",
+    "city": "ELKINS"
+  },
+  {
+    "employer": "SANFORD",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD BISMARCK",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD BURNHAM PREBYS MEDICAL DISCOVERY INSTITUTE",
+    "state": "CA",
+    "city": "LA JOLLA"
+  },
+  {
+    "employer": "SANFORD CLINIC",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD CLINIC NORTH",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD HEALTH",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD HEISLER SHARP LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SANFORD NORTH",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANFORD RESEARCH",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SANGAMO THERAPEUTICS INC",
+    "state": "CA",
+    "city": "BRISBANE"
+  },
+  {
+    "employer": "SANGOMA US INC",
+    "state": "AL",
+    "city": "HUNTSVILLE"
+  },
+  {
+    "employer": "SANGUINE SOFTWARE SOLUTIONS INC",
+    "state": "NJ",
+    "city": "ROCHELLE PARK"
+  },
+  {
+    "employer": "SANHUA INTERNATIONAL INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SANI & ASSOCIATES LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SANIEE ARCHITECTS LLC",
+    "state": "CT",
+    "city": "TAFTVILLE"
+  },
+  {
+    "employer": "SANKOFA CONSULTING LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "SANMINA CORPORATION",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SANN IT SOLUTIONS INC",
+    "state": "VA",
+    "city": "HERNDON"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "AGC FLATE GLASS NORTH AMERICA INC DBA AGC AUTOMOTIVE AMERICAS CO",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "AGCO CORPORATION",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "AGE OF LEARNING INC",
+    "state": "CA",
+    "city": "GLENDALE"
+  },
+  {
+    "employer": "AGEATIA TECHNOLOGY CONSULTANCY SERVICES INC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "AGENT IQ INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "AGENTSYNC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "AGENUS INC",
+    "state": "MA",
+    "city": "LEXINGTON"
+  },
+  {
+    "employer": "AGERO ADMINISTRATIVE SERVICE CORP",
+    "state": "MA",
+    "city": "MEDFORD"
+  },
+  {
+    "employer": "AGFIRST FARM CREDIT BANK",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "AGGNE GLOBAL INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "AGGREGATE SOFTWARE TECHNOLOGY INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "AGILANT SOLUTIONS INC",
+    "state": "NY",
+    "city": "PORT WASHINGTON"
+  },
+  {
+    "employer": "AGILE ASPECTS LLC",
+    "state": "VA",
+    "city": "LEESBURG"
+  },
+  {
+    "employer": "AGILE DATAPRO INC",
+    "state": "CA",
+    "city": "CAMPBELL"
+  },
+  {
+    "employer": "AGILE GLOBAL CONSULTING INC",
+    "state": "VA",
+    "city": "VIRGINIA BEACH"
+  },
+  {
+    "employer": "AGILE GLOBAL SOLUTIONS INC",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "AGILE HEALTH TECHNOLOGIES INC",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "AGILE IT GLOBAL LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AGILE RESOURCES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "AGILE SCIENTIFIC GROUP",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "AGILE SPORTS TECHNOLOGIES INC",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "AGILE SQUAD INC",
+    "state": "NJ",
+    "city": "RIVER EDGE"
+  },
+  {
+    "employer": "AGILE TECHNOLOGIES INC",
+    "state": "MN",
+    "city": "WOODBURY"
+  },
+  {
+    "employer": "AGILE1TECH CORPORATION",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "AGILEASSETS INC",
+    "state": "CO",
+    "city": "BROOMFIELD"
+  },
+  {
+    "employer": "AGILEBITS USA INC DBA 1PASSWORD",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "AGILEITSERVICE LLC",
+    "state": "MN",
+    "city": "APPLE VALLEY"
+  },
+  {
+    "employer": "AGILENT TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "AGILEPOINT INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "AGILESOFT INC",
+    "state": "GA",
+    "city": "NORCROSS"
+  },
+  {
+    "employer": "AGILETAL TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "MIDDLESEX"
+  },
+  {
+    "employer": "AGILETRAILBLAZERS LLC DBA CIRRUSLABS",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "AGILEWIT SOLUTIONS INC",
+    "state": "TX",
+    "city": "LEWISVILLE"
+  },
+  {
+    "employer": "AGILIAD LLC",
+    "state": "CO",
+    "city": "BOULDER"
+  },
+  {
+    "employer": "AGILITAS USA INC",
+    "state": "TN",
+    "city": "CHATTANOOGA"
+  },
+  {
+    "employer": "AGILITI HEALTH INC",
+    "state": "MN",
+    "city": "EDEN PRAIRIE"
+  },
+  {
+    "employer": "AGILITY CIS INC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "AGILITY ROBOTICS INC",
+    "state": "OR",
+    "city": "TANGENT"
+  },
+  {
+    "employer": "AGILITY SOFTWARE SOLUTIONS LLC",
+    "state": "CA",
+    "city": "SACRAMENTO"
+  },
+  {
+    "employer": "AGILITY TECHNOLOGIES LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "AGILOFT INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "AGILYSIS INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AGILYSYS NV LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "AGIOS PHARMACEUTICALS INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "AGITECH SOLUTIONS INC",
+    "state": "FL",
+    "city": "ALTAMONTE SPG"
+  },
+  {
+    "employer": "AGL IT SOLUTIONS LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "AGMA SYSTEMS LLC",
+    "state": "NJ",
+    "city": "BASKING RIDGE"
+  },
+  {
+    "employer": "AGNES KIM AND ASSOCIATES P C D/B/A DREAM LAW",
+    "state": "TX",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "AGNETO INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "AGNICO EAGLE USA LIMITED",
+    "state": "NV",
+    "city": "RENO"
+  },
+  {
+    "employer": "AGORA LAB INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "AGRANEE TECH INC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "AGRATA SOLUTIONS LLC",
+    "state": "MD",
+    "city": "HAGERSTOWN"
+  },
+  {
+    "employer": "AGREEYA SOLUTIONS INC",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "AGRI STATS INC",
+    "state": "IN",
+    "city": "FORT WAYNE"
+  },
+  {
+    "employer": "AGRICULTURAL BANK OF CHINA LIMITED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AGRIFUL SOFTWARE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AGRIM TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "AGRIUM US INC",
+    "state": "CO",
+    "city": "LOVELAND"
+  },
+  {
+    "employer": "AGROWTH",
+    "state": "CA",
+    "city": "SAN LEANDRO"
+  },
+  {
+    "employer": "AGS HEALTH LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AGS LLC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "AGSOFTSOL INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AGURTO CORPORATION DBA PESTEC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "AH CAPITAL MANAGEMENT LLC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "AH INFOTECH LLC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "AH RECYCLING LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AHACLOUDS LLC",
+    "state": "TX",
+    "city": "COPPELL"
+  },
+  {
+    "employer": "AHANA CLOUD INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "AHAVA SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AHEAD INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AHEARN HOLTZMAN INC",
+    "state": "NY",
+    "city": "PORT CHESTER"
+  },
+  {
+    "employer": "AHRC NASSAU COUNTY CHAPTER",
+    "state": "NY",
+    "city": "GLEN HEAD"
+  },
+  {
+    "employer": "AHRC NYC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AHS HOSPITAL CORP",
+    "state": "NJ",
+    "city": "MORRISTOWN"
+  },
+  {
+    "employer": "AHUJA PARTNERSHIP ARCHITECTS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AI CONSULTANTS INC",
+    "state": "VA",
+    "city": "ALDIE"
+  },
+  {
+    "employer": "AI CYBER SOLUTIONS INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "AI ENGINEERS INC",
+    "state": "CT",
+    "city": "MIDDLETOWN"
+  },
+  {
+    "employer": "AI INTERNATIONAL LLC",
+    "state": "NJ",
+    "city": "PLAINFIELD"
+  },
+  {
+    "employer": "AI RANDOMTREES LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AI SOFTWARE LLC DBA CAPACITY",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "AI SOLUTIONS GEORGIA INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "AIBC SOLUTIONS LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "AIBEE US CORPORATION",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "AIBOT US OPERATION INC",
+    "state": "CA",
+    "city": "LONG BEACH"
+  },
+  {
+    "employer": "AIC INTERNATIONAL INC",
+    "state": "GU",
+    "city": "HAGATNA"
+  },
+  {
+    "employer": "AICADIUM, INC.",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "AICOMP CONSULTING INC",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "AIDASH",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "AIENTERPRISE INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "AIFA LABS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "AIFI INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "AIG ASSET MANAGEMENT US LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AIG CLAIMS INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "AIG EMPLOYEE SERVICES INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "AIG GLOBAL OPERATIONS INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "AIG LLP",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "AIG PC GLOBAL SERVICES INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "AIG TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  }
+]

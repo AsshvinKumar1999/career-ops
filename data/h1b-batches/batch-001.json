@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "40 86 ADVISORS INC SUBSIDIARY OF CNO SERVICES LLC",
+    "state": "IN",
+    "city": "CARMEL"
+  },
+  {
+    "employer": "400 CAPITAL MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "41ST PARAMETER INC",
+    "state": "CA",
+    "city": "COSTA MESA"
+  },
+  {
+    "employer": "42 NORTH DENTAL CARE LLC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "44 DESIGN LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "47 VENTURES LLC",
+    "state": "CA",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "4700 NORTH BAY ROAD LLC",
+    "state": "OH",
+    "city": "DUBLIN"
+  },
+  {
+    "employer": "4A CONSULTING LLC",
+    "state": "MD",
+    "city": "ELLICOTT CITY"
+  },
+  {
+    "employer": "4CONSULTING INC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "4D MOLECULAR THERAPEUTICS INC",
+    "state": "CA",
+    "city": "EMERYVILLE"
+  },
+  {
+    "employer": "4G CLINICAL LLC",
+    "state": "MA",
+    "city": "WELLESLEY HILLS"
+  },
+  {
+    "employer": "5 STAR INSTALLATIONS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "5FT2 STUDIO ARCHITECTS",
+    "state": "WA",
+    "city": "KIRKLAND"
+  },
+  {
+    "employer": "5M CONSTRUCTION CORPORATION",
+    "state": "GU",
+    "city": "BARRIGADA"
+  },
+  {
+    "employer": "6 RIVER SYSTEMS LLC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "605 LLC",
+    "state": "NY",
+    "city": "SYOSSET"
+  },
+  {
+    "employer": "615 PEO LLC DBA THE 615 GROUP",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "626OPCO LLC",
+    "state": "FL",
+    "city": "DELRAY BEACH"
+  },
+  {
+    "employer": "64-X INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "66DEGREES LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "6AI INC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "6COM INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "6D BYTES INC D/B/A BLENDID",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "6SENSE INSIGHTS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "7 ELEVEN INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "7 KINGS CODE LLC",
+    "state": "FL",
+    "city": "CORAL SPRINGS"
+  },
+  {
+    "employer": "777 DIGITAL LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "7CINFO COM INC",
+    "state": "ND",
+    "city": "FARGO"
+  },
+  {
+    "employer": "84.51 LLC",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "89 DEGREES INC",
+    "state": "MA",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "8X8 INC",
+    "state": "CA",
+    "city": "CAMPBELL"
+  },
+  {
+    "employer": "9 STAR TECHNOLOGIES LLC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "910 LLC",
+    "state": "PA",
+    "city": "BRYN MAWR"
+  },
+  {
+    "employer": "9DOTS TECHNOLOGY INC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "9EDGE INC",
+    "state": "CA",
+    "city": "SANTA ANA"
+  },
+  {
+    "employer": "9LLABS LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "9LOGIC TECHNOLOGIES INC",
+    "state": "WA",
+    "city": "REDMOND"
+  },
+  {
+    "employer": "9M SOLUTIONS INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "9THNETWORKS INC",
+    "state": "NH",
+    "city": "SOMERSWORTH"
+  },
+  {
+    "employer": "9TO9 SOFTWARE SOLUTIONS LLC",
+    "state": "CT",
+    "city": "EAST BERLIN"
+  },
+  {
+    "employer": "A & B ARCHITECTURE LLC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "A & B ENVIRONMENTAL SERVICES INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "A & C TECHNOLOGY INC",
+    "state": "CA",
+    "city": "NEWPORT BEACH"
+  },
+  {
+    "employer": "A & R ERECTORS INC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "A 1 REHAB & RECRUITMENT SERVICES INC",
+    "state": "CA",
+    "city": "FAIRFIELD"
+  },
+  {
+    "employer": "A 1 ROOF MANAGEMENT&CONSTRUCTION",
+    "state": "CA",
+    "city": "SAN LEANDRO"
+  },
+  {
+    "employer": "A 1 TECHNOLOGY INC",
+    "state": "CA",
+    "city": "AGOURA HILLS"
+  },
+  {
+    "employer": "A 7 B FOUNDRY LLC",
+    "state": "OH",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "A AND A INDUSTRIES INC",
+    "state": "MA",
+    "city": "PEABODY"
+  },
+  {
+    "employer": "A C & ASSOCIATES INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "A CARING DOCTOR MINNESOTA P A DBA BANFIELD PET HOSPITAL",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "A CARING DOCTOR P C DBA BANFIELD PET HOSPITAL",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "A CARING DOCTOR TEXAS PC DBA BANFIELD PET HOSPITAL",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "A E BOYCE COMPANY INC",
+    "state": "IN",
+    "city": "DALEVILLE"
+  },
+  {
+    "employer": "A E REAL ESTATE MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "A E TELEVISION NETWORKS LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "A F PAREDES AND CO CPAS LLP",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "A FAIRCHILD LLC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "A G CONSULTING ENGINEERING PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "A K CONSULTING SERVICES INC",
+    "state": "KS",
+    "city": "TOPEKA"
+  },
+  {
+    "employer": "A K DE RAMA INDUSTRIAL CONTROL SYSTEMS INC",
+    "state": "NJ",
+    "city": "MOUNTAINSIDE"
+  },
+  {
+    "employer": "A M FITZGERALD ASSOCIATES LLC",
+    "state": "CA",
+    "city": "BURLINGAME"
+  },
+  {
+    "employer": "A MAX INSURANCE SERVICES INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "A MODO MIO INC DBA ET VOILA",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "A O FOX MEMORIAL HOSPITAL",
+    "state": "NY",
+    "city": "ONEONTA"
+  },
+  {
+    "employer": "A O SMITH CORPORATION",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "A P DEAUVILLE LLC",
+    "state": "PA",
+    "city": "EASTON"
+  },
+  {
+    "employer": "A P THERAPY LLC",
+    "state": "OH",
+    "city": "BROADVIEW HEIGHTS"
+  },
+  {
+    "employer": "A PARTNERSHIP INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "A PERFECT SMILE ORTHODONTICS P C",
+    "state": "TX",
+    "city": "MCALLEN"
+  },
+  {
+    "employer": "A PLACE FOR MOM INC",
+    "state": "KS",
+    "city": "LEAWOOD"
+  },
+  {
+    "employer": "A PLACE OF HOPE, LLC",
+    "state": "OH",
+    "city": "DAYTON"
+  },
+  {
+    "employer": "A PLUS ADULT DAY HEALTH CARE INC",
+    "state": "CA",
+    "city": "BALDWIN PARK"
+  },
+  {
+    "employer": "A PLUS DENTAL PLLC ALL STAR SMILES",
+    "state": "TX",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "A PLUS INTERNATIONAL CULTURE COMMUNICATION INC",
+    "state": "MI",
+    "city": "LANSING"
+  },
+  {
+    "employer": "A SQUARED BUSINESSES AND CONSULTING LLC",
+    "state": "OH",
+    "city": "SPRINGBORO"
+  },
+  {
+    "employer": "A T KEARNEY INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "A T STILL UNIVERSITY OF HEALTH SCIENCES",
+    "state": "MO",
+    "city": "KIRKSVILLE"
+  },
+  {
+    "employer": "A TECH CONCRETE CO INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "A TECH SYSTEM LLC",
+    "state": "FL",
+    "city": "CORAL SPRINGS"
+  },
+  {
+    "employer": "A TO Z PHYSICAL THERAPY PC",
+    "state": "NY",
+    "city": "HOWARD BEACH"
+  },
+  {
+    "employer": "A Z PHARMACEUTICAL INC",
+    "state": "NY",
+    "city": "HAUPPAUGE"
+  },
+  {
+    "employer": "A&A INFOSYSTEMS INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "A&H TECHNOLOGIES LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "A&R CONSTRUCTION MGMT & DEVELOPMENT LLC",
+    "state": "AL",
+    "city": "GULF SHORES"
+  },
+  {
+    "employer": "A-TEK INC",
+    "state": "VA",
+    "city": "MC LEAN"
+  },
+  {
+    "employer": "A-Z MORTGAGE INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "A1 ASSOCIATES LLC",
+    "state": "NJ",
+    "city": "MONROE"
+  },
+  {
+    "employer": "A1 WHOLESALE SUPPLY LLC",
+    "state": "GA",
+    "city": "TUCKER"
+  },
+  {
+    "employer": "A10 NETWORKS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "A123 SYSTEMS LLC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "A1PLUSSOFT INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "A2 MEDIA CORPORATION",
+    "state": "MI",
+    "city": "ANN ARBOR"
+  },
+  {
+    "employer": "A25 SOLUTIONS LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "A2B DEVELOPMENT LLC",
+    "state": "CA",
+    "city": "LOOMIS"
+  },
+  {
+    "employer": "A2D TECHNOLOGIES INC DBA TGS GEOLOGICAL PRODUCTS AND SERVICES",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "A2RSYSTEMS INC",
+    "state": "OH",
+    "city": "POWELL"
+  },
+  {
+    "employer": "A2Z BUILDERS DEPOT LLC",
+    "state": "FL",
+    "city": "MOUNT DORA"
+  },
+  {
+    "employer": "A360 MEDIA LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "A4 MEDIA LLC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  }
+]

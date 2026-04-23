@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "UNIVERSITY OF CONNECTICUT,OFFICE OF GENERAL COUNSEL",
+    "state": "CT",
+    "city": "STORRS MANSFIELD"
+  },
+  {
+    "employer": "UNIVERSITY OF DALLAS",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "UNIVERSITY OF DAYTON",
+    "state": "OH",
+    "city": "DAYTON"
+  },
+  {
+    "employer": "UNIVERSITY OF DELAWARE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF DENVER",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "UNIVERSITY OF DETROIT MERCY",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "UNIVERSITY OF DTROIT MERCY",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "UNIVERSITY OF DUBUQUE",
+    "state": "IA",
+    "city": "DUBUQUE"
+  },
+  {
+    "employer": "UNIVERSITY OF FLORIDA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF GUAM",
+    "state": "GU",
+    "city": "MANGILAO"
+  },
+  {
+    "employer": "UNIVERSITY OF HARTFORD",
+    "state": "CT",
+    "city": "WEST HARTFORD"
+  },
+  {
+    "employer": "UNIVERSITY OF HAWAII",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF HOUSTON",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF IDAHO",
+    "state": "ID",
+    "city": "MOSCOW"
+  },
+  {
+    "employer": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF ILLINOIS FOUNDATION",
+    "state": "IL",
+    "city": "URBANA"
+  },
+  {
+    "employer": "UNIVERSITY OF INDIANAPOLIS",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "UNIVERSITY OF KANSAS HEALTH SYSTEM",
+    "state": "KS",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "UNIVERSITY OF KANSAS SCHOOL OF MEDICINE WICHITA MEDICAL PRACTICE ASSOCIATION",
+    "state": "KS",
+    "city": "WICHITA"
+  },
+  {
+    "employer": "UNIVERSITY OF KENTUCKY",
+    "state": "KY",
+    "city": "LEXINGTON"
+  },
+  {
+    "employer": "UNIVERSITY OF LOUISIANA AT LAFAYETTE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF LOUISVILLE",
+    "state": "KY",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "UNIVERSITY OF MAINE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MARY",
+    "state": "ND",
+    "city": "BISMARCK"
+  },
+  {
+    "employer": "UNIVERSITY OF MARY WASHINGTON",
+    "state": "VA",
+    "city": "FREDERICKSBURG"
+  },
+  {
+    "employer": "UNIVERSITY OF MARYLAND",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MARYLAND CHARLES REGIONAL MEDICAL CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MARYLAND FACULTY PHYSICIANS, INC.",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "UNIVERSITY OF MARYLAND MEDICAL SYSTEM",
+    "state": "MD",
+    "city": "LINTHICUM"
+  },
+  {
+    "employer": "UNIVERSITY OF MARYLAND UPPER CHESAPEAKE HEALTH SYSTEM INC",
+    "state": "MD",
+    "city": "BEL AIR"
+  },
+  {
+    "employer": "UNIVERSITY OF MASSACHUSETTS LOWELL",
+    "state": "MA",
+    "city": "LOWELL"
+  },
+  {
+    "employer": "UNIVERSITY OF MIAMI",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MICHIGAN",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MINNESOTA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF MINNESOTA PHYSICIANS",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "UNIVERSITY OF MISSISSIPPI",
+    "state": "MS",
+    "city": "UNIVERSITY"
+  },
+  {
+    "employer": "UNIVERSITY OF MISSISSIPPI MED CT",
+    "state": "MS",
+    "city": "JACKSON"
+  },
+  {
+    "employer": "UNIVERSITY OF MONTANA",
+    "state": "MT",
+    "city": "MISSOULA"
+  },
+  {
+    "employer": "UNIVERSITY OF NEBRASKA LINCOLN",
+    "state": "NE",
+    "city": "KEARNEY"
+  },
+  {
+    "employer": "UNIVERSITY OF NEBRASKA MED CENTER",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "UNIVERSITY OF NEVADA RENO",
+    "state": "NH",
+    "city": "RENO"
+  },
+  {
+    "employer": "UNIVERSITY OF NEW ENGLAND",
+    "state": "ME",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "UNIVERSITY OF NEW HAMPSHIRE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NEW HAVEN",
+    "state": "CT",
+    "city": "WEST HAVEN"
+  },
+  {
+    "employer": "UNIVERSITY OF NEW MEXICO",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NEW MEXICO HOSPITALS",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "UNIVERSITY OF NEW ORLEANS",
+    "state": "LA",
+    "city": "NEW ORLEANS"
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH DAKOTA",
+    "state": "ND",
+    "city": "GRAND FORKS"
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH FLORIDA",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH GEORGIA",
+    "state": "GA",
+    "city": "DAHLONEGA"
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH TEXAS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NORTH TEXAS HEALTH SCIENCE CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NORTHERN COLORADO",
+    "state": "CO",
+    "city": "GREELEY"
+  },
+  {
+    "employer": "UNIVERSITY OF NORTHERN IOWA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF NOTRE DAME DU LAC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF OREGON",
+    "state": "OR",
+    "city": "EUGENE"
+  },
+  {
+    "employer": "UNIVERSITY OF PENNSYLVANIA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF PITTSBURGH",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF PROVIDENCE",
+    "state": "WA",
+    "city": "RENTON"
+  },
+  {
+    "employer": "UNIVERSITY OF PUGET SOUND",
+    "state": "WA",
+    "city": "TACOMA"
+  },
+  {
+    "employer": "UNIVERSITY OF REDLANDS",
+    "state": "CA",
+    "city": "REDLANDS"
+  },
+  {
+    "employer": "UNIVERSITY OF RHODE ISLAND",
+    "state": "RI",
+    "city": "KINGSTON"
+  },
+  {
+    "employer": "UNIVERSITY OF ROCHESTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF SAN DIEGO",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "UNIVERSITY OF SCRANTON",
+    "state": "PA",
+    "city": "SCRANTON"
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTH ALABAMA",
+    "state": "AL",
+    "city": "MOBILE"
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTH CAROLINA",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTH FLORIDA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTHERN INDIANA",
+    "state": "IN",
+    "city": "EVANSVILLE"
+  },
+  {
+    "employer": "UNIVERSITY OF SOUTHERN MISSISSIPPI",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF ST THOMAS",
+    "state": "MN",
+    "city": "SAINT PAUL"
+  },
+  {
+    "employer": "UNIVERSITY OF TEXAS AT ARLINGTON",
+    "state": "TX",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "UNIVERSITY OF TEXAS AT SAN ANTONIO",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "UNIVERSITY OF THE INCARNATE WORD",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "UNIVERSITY OF THE PACIFIC",
+    "state": "CA",
+    "city": "STOCKTON"
+  },
+  {
+    "employer": "UNIVERSITY OF THE SOUTHWEST",
+    "state": "NM",
+    "city": "HOBBS"
+  },
+  {
+    "employer": "UNIVERSITY OF THE VIRGIN ISLANDS RESEARCH AND TECHNOLOGY PARK CORPORATION",
+    "state": "VI",
+    "city": "KINGSHILL"
+  },
+  {
+    "employer": "UNIVERSITY OF TOLEDO",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF TULSA",
+    "state": "OK",
+    "city": "TULSA"
+  },
+  {
+    "employer": "UNIVERSITY OF UTAH",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF VERMONT HEALTH NETWORK ALICE HYDE MEDICAL CENTER",
+    "state": "NY",
+    "city": "MALONE"
+  },
+  {
+    "employer": "UNIVERSITY OF VERMONT HEALTH NETWORK MEDICAL GROUP",
+    "state": "NY",
+    "city": "PLATTSBURGH"
+  },
+  {
+    "employer": "UNIVERSITY OF VERMONT HEALTH NETWORK PORTER MEDICAL CENTER INC",
+    "state": "VT",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "UNIVERSITY OF VERMONT HLTH NETWORK MEDICAL GROUP INC",
+    "state": "NY",
+    "city": "PLATTSBURGH"
+  },
+  {
+    "employer": "UNIVERSITY OF VIRGINIA INVESTMENT MANAGEMENT CO",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE"
+  },
+  {
+    "employer": "UNIVERSITY OF WASHINGTON",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "UNIVERSITY OF WEST FLORIDA",
+    "state": "FL",
+    "city": "PENSACOLA"
+  },
+  {
+    "employer": "UNIVERSITY OF WISCONSIN WHITEWATER",
+    "state": "WI",
+    "city": "WHITEWATER"
+  },
+  {
+    "employer": "UNIVERSITY OF WYOMING",
+    "state": "WY",
+    "city": "LARAMIE"
+  },
+  {
+    "employer": "UNIVERSITY PEDIATRICIANS",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "UNIVERSITY PHYSICAL THERAPY",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "UNIVERSITY PHYSICIANS & SURGEONS INC",
+    "state": "WV",
+    "city": "HUNTINGTON"
+  },
+  {
+    "employer": "UNIVERSITY PHYSICIANS OF BROOKLYN INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "UNIVERSITY PRIMARY CARE PRACTICES INC DBA UNIVERSITY HOSPITALS MEDICAL PRACTICES",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "UNIVERSITY SETTLEMENT SOCIETY OF NEW YORK",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "UNLIMITED PCS GEORGIA LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "UNMC PHYSICIANS",
+    "state": "NE",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "UNO RECRUIT LLC",
+    "state": "IL",
+    "city": "ARLINGTON HEIGHTS"
+  }
+]

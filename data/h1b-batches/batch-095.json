@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "FRANKLIN ADVISERS INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "FRANKLIN CITY PUBLIC SCHOOLS",
+    "state": "VA",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "FRANKLIN COUNTY MEDICAL ASSOCIATES LLC DBA KIDNEY CARE CENTER CHAMBERSBURG",
+    "state": "IL",
+    "city": "JOLIET"
+  },
+  {
+    "employer": "FRANKLIN ELECTRIC CO INC",
+    "state": "IN",
+    "city": "FORT WAYNE"
+  },
+  {
+    "employer": "FRANKLIN ENERGY SERVICES LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "FRANKLIN GLOBAL SOLUTIONS INC",
+    "state": "PA",
+    "city": "HANOVER"
+  },
+  {
+    "employer": "FRANKLIN INFOTECH INC",
+    "state": "TX",
+    "city": "CEDAR PARK"
+  },
+  {
+    "employer": "FRANKLIN MADISON GROUP LLC",
+    "state": "TN",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "FRANKLIN PARK MGT LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "FRANKLIN PIERCE UNIVERSITY",
+    "state": "NH",
+    "city": "RINDGE"
+  },
+  {
+    "employer": "FRANKLIN PUBLIC SCHOOL DISTRICT",
+    "state": "WI",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "FRANKLIN SCHOOL FOR THE PERFORMING ARTS",
+    "state": "MA",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "FRANKLIN TEMPLETON COMPANIES LLC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "FRANKLIN TEMPLETON INVESTMENTS",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "FRANKTEC LLC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "FRATELLI BERETTA USA INC",
+    "state": "NJ",
+    "city": "MOUNT OLIVE"
+  },
+  {
+    "employer": "FRAUNHOFER USA INC",
+    "state": "MI",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "FRED HUTCHINSON CANCER CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FRED HUTCHINSON CANCER RES CENTER",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "FREDONIA INC",
+    "state": "IL",
+    "city": "WHEATON"
+  },
+  {
+    "employer": "FREDRIKSON & BYRON, P.A.",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "FREE RANGE GAMES",
+    "state": "CA",
+    "city": "SAUSALITO"
+  },
+  {
+    "employer": "FREEDOM DEBT RELIEF LLC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "FREEDOM ELECTRONICS LLC",
+    "state": "GA",
+    "city": "KENNESAW"
+  },
+  {
+    "employer": "FREEDOM FINANCIAL ASSET MANAGEMENT LLC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "FREEDOM FINANCIAL NETWORK FUNDING LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FREEDOM MORTGAGE CORPORATION",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "FREEDOM PREPARATORY ACADEMY CHARTER SCHOOLS",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "FREEDOM SOLUTIONS GROUP LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "FREEHOLD REGIONAL HIGH SCHOOL DISTRICT",
+    "state": "NJ",
+    "city": "ENGLISHTOWN"
+  },
+  {
+    "employer": "FREELANCE LABS INC DBA BRAINTRUST NETWORKS",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "FREELY IN HOPE",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "FREEMAN HEALTH SYSTEM",
+    "state": "MO",
+    "city": "JOPLIN"
+  },
+  {
+    "employer": "FREENOME HOLDINGS INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "FREEOSK INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "FREEPOINT COMMODITIES LLC",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "FREEPORT LNG DEVELOPMENT LP",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "FREEPORT MCMORAN BAGDAD INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FREEPORT MCMORAN MORENCI INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "FREEPORT MCMORAN SIERRITA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FREEPORT MINERALS CORPORATION",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "FREEPORT SCHOOL DISTRICT 145",
+    "state": "IL",
+    "city": "FREEPORT"
+  },
+  {
+    "employer": "FREESE AND NICHOLS INC",
+    "state": "TX",
+    "city": "FORT WORTH"
+  },
+  {
+    "employer": "FREESPIRA INC",
+    "state": "WA",
+    "city": "KIRKLAND"
+  },
+  {
+    "employer": "FREESTONE MIDSTREAM MANAGEMENT LLC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "FREEWIRE TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "FREIGHTCAR AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FREIGHTLINER CUSTOM CHASSIS CORPORATION",
+    "state": "SC",
+    "city": "GAFFNEY"
+  },
+  {
+    "employer": "FREIXENET MIONETTO USA INC",
+    "state": "NY",
+    "city": "WHITE PLAINS"
+  },
+  {
+    "employer": "FRENCH AMERICAN INTERNATIONAL SCHOOL",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "FRENCHMANS CREEK, INC.",
+    "state": "FL",
+    "city": "PALM BCH GDNS"
+  },
+  {
+    "employer": "FREQUENCE INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "FRESENIUS KABI USA LLC",
+    "state": "IL",
+    "city": "LAKE ZURICH"
+  },
+  {
+    "employer": "FRESENIUS MANAGEMENT SERVICES INC A FRESENIUS MEDICAL CARE NA COMPANY",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "FRESENIUS USA INC A FRESENIUS MEDICAL CARE NA COMPANY",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "FRESENIUS USA MANUFACTURING INC A FRESENIUS MEDICAL CARE NA COMPANY",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "FRESH DIRECT LLC",
+    "state": "NY",
+    "city": "BRONX"
+  },
+  {
+    "employer": "FRESH GRAVITY INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "FRESH INTERNATIONAL SCHAUMBURG CORP",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "FRESH POND PHYSICAL THERAPY PC",
+    "state": "NY",
+    "city": "RIDGEWOOD"
+  },
+  {
+    "employer": "FRESH2 TECHNOLOGY INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRESHFIELDS BRUCKHAUS DERINGER US LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRESHLATINA LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "FRESNO COMMUNITY HOSPITAL & MEDICAL CENTER DBA COMMUNITY HEALTH SYSTEM",
+    "state": "CA",
+    "city": "FRESNO"
+  },
+  {
+    "employer": "FRESNO SKILLED NURSING & WELLNESS CENTRE LLC DBA HEALTHCARE CENTRE OF FRESNO",
+    "state": "CA",
+    "city": "FRESNO"
+  },
+  {
+    "employer": "FREUDENBERG BATTERY POWER SYSTEMS LLC",
+    "state": "MI",
+    "city": "MIDLAND"
+  },
+  {
+    "employer": "FREUDENBERG MEDICAL LLC",
+    "state": "CA",
+    "city": "BALDWIN PARK"
+  },
+  {
+    "employer": "FREUDENBERG NOK GENERAL PARTNERSHIP",
+    "state": "MI",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "FREYR INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "FREYSSINET INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "FRIED FRANK HARRIS SHRIVER JACOBSON LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRIEDE & GOLDMAN LLC DBA FRIEDE & GOLDMAN LTD",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "FRIEDMAN BENDA LLC DBA FRIEDMAN BENDA",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRIEDMAN LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRIENDBUY INC",
+    "state": "CA",
+    "city": "PALOS VERDES PENINSU"
+  },
+  {
+    "employer": "FRIENDLY CONSULTANTS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FRIENDS AND FAMILY HOMECARE SERVICES PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRIENDS OF TEACH FOR INDIA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FRIENDSHIP CHRISTIAN SCHOOL INC",
+    "state": "GA",
+    "city": "SUWANEE"
+  },
+  {
+    "employer": "FRIENDSHIP PUBLIC CHARTER SCHOOL",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "FRITO LAY INC",
+    "state": "NY",
+    "city": "PURCHASE"
+  },
+  {
+    "employer": "FROMKIN BROTHERS INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "FRONTAGE LABORATORIES INC",
+    "state": "PA",
+    "city": "EXTON"
+  },
+  {
+    "employer": "FRONTAGE TECHNOLOGIES, INC.",
+    "state": "MN",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "FRONTED ARTS",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "FRONTIDA BIOPHARM INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FRONTIER AIRLINES",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "FRONTIER COMMUNICATIONS PARENT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FRONTIER INVESTMENT GROUP LLC",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "FRONTIER IT SOLUTIONS INC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "FRONTIER KEMPER CONSTRUCTORS INC",
+    "state": "MA",
+    "city": "FRAMINGHAM"
+  },
+  {
+    "employer": "FRONTIER SCHOOLS INC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "FRONTIER SCIENCE AND TECHNOLOGY RESEARCH FOUNDATION INC",
+    "state": "MA",
+    "city": "BROOKLINE"
+  },
+  {
+    "employer": "FRONTIER TECHNOLOGIES LLC",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "FRONTIERS ACADEMY",
+    "state": "CA",
+    "city": "COSTA MESA"
+  },
+  {
+    "employer": "FRONTLINE COMMUNITY SERVICES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "FRONTLINE INSURANCE MANAGERS INC DBA FRONTLINE INSURANCE",
+    "state": "FL",
+    "city": "LAKE MARY"
+  },
+  {
+    "employer": "FRONTPOINT SECURITY SOLUTIONS LLC",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "FROSS ZELNICK LEHRMAN ZISSU PC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "FROST BANK",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  }
+]

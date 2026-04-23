@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "NEW LAND CAPITAL LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW LEAF ENERGY INC",
+    "state": "MA",
+    "city": "LOWELL"
+  },
+  {
+    "employer": "NEW LONDON COUNTY MUTUAL INSURANCE COMPANY",
+    "state": "CT",
+    "city": "NORWICH"
+  },
+  {
+    "employer": "NEW MAINSTREAM PRESS INC",
+    "state": "PA",
+    "city": "BALA CYNWYD"
+  },
+  {
+    "employer": "NEW META ENTERTAINMENT INC DBA DIGNITAS",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "NEW MEXICO CONSORTIUM",
+    "state": "NM",
+    "city": "LOS ALAMOS"
+  },
+  {
+    "employer": "NEW MEXICO HIGHLANDS UNIVERSITY",
+    "state": "NM",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "NEW MEXICO INSTITUTE OF MINING AND TECHNOLOGY",
+    "state": "NM",
+    "city": "SOCORRO"
+  },
+  {
+    "employer": "NEW MEXICO MILITARY INSTITUTE",
+    "state": "NM",
+    "city": "ROSWELL"
+  },
+  {
+    "employer": "NEW MEXICO ONCOLOGY HEMATOLOGY CONSULTANTS LTD NEW MEXICO CANCER CENTER",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "NEW MEXICO PSYCHIATRIC SERVICES",
+    "state": "NM",
+    "city": "ROSWELL"
+  },
+  {
+    "employer": "NEW MEXICO STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEW MILLENIUM CONSULTING LLC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NEW MILLENNIUM BANK",
+    "state": "NJ",
+    "city": "FORT LEE"
+  },
+  {
+    "employer": "NEW NEIGHBORHOODS INC",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "NEW ORLEANS BAPTIST THEOLOGICAL SEMINARY",
+    "state": "LA",
+    "city": "NEW ORLEANS"
+  },
+  {
+    "employer": "NEW PARADIGM FOR EDUCATION INC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "NEW RELIC INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "NEW RSC LLC",
+    "state": "PA",
+    "city": "WARRENDALE"
+  },
+  {
+    "employer": "NEW SPRINGS INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "NEW STYLE CONTRACTORS INC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "NEW SUN INTERNATIONAL TRAVEL INC",
+    "state": "MA",
+    "city": "DORCHESTER"
+  },
+  {
+    "employer": "NEW SUN ROAD P B C",
+    "state": "CA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "NEW TOWN PUBLIC SCHOOL DISTRICT 1",
+    "state": "ND",
+    "city": "NEW TOWN"
+  },
+  {
+    "employer": "NEW VAN DAN ENTERPRISES INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "NEW VISIONS FOR PUBLIC SCHOOLS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW VISTA BEHAVOIRAL HEALTHCARE INC",
+    "state": "KY",
+    "city": "LEXINGTON"
+  },
+  {
+    "employer": "NEW WAVE CARD LP DBA CAPITAL ON TAP",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NEW WAVE LLC",
+    "state": "OR",
+    "city": "SCIO"
+  },
+  {
+    "employer": "NEW WORLD GENERATION LLC",
+    "state": "NJ",
+    "city": "LITTLE FERRY"
+  },
+  {
+    "employer": "NEW WORLD MARKET LLC DBA FRESH INTERNATIONAL MARKET",
+    "state": "IL",
+    "city": "CHAMPAIGN"
+  },
+  {
+    "employer": "NEW YORK AIR BRAKE LLC",
+    "state": "NY",
+    "city": "WATERTOWN"
+  },
+  {
+    "employer": "NEW YORK BLOOD CENTER",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK CERTIFIED INTERIOR CORPORATION DBA NEW YORK MAJOR CONSTRUCTION DEVELOPMENT",
+    "state": "NY",
+    "city": "AIRMONT"
+  },
+  {
+    "employer": "NEW YORK CITY CRIMINAL JUSTICE AGENCY INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEW YORK CITY DEPARTMENT OF EDUCATION",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "NEW YORK CIVIL LIBERTIES UNION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK COLLEGE OF HLTH PROFESSIONS",
+    "state": "NY",
+    "city": "SYOSSET"
+  },
+  {
+    "employer": "NEW YORK COMMUNITY BANK",
+    "state": "NY",
+    "city": "HICKSVILLE"
+  },
+  {
+    "employer": "NEW YORK COMMUNITY LEAGUE INC",
+    "state": "NY",
+    "city": "STATEN ISLAND"
+  },
+  {
+    "employer": "NEW YORK CONFERENCE OF SEVENTH DAY ADVENTISTS",
+    "state": "NY",
+    "city": "SYRACUSE"
+  },
+  {
+    "employer": "NEW YORK CONSOLIDATED INC (CARA)",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK DESIGN ARCHITECTS LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK FOOD AND DRINK QUEENS BOULEVARD INC",
+    "state": "NY",
+    "city": "ELMHURST"
+  },
+  {
+    "employer": "NEW YORK GENOME CENTER INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK GLOBAL CONSULTANTS INC",
+    "state": "NY",
+    "city": "UNIONDALE"
+  },
+  {
+    "employer": "NEW YORK IMMIGRATION SERVICE LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK INDEPENDENT SYSTEM OPERATOR",
+    "state": "NY",
+    "city": "RENSSELAER"
+  },
+  {
+    "employer": "NEW YORK INSTITUTE OF TECHNOLOGY",
+    "state": "NY",
+    "city": "OLD WESTBURY"
+  },
+  {
+    "employer": "NEW YORK INTERNATIONAL YOUTH PHILHARMONIC INC DOING BUSINESS AS JOYOUS MUSIC SCHOOL",
+    "state": "NY",
+    "city": "SYOSSET"
+  },
+  {
+    "employer": "NEW YORK LIFE INSURANCE COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEW YORK MART MANAGEMENT INC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "NEW YORK MEDICAL COLLEGE",
+    "state": "NY",
+    "city": "VALHALLA"
+  },
+  {
+    "employer": "NEW YORK MERCANTILE EXCHANGE INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "NEW YORK POWER AUTHORITY",
+    "state": "NY",
+    "city": "WHITE PLAINS"
+  },
+  {
+    "employer": "NEW YORK PRESBYTERIAN HOSPITAL WEILL CORNELL CAMPUS",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "NEW YORK PSYCHOTHERAPY AND COUNSELING CENTER",
+    "state": "NY",
+    "city": "JAMAICA"
+  },
+  {
+    "employer": "NEW YORK STRUCTURAL BIOLOGY CENTER",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK TECHNOLOGY PARTNERS INC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "NEW YORK THEOLOGICAL EDUCATION CENTER INC",
+    "state": "NY",
+    "city": "WHITESTONE"
+  },
+  {
+    "employer": "NEW YORK TIMES COMPANY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK UNIVERSITY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEW YORK VALUE CLUB LTD",
+    "state": "NY",
+    "city": "FARMINGDALE"
+  },
+  {
+    "employer": "NEWA TECHNOLOGY INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "NEWACME LLC",
+    "state": "OR",
+    "city": "LAKE OSWEGO"
+  },
+  {
+    "employer": "NEWARK BETH ISRAEL MEDICAL CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEWARK SCHOOL OF THE ARTS",
+    "state": "NJ",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "NEWBANKS INC/FLORIDA",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "NEWBERRY  COLLEGE",
+    "state": "SC",
+    "city": "NEWBERRY"
+  },
+  {
+    "employer": "NEWBIE SOFT SOLUTIONS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "NEWBORN TRAVEL PLAZA LLC",
+    "state": "GA",
+    "city": "TALLAPOOSA"
+  },
+  {
+    "employer": "NEWBRIGHT LAW GROUP A P C",
+    "state": "CA",
+    "city": "ROWLAND HEIGHTS"
+  },
+  {
+    "employer": "NEWDREAM DATA SYSTEMS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "NEWEGG INC",
+    "state": "CA",
+    "city": "CITY OF INDUSTRY"
+  },
+  {
+    "employer": "NEWELL BRANDS DISTRIBUTION LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NEWFOLD DIGITAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEWLAND CAPITAL GROUP LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NEWLIGHT PARTNERS LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEWMAN INTERNATIONAL ACADEMY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEWMAN UNIVERSITY INC",
+    "state": "KS",
+    "city": "WICHITA"
+  },
+  {
+    "employer": "NEWMARKET SERVICES CORPORATION",
+    "state": "VA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "NEWMONT INTERNATIONAL SERVICES LIMITED",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "NEWPARK RESOURCES INC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "NEWPORT CARE MEDICAL GROUP INC",
+    "state": "CA",
+    "city": "NEWPORT BEACH"
+  },
+  {
+    "employer": "NEWPORT MESA UNIFIED SCHOOL DISTRICT",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEWQUEST LLC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "NEWREZ LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEWRON TECH INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "NEWS CORPORATE SERVICES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEWSELA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NEWT GLOBAL CONSULTING, LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "NEWTECH DENTAL LABORATORIES",
+    "state": "PA",
+    "city": "LANSDALE"
+  },
+  {
+    "employer": "NEWTON PUBLIC SCHOOLS",
+    "state": "MA",
+    "city": "NEWTON"
+  },
+  {
+    "employer": "NEWWAY TECHNOLOGY US INC",
+    "state": "CA",
+    "city": "ARCADIA"
+  },
+  {
+    "employer": "NEX SERVICES NORTH AMERICA LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NEX TEAM INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "NEXA DIGITAL ENGINEERING INC",
+    "state": "OH",
+    "city": "DUBLIN"
+  },
+  {
+    "employer": "NEXAMP INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "NEXAQ LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NEXBEGIN LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  }
+]

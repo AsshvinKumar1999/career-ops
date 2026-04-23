@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "PRINCIPLE POWER INC",
+    "state": "CA",
+    "city": "EMERYVILLE"
+  },
+  {
+    "employer": "PRINSTON LABORATORIES",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "PRINSTON PHARMACEUTICAL INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "PRINTEREST INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "PRINTERPREZZ INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "PRINTMAIL SOLUTIONS INC",
+    "state": "PA",
+    "city": "NEWTOWN"
+  },
+  {
+    "employer": "PRINTPACK INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "PRIOR MEDIA LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "PRIORITY CARE STAFFING LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "PRIORITY CONCEPTS INC",
+    "state": "NY",
+    "city": "MELVILLE"
+  },
+  {
+    "employer": "PRIORITY HEALTH",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "PRISM ENTERPRISE SOLUTIONS INC",
+    "state": "IL",
+    "city": "PALATINE"
+  },
+  {
+    "employer": "PRISM IT CORP",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "PRISM RESPONSE LLC DBA ALLOY GROUP",
+    "state": "PA",
+    "city": "EXPORT"
+  },
+  {
+    "employer": "PRISM TECH CONSULTING INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "PRISMA HEALTH UNIVERSITY MEDICAL GROUP",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "PRISMA HEALTH UPSTATE",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "PRISMA HLTH MED GRP MIDLANDS",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "PRISMS OF REALITY INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "PRISTEN IT SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRISTINE REHAB CARE LLC",
+    "state": "CA",
+    "city": "DIAMOND BAR"
+  },
+  {
+    "employer": "PRITNA INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "PRIVACERA INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "PRIVADO DINING INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "PRIVATE CLIENT RESOURCES LLC",
+    "state": "CT",
+    "city": "WILTON"
+  },
+  {
+    "employer": "PRIVATE NATIONAL MORTGAGE ACCEPTANCE COMPANY LLC",
+    "state": "CA",
+    "city": "MOORPARK"
+  },
+  {
+    "employer": "PRIVCO MEDIA LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "PRIVILEGE IT LLC",
+    "state": "MI",
+    "city": "LIVONIA"
+  },
+  {
+    "employer": "PRIVILEGE UNDERWRITERS INC",
+    "state": "NY",
+    "city": "WHITE PLAINS"
+  },
+  {
+    "employer": "PRIVY OPERATIONS LLC D/B/A PRIVY",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "PRN IT CORP INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "PRN SOFTWARE LLC DBA DOSESPOT",
+    "state": "MA",
+    "city": "DEDHAM"
+  },
+  {
+    "employer": "PRO H DEVELOPMENT INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "PRO HEALTHCARE AND REHAB SERVICES LLC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "PRO INNOVATION INC",
+    "state": "WA",
+    "city": "GIG HARBOR"
+  },
+  {
+    "employer": "PRO IT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRO IT NEEDS LLC",
+    "state": "SC",
+    "city": "CHARLESTON"
+  },
+  {
+    "employer": "PRO SEVEN IT LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "PRO TEK CONSULTING",
+    "state": "CA",
+    "city": "WOODLAND HILLS"
+  },
+  {
+    "employer": "PRO VISION SOLUTIONS LLC",
+    "state": "MI",
+    "city": "BYRON CENTER"
+  },
+  {
+    "employer": "PROACTIFF DIGITAL HEALTHCARE SERVICES INC",
+    "state": "CA",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "PROARCH TECHNOLOGIES INC FORMERLY PROARCH IT SOLUTIONS INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "PROAUTOMATED INC",
+    "state": "DE",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "PROBABLY NOTHING LABS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "PROBITAS FUNDS GROUP LLC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "PROBPM INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "PROCAL TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "HILLSBOROUGH"
+  },
+  {
+    "employer": "PROCARE PHARMACY LLC",
+    "state": "RI",
+    "city": "WOONSOCKET"
+  },
+  {
+    "employer": "PROCEDYNE CORP",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "PROCEPT BIOROBOTICS CORPORATION",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "PROCESS AUTOMATIONS SOLUTIONS INC",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "PROCESS Q INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "PROCESSCHAMP LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "PROCESSMINER INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "PROCESSUNITY INC",
+    "state": "MA",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "PROCOM INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "PROCONEX INC",
+    "state": "PA",
+    "city": "ROYERSFORD"
+  },
+  {
+    "employer": "PROCOPIO CORY HARGREAVES & SAVITCH LLP",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "PROCORE TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "CARPINTERIA"
+  },
+  {
+    "employer": "PROCORP SYSTEMS, INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "PROCREATE FERTILITY CENTER OF VIRGINIA PLLC",
+    "state": "VA",
+    "city": "CHESAPEAKE"
+  },
+  {
+    "employer": "PROCUREMENT ADVISORS LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "PROCYON TECHNOSTRUCTURE LLC",
+    "state": "CA",
+    "city": "SAN RAFAEL"
+  },
+  {
+    "employer": "PRODAPT NORTH AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRODEON MEDICAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRODES E T INC",
+    "state": "NJ",
+    "city": "EAST BRUNSWICK"
+  },
+  {
+    "employer": "PRODIGAL TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "PRODIGITALWORX INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "PRODIGY TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRODREAM EDUCATION CONSULTING LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "PRODUCT MADNESS INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "PRODUCT SCIENCE INC",
+    "state": "CA",
+    "city": "PLAYA VISTA"
+  },
+  {
+    "employer": "PRODUCTBOARD INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "PRODUCTION SERVICES MANAGEMENT INC",
+    "state": "MI",
+    "city": "SALINE"
+  },
+  {
+    "employer": "PRODUCTIV INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PRODUCTIVE RESOURCES LLC",
+    "state": "IL",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "PRODWARE SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "BOUND BROOK"
+  },
+  {
+    "employer": "PRODX LLC",
+    "state": "WA",
+    "city": "TACOMA"
+  },
+  {
+    "employer": "PROENERGY SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PROFESSIONAL AIRLINE MAINTENANCE SERVICES LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "PROFESSIONAL AVIATION MARKETING INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "PROFESSIONAL CONSULTING",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "PROFESSIONAL DATASOLUTIONS INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "PROFESSIONAL DENTAL ALLIANCE",
+    "state": "PA",
+    "city": "NEW CASTLE"
+  },
+  {
+    "employer": "PROFESSIONAL ORTHOPEDIC SPORTS PHY",
+    "state": "NY",
+    "city": "MELVILLE"
+  },
+  {
+    "employer": "PROFESSIONAL RESOURCES MANAGEMENT OF WIREGRASS LLC",
+    "state": "AL",
+    "city": "DOTHAN"
+  },
+  {
+    "employer": "PROFESSIONAL SERVICE INDUSTRIES INC",
+    "state": "IL",
+    "city": "ARLINGTON HEIGHTS"
+  },
+  {
+    "employer": "PROFESSIONAL SWINE EMPLOYMENT LLC",
+    "state": "IL",
+    "city": "CARTHAGE"
+  },
+  {
+    "employer": "PROFESSIONAL VISION TECHNOLOGIES I",
+    "state": "MI",
+    "city": "PLYMOUTH"
+  },
+  {
+    "employer": "PROFICIENT BUSINESS SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PROFISEE GROUP INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "PROFIT INSIGHT LLC",
+    "state": "NC",
+    "city": "MOORESVILLE"
+  },
+  {
+    "employer": "PROFOCUS INC",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "PROFOUND PLATFORM INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "PROFUSION COSMETICS CORP DBA PROFOUND COSMETICS",
+    "state": "CA",
+    "city": "CHINO"
+  },
+  {
+    "employer": "PROFUSION FOODS INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "PROFUSION SYSTEMS INC DBA STAFFING FRONT INC",
+    "state": "NJ",
+    "city": "NORTH BRUNSWICK"
+  },
+  {
+    "employer": "PROGENYHEALTH LLC",
+    "state": "PA",
+    "city": "PLYMOUTH MEETING"
+  },
+  {
+    "employer": "PROGRAMSOFT LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "PROGRESS FOUNDATION",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  }
+]

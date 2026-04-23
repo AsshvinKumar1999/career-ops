@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "AMERICAN IT SOLUTIONS INC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "AMERICAN IT TECH LLC",
+    "state": "GA",
+    "city": "AUGUSTA"
+  },
+  {
+    "employer": "AMERICAN LEADERSHIP UNIVERSITY",
+    "state": "CA",
+    "city": "ORANGE"
+  },
+  {
+    "employer": "AMERICAN MEDICAL INC DBA AMERICAN MEDICAL MANAGEMENT OF NY",
+    "state": "NY",
+    "city": "SELDEN"
+  },
+  {
+    "employer": "AMERICAN MULTI CINEMA INC",
+    "state": "KS",
+    "city": "LEAWOOD"
+  },
+  {
+    "employer": "AMERICAN MUSEUM OF NATURAL HISTORY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN NATIONAL INSURANCE COMPANY",
+    "state": "TX",
+    "city": "GALVESTON"
+  },
+  {
+    "employer": "AMERICAN NATIONAL PROPERTY AND CASUALTY COMPANY",
+    "state": "MO",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "AMERICAN ONCOLOGIC HOSPITAL D/B/A FOX CHASE CANCER CENTER",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "AMERICAN OXYGEN, LLC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "AMERICAN PHYSICAL SOCIETY",
+    "state": "MD",
+    "city": "COLLEGE PARK"
+  },
+  {
+    "employer": "AMERICAN PROFESSIONALS INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "AMERICAN PSYCHIATRIC ASSN",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN PSYCHOLOGICAL ASSOCIATION",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN QUARTZ MAX CORP",
+    "state": "CA",
+    "city": "BARSTOW"
+  },
+  {
+    "employer": "AMERICAN READING COMPANY",
+    "state": "PA",
+    "city": "BLUE BELL"
+  },
+  {
+    "employer": "AMERICAN ROBOTICS INC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "AMERICAN SECURITIES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICAN SHENGSHENG SUPPLY CHAIN LLC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "AMERICAN SIGNATURE INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "AMERICAN SOCIETY FOR ENGINEERING EDUCATION DBA ASEE",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN SOCIETY FOR TESTING & MATERIALS",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "AMERICAN SOFTWARE INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "AMERICAN SOFTWARE PROFESSIONALS GROUP LLC",
+    "state": "FL",
+    "city": "LONGWOOD"
+  },
+  {
+    "employer": "AMERICAN SOFTWARE RESOURCES INC",
+    "state": "NY",
+    "city": "WOODMERE"
+  },
+  {
+    "employer": "AMERICAN SPECIALTY HEALTH INCORPORATED",
+    "state": "IN",
+    "city": "CARMEL"
+  },
+  {
+    "employer": "AMERICAN SPECIALTY PHARMACY INC DBA ASP CARES",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "AMERICAN STAFFING LLC",
+    "state": "WY",
+    "city": "CHEYENNE"
+  },
+  {
+    "employer": "AMERICAN STANDARD JEWELERS INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "AMERICAN STOCK TRANSFER TRUST COMPANY LLC",
+    "state": "NJ",
+    "city": "RIDGEFIELD PARK"
+  },
+  {
+    "employer": "AMERICAN STRUCTUREPOINT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN TEAM REALTY PROPERTIES INC",
+    "state": "CA",
+    "city": "PASADENA"
+  },
+  {
+    "employer": "AMERICAN TECH VISION SOLUTIONS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "AMERICAN TECHNO SOLUTIONS INC",
+    "state": "NJ",
+    "city": "HACKENSACK"
+  },
+  {
+    "employer": "AMERICAN TECHNOLOGY CONSULTING LLC",
+    "state": "IA",
+    "city": "CLIVE"
+  },
+  {
+    "employer": "AMERICAN TECHNOLOGY EXPERTS INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AMERICAN TECHNOLOGY GROUP LLC",
+    "state": "NE",
+    "city": "GRAND ISLAND"
+  },
+  {
+    "employer": "AMERICAN TECHNOLOGY LABS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICAN TIRE DISTRIBUTORS INC",
+    "state": "NC",
+    "city": "HUNTERSVILLE"
+  },
+  {
+    "employer": "AMERICAN TOWER CORPORATION",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "AMERICAN UNIT INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "AMERICAN UNITED LIFE INSURANCE COMPANY",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "AMERICAN UNIVERSITY",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "AMERICAN UROLOGICAL ASSOCIATION EDUCATION AND RESEARCH INC",
+    "state": "MD",
+    "city": "LINTHICUM HEIGHTS"
+  },
+  {
+    "employer": "AMERICAN WAGERING INC DBA WILLIAM HILL US",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "AMERICAN WATER RESOURCES LLC",
+    "state": "NJ",
+    "city": "MOUNT LAUREL"
+  },
+  {
+    "employer": "AMERICAN WATER WORKS SERVICE COMPANY INC",
+    "state": "NJ",
+    "city": "CAMDEN"
+  },
+  {
+    "employer": "AMERICAN WELL CORPORATION",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "AMERICAN WOODMARK CORPORATION",
+    "state": "VA",
+    "city": "WINCHESTER"
+  },
+  {
+    "employer": "AMERICAN WOODMARK CORPORATION SUCCESSOR EMPLOYER TO RSI HOME PRODUCTS MANAGEMENT INC",
+    "state": "VA",
+    "city": "WINCHESTER"
+  },
+  {
+    "employer": "AMERICAN YOUTH ACADEMY",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "AMERICAS CHOICE HOME CARE INC",
+    "state": "MI",
+    "city": "CLINTON TOWNSHIP"
+  },
+  {
+    "employer": "AMERICAS COMMUNICATIONS LLC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "AMERICAS SOCIETY INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMERICLOUD SOLUTIONS INC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "AMERICLOUD TELECOM SOLUTIONS LLC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "AMERICOLD LOGISTICS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERICOLLECT INC",
+    "state": "WI",
+    "city": "MANITOWOC"
+  },
+  {
+    "employer": "AMERIGAS PROPANE INC",
+    "state": "PA",
+    "city": "KING OF PRUSSIA"
+  },
+  {
+    "employer": "AMERIGROUP CORPORATION",
+    "state": "VA",
+    "city": "VIRGINIA BEACH"
+  },
+  {
+    "employer": "AMERIHEALTH CARITAS SERVICES LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "AMERIHOME MORTGAGE COMPANY LLC",
+    "state": "CA",
+    "city": "THOUSAND OAKS"
+  },
+  {
+    "employer": "AMERIPRISE FINANCIAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERIS BANK",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "AMERISOFT CORPORATION",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "AMERISOFTPRO SYSTEMS LLC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "AMERISOURCE BERGEN DRUG CORPORATION",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "AMERISOURCEBERGEN CORPORATION",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "AMERISOURCEBERGEN SERVICES CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERISOURCEBERGEN SPECIALTY GROUP INC",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "AMERISTAR STAFFING INC",
+    "state": "NY",
+    "city": "RICHMOND HILL"
+  },
+  {
+    "employer": "AMERIT FLEET SOLUTIONS INC",
+    "state": "CA",
+    "city": "WALNUT CREEK"
+  },
+  {
+    "employer": "AMERITAS LIFE INSURANCE CORP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMERITAS LIFE INSURANCE GROUP",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "AMERITEAM SERVICES LLC",
+    "state": "TN",
+    "city": "KNOXVILLE"
+  },
+  {
+    "employer": "AMERITECH GLOBAL INC",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "AMERITEK GLOBAL INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "AMES ENGINEERING INC",
+    "state": "IL",
+    "city": "DOWNERS GROVE"
+  },
+  {
+    "employer": "AMESITE INC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "AMETEK INC DBA AMETEK PRESTOLITE POWER",
+    "state": "PA",
+    "city": "BERWYN"
+  },
+  {
+    "employer": "AMETEK MAGNETROL USA LLC",
+    "state": "IL",
+    "city": "AURORA"
+  },
+  {
+    "employer": "AMEX SYSTEMS INC",
+    "state": "MI",
+    "city": "FARMINGTN HLS"
+  },
+  {
+    "employer": "AMEYA GLOBAL INC",
+    "state": "MI",
+    "city": "FARMINGTN HIILS"
+  },
+  {
+    "employer": "AMF AUTOMATION TECHNOLOGIES LLC",
+    "state": "VA",
+    "city": "RICHMOND"
+  },
+  {
+    "employer": "AMFAL TECH LLC",
+    "state": "FL",
+    "city": "WINTER SPRINGS"
+  },
+  {
+    "employer": "AMFAS INTERNATIONAL INC",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "AMFG CORP",
+    "state": "TX",
+    "city": "LEANDER"
+  },
+  {
+    "employer": "AMG TECHNOLOGY",
+    "state": "NJ",
+    "city": "EMERSON"
+  },
+  {
+    "employer": "AMGEN INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "AMHERST SERVICES CORP",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "AMI U S HOLDINGS INC D B A AMI",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "AMICA MUTUAL INSURANCE COMPANY",
+    "state": "RI",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "AMICA SOFTWARE INC DBA AMICA SYSTEMS",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "AMICUS GLOBAL IT INCORPORATED",
+    "state": "CA",
+    "city": "LAGUNA HILLS"
+  },
+  {
+    "employer": "AMICUS SYSTEMS INC",
+    "state": "NY",
+    "city": "FOREST HILLS"
+  },
+  {
+    "employer": "AMIND SOLUTIONS LLC DBA ARGANOAMIND",
+    "state": "CA",
+    "city": "ALAMO"
+  },
+  {
+    "employer": "AMIPI INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "AMISEQ INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "AMISTAD TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "BRIDGEWATER"
+  },
+  {
+    "employer": "AMITECH SOLUTIONS INC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  }
+]

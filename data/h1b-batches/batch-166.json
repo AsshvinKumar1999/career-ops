@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "NATIONS INFO CORPORATION",
+    "state": "CA",
+    "city": "GOLETA"
+  },
+  {
+    "employer": "NATIONSBENEFITS LLC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "NATIONSTAR MORTGAGE LLC D/B/A MR COOPER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NATIONWIDE CHILDRENS HOSPITAL",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "NATIONWIDE INSURANCE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NATIVEX INC",
+    "state": "MN",
+    "city": "SAINT CLOUD"
+  },
+  {
+    "employer": "NATIXIS ADVISORS LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "NATIXIS INVESTMENT MANAGERS LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "NATIXIS NEW YORK BRANCH",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NATIXIS NORTH AMERICA LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NATL BUREAU OF ECONOMIC RESEARCH",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "NATL IMMIGRATION FORUM INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "NATL REHAB HOSP INC D/B/A MEDSTAR NATL REHAB NETWORK",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "NATL RESEARCH GRP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NATRON ENERGY INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "NATSOFT CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NATSOT CORPORATION",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "NATURAL GAS FUEL SYSTEMS LLC",
+    "state": "TX",
+    "city": "ROANOKE"
+  },
+  {
+    "employer": "NATURAL RESOURCES DEFENSE COUNCIL INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NATURES BOUNTY CO",
+    "state": "NY",
+    "city": "BOHEMIA"
+  },
+  {
+    "employer": "NATURES SUNSHINE PRODUCTS INC",
+    "state": "UT",
+    "city": "LEHI"
+  },
+  {
+    "employer": "NATURES TRUTH LLC",
+    "state": "NY",
+    "city": "BOHEMIA"
+  },
+  {
+    "employer": "NATUS MEDICAL INCORPORATED",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "NATUZZI FLORIDA LLC",
+    "state": "NC",
+    "city": "HIGH POINT"
+  },
+  {
+    "employer": "NATWEST MARKETS SECURITIES INC",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "NAUTICAL COMMERCE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NAUTILUS SUBSIDIARY INC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "NAUTO INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "NAVA SOFTWARE SOLUTIONS LLC",
+    "state": "CT",
+    "city": "ROCKY HILL"
+  },
+  {
+    "employer": "NAVAJO HEALTH FOUNDATION SAGE MEMORIAL HOSPITAL INC",
+    "state": "AZ",
+    "city": "GANADO"
+  },
+  {
+    "employer": "NAVAJO TECHNICAL UNIVERSITY",
+    "state": "NM",
+    "city": "CROWNPOINT"
+  },
+  {
+    "employer": "NAVAL POSTGRADUATE SCHOOL FOUNDATION",
+    "state": "CA",
+    "city": "MONTEREY"
+  },
+  {
+    "employer": "NAVALIMPIANTI USA, INC.",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "NAVASAL INC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "NAVATIO PHARMA USA LLC",
+    "state": "SC",
+    "city": "GRANITEVILLE"
+  },
+  {
+    "employer": "NAVAYUGA INFOTECH LLC DBA NAVTECH LLC",
+    "state": "GA",
+    "city": "MARIETTA"
+  },
+  {
+    "employer": "NAVICENT HEALTH INC",
+    "state": "GA",
+    "city": "MACON"
+  },
+  {
+    "employer": "NAVICO INC",
+    "state": "WI",
+    "city": "MENOMONEE FALLS"
+  },
+  {
+    "employer": "NAVIENT SOLUTIONS LLC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "NAVIGATE BIOPHARMA SERVICES INC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NAVIGATORS REAL ESTATE INC D B A PINNACLE REAL ESTATE GROUP",
+    "state": "CA",
+    "city": "ARCADIA"
+  },
+  {
+    "employer": "NAVILLUS TILE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NAVINTA LLC",
+    "state": "NJ",
+    "city": "EWING"
+  },
+  {
+    "employer": "NAVIS LP",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "NAVISITE LLC",
+    "state": "MA",
+    "city": "ANDOVER"
+  },
+  {
+    "employer": "NAVISTAR INC",
+    "state": "IL",
+    "city": "LISLE"
+  },
+  {
+    "employer": "NAVITAIRE, LLC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "NAVITAS BUSINESS CONSULTING INC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "NAVITAS DATA SCIENCES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NAVITAS SEMICONDUCTOR INC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "NAVOINFO INC",
+    "state": "TX",
+    "city": "ADDISON"
+  },
+  {
+    "employer": "NAVVIS & COMPANY LLC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "NAVY FEDERAL CREDIT UNION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NAVY ISLAND INC",
+    "state": "MN",
+    "city": "SAINT PAUL"
+  },
+  {
+    "employer": "NAVY MUTUAL AID ASSOCIATION",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "NAZARENE THEOLOGICAL SEMINARY",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "NAZARETH COLLEGE OF ROCHESTER",
+    "state": "NY",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "NAZARETH PHYSICIAN SERVICES INC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "NAZTEC INTERNATIONAL GROUP LLC",
+    "state": "FL",
+    "city": "WEST PALM BCH"
+  },
+  {
+    "employer": "NB BROWN ROCK HEALTHCARE INC DBA LEGEND OAKS HEALTHCARE AND REHABILITATION",
+    "state": "CA",
+    "city": "SAN JUAN CAPISTRANO"
+  },
+  {
+    "employer": "NB VENTURES INC DBA GEP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NBA PROPERTIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NBBJ ARCHITECTURE PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NBBJ LLC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "NBBJ LP",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "NBCUNIVERSAL MEDIA LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NBCUNIVERSAL PRODUCTION SERVICES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NBLA173 LLC DBA CHITO GVRITO",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NBS CONSULT INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "NC A AND T STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NC HEALTH AFFILIATES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NC STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NC VENTURES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NCC GROUP AMERICAS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "NCH MANAGEMENT SYSTEMS INC DBA NEW CENTURY HEALTH",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NCHENG LLP CERTIFIED PUBLIC ACCTS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NCL BAHAMAS LTD",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NCL CORPORATION LTD",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NCLIPSE SOLUTIONS LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "NCODERS TECHNOLOGY SOLUTIONS LLC",
+    "state": "FL",
+    "city": "LONGWOOD"
+  },
+  {
+    "employer": "NCONTRACTS LLC",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "NCOUP INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "NCR CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NCS PEARSON INC AN INDIRECT WHOLLY OWNED SUBSIDIARY OF PEARSON PLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NCS SERVICES LLC",
+    "state": "MD",
+    "city": "WINDSOR MILL"
+  },
+  {
+    "employer": "ND GLOBAL CONSULTING SERVICES INC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "NDATA INC",
+    "state": "CA",
+    "city": "MOUNTAIN VIEW"
+  },
+  {
+    "employer": "NDIMENSIONS TECHNOLOGIES INC",
+    "state": "MI",
+    "city": "LIVONIA"
+  },
+  {
+    "employer": "NDUS SYSTEM INFORMATION TECHNOLOGY SVCS",
+    "state": "ND",
+    "city": "BISMARCK"
+  },
+  {
+    "employer": "NE COLORADO CELLULAR INC DBA VIAERO WIRELESS",
+    "state": "CO",
+    "city": "FORT MORGAN"
+  },
+  {
+    "employer": "NEAL ANALYTICS LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "NEAPCO HOLDINGS LLC",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "NEAR EARTH AUTONOMY",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "NEATLEAF INC",
+    "state": "CA",
+    "city": "SCOTTS VALLEY"
+  },
+  {
+    "employer": "NEATO ROBOTICS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "NEBO AGENCY LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NEBOSYS INC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "NEBRASKA FURNITURE MART INC",
+    "state": "NE",
+    "city": "OMAHA"
+  },
+  {
+    "employer": "NEBRASKA HOSPITAL ASSOCIATION",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "NEBRASKA METHODIST HEALTH SYSTEM INC",
+    "state": "NE",
+    "city": "OMAHA"
+  }
+]

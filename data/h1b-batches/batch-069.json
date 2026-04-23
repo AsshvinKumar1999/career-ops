@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "DEERFIELD IMAGING INC DBA IMRIS",
+    "state": "MN",
+    "city": "MINNETONKA"
+  },
+  {
+    "employer": "DEERFIELD MANAGEMENT COMPANY LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DEETA IT SOLUTIONS INC",
+    "state": "NJ",
+    "city": "MIDDLESEX"
+  },
+  {
+    "employer": "DEFENSE IN DEPTH SOLUTIONS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "DEFI AUTO LLC",
+    "state": "PA",
+    "city": "KING OF PRUSSIA"
+  },
+  {
+    "employer": "DEFIANCE COLLEGE",
+    "state": "OH",
+    "city": "DEFIANCE"
+  },
+  {
+    "employer": "DEFIANT TECHNOLOGIES INC",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "DEFINITIVE HEALTHCARE LLC",
+    "state": "MA",
+    "city": "FRAMINGHAM"
+  },
+  {
+    "employer": "DEFINITIVE MEDIA CORP DBA THREAD",
+    "state": "CA",
+    "city": "TUSTIN"
+  },
+  {
+    "employer": "DEGENKOLB ENGINEERS",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DEIBEL BIOSCIENCE OF OREGON LLC",
+    "state": "OR",
+    "city": "HOOD RIVER"
+  },
+  {
+    "employer": "DEKA RESEARCH & DEVELOPMENT CORP",
+    "state": "NH",
+    "city": "MANCHESTER"
+  },
+  {
+    "employer": "DEKKER/PERICH/SABATINI",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "DEKO INTERNATIONAL CO LTD",
+    "state": "MO",
+    "city": "EARTH CITY"
+  },
+  {
+    "employer": "DEKRA CERTIFICATION INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "DEKRA SERVICES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "DEL MONTE FRESH PRODUCE COMPANY",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "DELAGNES MITCHELL & LINDER LLP",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DELART TECHNOLOGY SERVICES LLC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "DELASOFT INC",
+    "state": "DE",
+    "city": "NEW CASTLE"
+  },
+  {
+    "employer": "DELAWARE DIAGNOSTIC LABS LLC",
+    "state": "DE",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "DELAWARE NORTH AMERICA LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "DELAWARE NORTH COMPANIES INC",
+    "state": "NY",
+    "city": "BUFFALO"
+  },
+  {
+    "employer": "DELAWARE STATE UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELEK US ENERGY INC",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "DELFI DIAGNOSTICS INC",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "DELICATESSEN SERVICES COMPANY LLC",
+    "state": "FL",
+    "city": "SARASOTA"
+  },
+  {
+    "employer": "DELIGHT CONSULTING SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELISIS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "DELIVERHEALTH SOLUTIONS LLC",
+    "state": "WI",
+    "city": "MADISON"
+  },
+  {
+    "employer": "DELIVERLOGIC INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "DELIVERR INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DELL CHILDREN S MEDICAL GROUP",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "DELL FINANCIAL SERVICES L L C",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "DELL MARKETING L P",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "DELL PRODUCTS L P",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELL USA L P",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELOITTE & TOUCHE LLP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELOITTE CONSULTING LLP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELOITTE CORPORATE FINANCE LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE FINANCIAL ADVISORY SERVICES LLP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE INVESTMENTS LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE LLP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE SERVICES LP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE TAX LLP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOITTE TOUCHE TOHMATSU SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELOITTE TRANSACTIONS AND BUSINESS ANALYTICS LLP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELOS DIGITAL LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DELOS LIVING LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DELPHIX CORP",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "DELPHOS INTERNATIONAL LTD",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "DELSTAR TECHNOLOGIES INC",
+    "state": "DE",
+    "city": "MIDDLETOWN"
+  },
+  {
+    "employer": "DELTA AIR LINES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELTA COMPUTER CONSULTING INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELTA DENTAL INSURANCE COMPANY",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "DELTA DENTAL OF CALIFORNIA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELTA DENTAL OF WASHINGTON",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "DELTA DENTAL PLAN OF MICHIGAN INC",
+    "state": "MI",
+    "city": "OKEMOS"
+  },
+  {
+    "employer": "DELTA ELECTRONICS AUTOMOTIVE AMERICAS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELTA GLOBAL SERVICES LLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "DELTA GROUP USA INC",
+    "state": "NJ",
+    "city": "OLD BRIDGE"
+  },
+  {
+    "employer": "DELTA INFORMATION SYSTEMS INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "DELTA STAR INC",
+    "state": "VA",
+    "city": "LYNCHBURG"
+  },
+  {
+    "employer": "DELTA SYSTEM AND SOFTWARE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DELTACUBES TECHNOLOGY LLC",
+    "state": "DE",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "DELTAMED SOLUTIONS INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "DELTASTREAM INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "DELUCCA FOOD CONCEPTS LLC DBA DELUCCA PIZZA HOUSE AND WINE",
+    "state": "TX",
+    "city": "SOUTHLAKE"
+  },
+  {
+    "employer": "DELUXE CORPORATION",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "DELUXE MEDIA INC.",
+    "state": "CA",
+    "city": "BURBANK"
+  },
+  {
+    "employer": "DELVE LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "DELVIOM LLC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "DEMAND DRIVEN TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "DEMANDBASE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "DEMARIA BUILDING COMPANY INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "DEMATIC CORP",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "DEMETER ANALYTICS SERVICES LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "DEMIDCHIK LAW FIRM P C",
+    "state": "CA",
+    "city": "CITY OF INDUSTRY"
+  },
+  {
+    "employer": "DEMING PUBLIC SCHOOLS",
+    "state": "NM",
+    "city": "DEMING"
+  },
+  {
+    "employer": "DEMOCRACY PREP NEW YORK CHARTER SCHOOLS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "DENALI SOURCING SERVICES",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "DENALI THERAPEUTICS INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "DENKEN SOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DENMAC SOLUTIONS INC",
+    "state": "TX",
+    "city": "EULESS"
+  },
+  {
+    "employer": "DENNIS YARMOUTH REGIONAL SCH DIST",
+    "state": "MA",
+    "city": "SOUTH YARMOUTH"
+  },
+  {
+    "employer": "DENOVO SYSTEMS INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "DENSO INTERNATIONAL AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "DENSO MANUFACTURING MICHIGAN INC",
+    "state": "MI",
+    "city": "BATTLE CREEK"
+  },
+  {
+    "employer": "DENSO TEN AMERICA LIMITED",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "DENTAL CARE OF STAMFORD",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "DENTAL DELIVERY SYSTEMS PA D B A DENTAL ASSOCIATES OF SAVAGE",
+    "state": "MN",
+    "city": "SAVAGE"
+  },
+  {
+    "employer": "DENTAL DREAMS LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "DENTAL HEALTH ASSOCIATES OF TEXAS PC",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "DENTAL HEALTH GROUP PA D/B/A GREAT EXPRESSIONS DENTAL CENTERS",
+    "state": "MI",
+    "city": "SOUTHFIELD"
+  },
+  {
+    "employer": "DENTAL ONE ASSOICATES WOODSON SQUARE LTD",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "DENTAL PROFESSIONALS OF MISSOURI RICHARD STRAUS DMD PC",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "DENTAL PROFESSIONALS OF VIRGINIA PC",
+    "state": "IL",
+    "city": "EFFINGHAM"
+  },
+  {
+    "employer": "DENTAL PROFESSIONLS CLEVELAND - NOUNEH INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "DENTAQUEST LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "DENTISTRY FOR CHILDREN OF GEORGIA LLC",
+    "state": "GA",
+    "city": "DAWSONVILLE"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "VENSIT CORP",
+    "state": "NJ",
+    "city": "SAYREVILLE"
+  },
+  {
+    "employer": "VENSITI INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VENSOFT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VENSOFT SOLUTIONS INC",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "VENSURE EMPLOYER SERVICES INC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "VENTANA MEDICAL SYSTEMS INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "VENTANA MICRO SYSTEMS INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "VENTECH SOLUTIONS INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "VENTECHSOFT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VENTERA CORPORATION",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "VENTOIS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VENTRESCA DESIGN LLC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "VENTURA TECHNOLOGY SERVICES LLC DBA TEAMLOGIC IT60546",
+    "state": "CA",
+    "city": "CAMARILLO"
+  },
+  {
+    "employer": "VENTURE GLOBAL LNG INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VENTURE HOUSE INC",
+    "state": "NY",
+    "city": "JAMAICA"
+  },
+  {
+    "employer": "VENTURE UNIVERISTY",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "VENTURESOFT GLOBAL INC",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "VENTURITY",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "VENUS CONCEPT INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "VENUSGEO SOLUTIONS, INC",
+    "state": "PA",
+    "city": "MALVERN"
+  },
+  {
+    "employer": "VEOLIA NORTH AMERICA LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "VEOLIA WATER M S INC",
+    "state": "NJ",
+    "city": "PARAMUS"
+  },
+  {
+    "employer": "VEOLIA WATER TECHNOLOGIES INC",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "VEOLIA WTS USA INC",
+    "state": "NY",
+    "city": "MOUNTAINVILLE"
+  },
+  {
+    "employer": "VEONEER US LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VEORIDE INC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "VEQTOR LLC",
+    "state": "IL",
+    "city": "DES PLAINES"
+  },
+  {
+    "employer": "VERACITY SOFTWARE INC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "VERACODE INC",
+    "state": "MA",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "VERACROSS LLC",
+    "state": "MA",
+    "city": "WAKEFIELD"
+  },
+  {
+    "employer": "VERANA HEALTH INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERANOVA LP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERANS BUSINESS SOLUTIONS INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "VERATECH SYSTEMS LLC",
+    "state": "TX",
+    "city": "CEDAR PARK"
+  },
+  {
+    "employer": "VERATO INC",
+    "state": "VA",
+    "city": "MC LEAN"
+  },
+  {
+    "employer": "VERB SURGICAL INC",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "VERCEL INC",
+    "state": "CA",
+    "city": "WALNUT"
+  },
+  {
+    "employer": "VERDE DESIGN INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "VERDIGRIS TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "LOS ALTOS"
+  },
+  {
+    "employer": "VERDURE SCIENCES INC",
+    "state": "IN",
+    "city": "NOBLESVILLE"
+  },
+  {
+    "employer": "VERGE SENSE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "VERGLAS TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "VERIDIC SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERIFONE INC",
+    "state": "FL",
+    "city": "CORAL SPRINGS"
+  },
+  {
+    "employer": "VERILY LIFE SCIENCES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERIMATRIX INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "VERINATA HEALTH INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "VERINON TECHNOLOGY SOLUTIONS LTD",
+    "state": "IL",
+    "city": "ARLINGTON HEIGHTS"
+  },
+  {
+    "employer": "VERINOVA TECHNOLOGIES, LLC.",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "VERINOVUM INC",
+    "state": "OK",
+    "city": "TULSA"
+  },
+  {
+    "employer": "VERINT SYSTEMS INC",
+    "state": "NY",
+    "city": "MELVILLE"
+  },
+  {
+    "employer": "VERIS INSIGHTS LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "VERISIGN INC",
+    "state": "VA",
+    "city": "RESTON"
+  },
+  {
+    "employer": "VERISTA INC",
+    "state": "IN",
+    "city": "FISHERS"
+  },
+  {
+    "employer": "VERISTAT LLC",
+    "state": "MA",
+    "city": "SOUTHBOROUGH"
+  },
+  {
+    "employer": "VERITA CSG INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VERITAS IT SOLUTIONS LLC",
+    "state": "GA",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "VERITAS PRIME LLC",
+    "state": "ME",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "VERITAS TECHNOLOGIES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERITAS TOTAL SOLUTIONS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "VERITION GROUP LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERITIS GROUP INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "VERITIV OPERATING COMPANY",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "VERITONE INC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "VERITY SERVICES LLC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "VERITY SOLUTIONS INC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "VERIZON CONNECT INC",
+    "state": "NJ",
+    "city": "BASKING RIDGE"
+  },
+  {
+    "employer": "VERIZON CORP RESOURCES GROUP LLC",
+    "state": "NJ",
+    "city": "BASKING RIDGE"
+  },
+  {
+    "employer": "VERIZON DATA SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERIZON SERVICES CORP",
+    "state": "NJ",
+    "city": "BASKING RIDGE"
+  },
+  {
+    "employer": "VERKADA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERMONT JOURNALISM TRUST DBA VTDIGGER",
+    "state": "VT",
+    "city": "MONTPELIER"
+  },
+  {
+    "employer": "VERMONT LAW SCHOOL",
+    "state": "VT",
+    "city": "SOUTH ROYALTON"
+  },
+  {
+    "employer": "VERNAY LABORATORIES INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "VERNE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "VERNUS TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERO FINANCE TECHNOLOGIES, INC.",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "VEROGY HOLDINGS LLC",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "VEROS REAL ESTATE SOLUTIONS LLC",
+    "state": "CA",
+    "city": "SANTA ANA"
+  },
+  {
+    "employer": "VEROTECH SOLUTIONS LLC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "VERRA",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "VERSA NETWORKS INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "VERSA SHORE INC",
+    "state": "CA",
+    "city": "CAMPBELL"
+  },
+  {
+    "employer": "VERSATILE INC",
+    "state": "CA",
+    "city": "LOS ALTOS"
+  },
+  {
+    "employer": "VERSATRIM LLC",
+    "state": "NC",
+    "city": "HENDERSON"
+  },
+  {
+    "employer": "VERSES LOGISTICS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "VERSITI WISCONSIN INC",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "VERT MARKETS INC D/B/A ISREPORTS D/B/A LIFE SCIENCE CONNECT",
+    "state": "PA",
+    "city": "ERIE"
+  },
+  {
+    "employer": "VERTAFORE INC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "VERTECH INDUSTRIAL SYSTEMS LLC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "VERTEX ANALYTICS INC",
+    "state": "CT",
+    "city": "MANCHESTER"
+  },
+  {
+    "employer": "VERTEX COMPUTER SYSTEMS INC",
+    "state": "OH",
+    "city": "BEACHWOOD"
+  },
+  {
+    "employer": "VERTEX CONSULTING INC DBA VERTEX GROUP",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "VERTEX CONSULTING SERVICES INC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "VERTEX INC",
+    "state": "PA",
+    "city": "KING OF PRUSSIA"
+  },
+  {
+    "employer": "VERTEX PHARMACEUTICALS INCORPORATED",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERTEX U S HOLDINGS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "VERTICAL BLUE LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VERTICAL FOCUS INC",
+    "state": "MA",
+    "city": "STONEHAM"
+  },
+  {
+    "employer": "VERTISYSTEM INC",
+    "state": "",
+    "city": ""
+  }
+]

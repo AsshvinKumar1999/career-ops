@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "GLATFELTER CORPORATION",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "GLATT AIR TECHNIQUES INC",
+    "state": "NJ",
+    "city": "RAMSEY"
+  },
+  {
+    "employer": "GLAXOSMITHKLINE CONSUMER HEALTHCARE HOLDINGS US LLC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "GLAXOSMITHKLINE LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "GLAXOSMITHLINE CONSUMER HEALTHCARE LP",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "GLAZER CAPITAL LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLD  MANAGEMENT INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "GLEAN TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "GLEN MILLS MUSIC & ART CENTER",
+    "state": "PA",
+    "city": "CHADDS FORD"
+  },
+  {
+    "employer": "GLENDIVE MEDICAL CENTER",
+    "state": "MT",
+    "city": "GLENDIVE"
+  },
+  {
+    "employer": "GLENFARNE GROUP LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLENMARK PHARMACEUTICALS INC USA",
+    "state": "NJ",
+    "city": "MAHWAH"
+  },
+  {
+    "employer": "GLENNIS SOLUTIONS LLC",
+    "state": "KY",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "GLENS FALLS HOSPITAL",
+    "state": "NY",
+    "city": "GLENS FALLS"
+  },
+  {
+    "employer": "GLENVALE LLC",
+    "state": "MA",
+    "city": "JAMAICA PLAIN"
+  },
+  {
+    "employer": "GLENYSYS TECHNOLOGIES INC",
+    "state": "IL",
+    "city": "AURORA"
+  },
+  {
+    "employer": "GLICKMAN ENGINEERING ASSOCIATES PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLIDEFAST CONSULTING LLC",
+    "state": "MA",
+    "city": "WOBURN"
+  },
+  {
+    "employer": "GLMV ARCHITECTURE INC",
+    "state": "KS",
+    "city": "WICHITA"
+  },
+  {
+    "employer": "GLOBAL ALLIANT INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "GLOBAL APPLICATIONS SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "EAST RUTHERFORD"
+  },
+  {
+    "employer": "GLOBAL APPLIED BUSINESS SERVICES CORPORATION",
+    "state": "NC",
+    "city": "HOLLY SPRINGS"
+  },
+  {
+    "employer": "GLOBAL APPS INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "GLOBAL ATLANTIC FINANCIAL COMPANY",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "GLOBAL BRIDGE INFOTECH INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "GLOBAL BUSINESS & TECHNOLOGIES ASSOCIATES INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "GLOBAL CENTER ON COOPERATIVE SECURITY INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "GLOBAL DATA MANAGEMENT INC",
+    "state": "NJ",
+    "city": "WOODBRIDGE"
+  },
+  {
+    "employer": "GLOBAL DATA MART INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "GLOBAL DATA PUBLICATIONS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLOBAL DATA SOLUTIONS INC",
+    "state": "VA",
+    "city": "ASHBURN"
+  },
+  {
+    "employer": "GLOBAL DATA STRATEGY LTD",
+    "state": "CO",
+    "city": "BOULDER"
+  },
+  {
+    "employer": "GLOBAL DATA TEK INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "GLOBAL DIGITAL MERCANTILE HOLDINGS LIMITED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLOBAL ECONOMIC ADVANTAGE INC",
+    "state": "IL",
+    "city": "ROLLING MEADOWS"
+  },
+  {
+    "employer": "GLOBAL EDGE SOFTWARE INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "GLOBAL ELECTRONICS TESTING SERVICE LLC",
+    "state": "FL",
+    "city": "ODESSA"
+  },
+  {
+    "employer": "GLOBAL ENGINEERING AND MATERIALS INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "GLOBAL ENTERPRISE TECH RESOURCES INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "GLOBAL EXPERIENCE SPECIALISTS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "GLOBAL FINANCIAL GROUP LLC",
+    "state": "IN",
+    "city": "ELKHART"
+  },
+  {
+    "employer": "GLOBAL FORCE USA INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "GLOBAL GEOTECHNICAL CONSULTANTS LLC",
+    "state": "VA",
+    "city": "WOODBRIDGE"
+  },
+  {
+    "employer": "GLOBAL HEALTHCARE EXCHANGE INC",
+    "state": "CO",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "GLOBAL HEALTHY LIVING FOUNDATION INC",
+    "state": "NY",
+    "city": "NYACK"
+  },
+  {
+    "employer": "GLOBAL IMMIGRATION SYSTEMS INC",
+    "state": "MI",
+    "city": "LIVONIA"
+  },
+  {
+    "employer": "GLOBAL IMPACT INVESTING NETWORK",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLOBAL INFORMATION SERVICES INC",
+    "state": "FL",
+    "city": "TALLAHASSEE"
+  },
+  {
+    "employer": "GLOBAL INFORMATION TECHNOLOGY INC",
+    "state": "NJ",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "GLOBAL INFOTECH INC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "GLOBAL INFOTECH LLC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "GLOBAL INFOTECH SERVICES LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "GLOBAL INFRASTRUCTURE MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLOBAL INSIGHT INC",
+    "state": "PA",
+    "city": "EASTON"
+  },
+  {
+    "employer": "GLOBAL IT ASSOCIATES LLC",
+    "state": "NY",
+    "city": "STATEN ISLAND"
+  },
+  {
+    "employer": "GLOBAL IT INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "GLOBAL IT INVESTORS INC",
+    "state": "NJ",
+    "city": "MONROE TOWNSHIP"
+  },
+  {
+    "employer": "GLOBAL IT SOLUTIONS INC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "GLOBAL LENDING SERVICES LLC",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "GLOBAL LIFE ENRICHMENT CTR",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "GLOBAL LIVE NETWORK INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "GLOBAL MAIL INC DBA DHL ECOMMERCE",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "GLOBAL NETWORK TECHNOLOGY INC",
+    "state": "VA",
+    "city": "FAIRFAX"
+  },
+  {
+    "employer": "GLOBAL PAYMENT HOLDING COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "GLOBAL PHARMATEK LLC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "GLOBAL PREPARATORY ACADEMY INC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "GLOBAL RENEWABLE ENERGY EDUCATION NETWORK D/B/A GREEN CHARTER SCHOOLS",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "GLOBAL SCIENCE AND TECHNOLOGY INC",
+    "state": "MD",
+    "city": "GREENBELT"
+  },
+  {
+    "employer": "GLOBAL SHOP SOLUTIONS INC",
+    "state": "TX",
+    "city": "SPRING"
+  },
+  {
+    "employer": "GLOBAL SIGMA GROUP LLC",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "GLOBAL SMILES DENTAL 8 LLC DBA 7 DAYS FAMILY DENTAL OF FISHERS",
+    "state": "IN",
+    "city": "FISHERS"
+  },
+  {
+    "employer": "GLOBAL SOFT SYSTEMS INC",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "GLOBAL SOFT TECHNOLOGIES LLC",
+    "state": "FL",
+    "city": "CLEARWATER"
+  },
+  {
+    "employer": "GLOBAL SOLUTIONS GROUP INC",
+    "state": "MI",
+    "city": "OAK PARK"
+  },
+  {
+    "employer": "GLOBAL STRATEGIES HOLDING CORPORATION",
+    "state": "SC",
+    "city": "CHAPIN"
+  },
+  {
+    "employer": "GLOBAL SUMI TECHNOLOGIES INC",
+    "state": "VA",
+    "city": "GLEN ALLEN"
+  },
+  {
+    "employer": "GLOBAL SYSTEMS INTEGRATION INC",
+    "state": "GA",
+    "city": "CANTON"
+  },
+  {
+    "employer": "GLOBAL SYSTEMS LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "GLOBAL TANK LEASING LLC",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "GLOBAL TAX MANAGEMENT INC",
+    "state": "PA",
+    "city": "WAYNE"
+  },
+  {
+    "employer": "GLOBAL TAX NETWORK US LLC",
+    "state": "MN",
+    "city": "MAPLE GROVE"
+  },
+  {
+    "employer": "GLOBAL TECH CONSULTANCTS INC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "GLOBAL TECHNICAL SOFTWARE SERVICES INC",
+    "state": "NJ",
+    "city": "HAMILTON"
+  },
+  {
+    "employer": "GLOBAL TECHNOLOGY AND SERVICES INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "GLOBAL TECHNOLOGY ASSOCIATES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "GLOBAL TEL LINK CORPORATION DBA VIAPATH TECHNOLOGIES",
+    "state": "VA",
+    "city": "FALLS CHURCH"
+  },
+  {
+    "employer": "GLOBAL TELECOM AND IT SERVICES LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "GLOBAL TELEMATIC SOLUTIONS LLC",
+    "state": "ID",
+    "city": "MERIDIAN"
+  },
+  {
+    "employer": "GLOBAL TOTE US LLC",
+    "state": "CT",
+    "city": "HAMDEN"
+  },
+  {
+    "employer": "GLOBAL TOUCHPOINTS, INC. DUNS# 13-8058305",
+    "state": "CA",
+    "city": "ROSEVILLE"
+  },
+  {
+    "employer": "GLOBAL TPA LLC D B A AMERICAS FIRST CHOICE",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "GLOBAL TRANSPORTATION ENGINEERING CORPORATION",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "GLOBAL TUNNELS LIMITED COMPANY DBA GLOBAL TUNNELS",
+    "state": "VA",
+    "city": "FALLS CHURCH"
+  },
+  {
+    "employer": "GLOBAL VALUE ADD INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "GLOBAL VOX LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "GLOBAL WIRELESS SOLUTIONS INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "GLOBAL WORLDWIDE INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "GLOBAL X MANAGEMENT COMPANY LLC D B A GLOBAL X ETFS",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "GLOBALCARE DIALYSIS CONSULTANCY",
+    "state": "CA",
+    "city": "SIMI VALLEY"
+  },
+  {
+    "employer": "GLOBALCFO LLC",
+    "state": "TX",
+    "city": "PLANO"
+  }
+]

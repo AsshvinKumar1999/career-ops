@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "THE QT COMPANY",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "THE QUANTAMENTAL INVESTMENT GROUP LLC",
+    "state": "TX",
+    "city": "FULSHEAR"
+  },
+  {
+    "employer": "THE QUEENS MEDICAL CENTER",
+    "state": "HI",
+    "city": "HONOLULU"
+  },
+  {
+    "employer": "THE RADIOLOGY GROUP, LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "THE RAINE GROUP LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE RAND CORPORATION",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "THE RAYMOND CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE REALREAR INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "THE REASON FOUNDATION",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "THE RECTORY SCHOOL",
+    "state": "CT",
+    "city": "POMFRET"
+  },
+  {
+    "employer": "THE REGIONAL MEDICAL CENTER OF ORANGEBURG AND CALHOUN COUNTIES",
+    "state": "SC",
+    "city": "ORANGEBURG"
+  },
+  {
+    "employer": "THE REINALT THOMAS CORPORATION DBA DISCOUNT TIRE / AMERICA S TIRE",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "THE RND GROUP LLC",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "THE ROARK GROUP LLC",
+    "state": "KS",
+    "city": "LAWRENCE"
+  },
+  {
+    "employer": "THE ROCKEFELLER FOUNDATION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ROCKEFELLER UNIVERSITY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE ROCKPORT COMPANY LLC",
+    "state": "MA",
+    "city": "WEST NEWTON"
+  },
+  {
+    "employer": "THE ROGOSIN INSTITUTE",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE RONIN PROJECT INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "THE ROSKAMP INSTITUTE INC",
+    "state": "FL",
+    "city": "SARASOTA"
+  },
+  {
+    "employer": "THE RUSSIAN SCHOOL OF MATHEMATICS INC",
+    "state": "MA",
+    "city": "NEWTON"
+  },
+  {
+    "employer": "THE SALK INSTITUTE FOR BIOLOGICAL STUDIES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE SALVATION ARMY USA EASTERN TERRITORY",
+    "state": "NY",
+    "city": "WEST NYACK"
+  },
+  {
+    "employer": "THE SCHOOL BOARD OF THE CITY OF PETERSBURG",
+    "state": "VA",
+    "city": "PETERSBURG"
+  },
+  {
+    "employer": "THE SCOTTS COMPANY LLC",
+    "state": "OH",
+    "city": "MARYSVILLE"
+  },
+  {
+    "employer": "THE SCRIPPS RESEARCH INSTITUTE",
+    "state": "CA",
+    "city": "LA JOLLA"
+  },
+  {
+    "employer": "THE SEGAL COMPANY EASTERN STATES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE SEGAL COMPANY WESTERN STATES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE SHAMROCK COMPANIES INC",
+    "state": "OH",
+    "city": "WESTLAKE"
+  },
+  {
+    "employer": "THE SHERWIN WILLIAMS COMPANY",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "THE SHYFT GROUP USA INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "THE SIEGFRIED GROUP LLP",
+    "state": "DE",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "THE SILICON PARTNERS INC",
+    "state": "CA",
+    "city": "FOLSOM"
+  },
+  {
+    "employer": "THE SKAGGS COMMUNITY HOSPITAL ASSOCIATION D B A COX MEDICAL CENTER BRANSON",
+    "state": "MO",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "THE SKILLMAN CORPORATION",
+    "state": "IN",
+    "city": "INDIANAPOLIS"
+  },
+  {
+    "employer": "THE SMART CUBE, INC.",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE SMILE INSTITUTE",
+    "state": "MA",
+    "city": "BROOKLINE"
+  },
+  {
+    "employer": "THE SOCIAL CAPITAL PARTNERSHIP LLC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "THE SOCIETY OF CERTIFIED INSURANCE COUNSELORS D/B/A THE NATIONAL ALLIANCE",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THE SOLARIA CORPORATION",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "THE SOROKIN LAW FIRM LLC",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "THE SPHERE INSTITUTE",
+    "state": "CA",
+    "city": "BURLINGAME"
+  },
+  {
+    "employer": "THE ST PAULS SCHOOLS",
+    "state": "MD",
+    "city": "BROOKLANDVILLE"
+  },
+  {
+    "employer": "THE STAMFORD HOSPITAL",
+    "state": "CT",
+    "city": "STAMFORD"
+  },
+  {
+    "employer": "THE STELLAR GROUP INC.",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "THE STEPPING STONES GROUP LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE STROUSE CORPORATION",
+    "state": "MD",
+    "city": "WESTMINSTER"
+  },
+  {
+    "employer": "THE SUNRISE PROJECT INC",
+    "state": "DE",
+    "city": "DOVER"
+  },
+  {
+    "employer": "THE SUNWATER INSTITUTE",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "THE SUPERLATIVE GROUP INC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "THE TEAM COMPANIES LLC",
+    "state": "CA",
+    "city": "BURBANK"
+  },
+  {
+    "employer": "THE TEKWINN COMPANY LLC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "THE TENEO GROUP LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE THALERUS GROUP INC",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "THE TIMKEN COMPANY",
+    "state": "OH",
+    "city": "NORTH CANTON"
+  },
+  {
+    "employer": "THE TINKERING SOCIETY LLC",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "THE TJX COMPANIES INC",
+    "state": "MA",
+    "city": "FRAMINGHAM"
+  },
+  {
+    "employer": "THE TORONTO DOMINION BANK",
+    "state": "GA",
+    "city": "NORCROSS"
+  },
+  {
+    "employer": "THE TRADE DESK INC",
+    "state": "CA",
+    "city": "VENTURA"
+  },
+  {
+    "employer": "THE TRANSLATIONAL GENOMICS RESEARCH INSTITUTE",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "THE TRAVELERS INDEMNITY COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE TREATMENT LTD",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE TRI-COM CONSULTING GROUP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE U S PHARMACOPEIAL CONVENTION",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "THE UNITED ILLUMINATING COMPANY",
+    "state": "CT",
+    "city": "ORANGE"
+  },
+  {
+    "employer": "THE UNIV OF NEW MEXICO FOUND INC",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "THE UNIV OF TEXAS PERMIAN BASIN",
+    "state": "TX",
+    "city": "ODESSA"
+  },
+  {
+    "employer": "THE UNIVERSITY OF AKRON",
+    "state": "OH",
+    "city": "AKRON"
+  },
+  {
+    "employer": "THE UNIVERSITY OF ALABAMA",
+    "state": "AL",
+    "city": "TUSCALOOSA"
+  },
+  {
+    "employer": "THE UNIVERSITY OF ALABAMA IN HUNTSVILLE",
+    "state": "AL",
+    "city": "HUNTSVILLE"
+  },
+  {
+    "employer": "THE UNIVERSITY OF ARIZONA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF CHICAGO",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF GEORGIA OIE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF IOWA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF KANSAS",
+    "state": "KS",
+    "city": "LAWRENCE"
+  },
+  {
+    "employer": "THE UNIVERSITY OF KANSAS PHYSICIANS",
+    "state": "KS",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "THE UNIVERSITY OF MEMPHIS",
+    "state": "TN",
+    "city": "MEMPHIS"
+  },
+  {
+    "employer": "THE UNIVERSITY OF OKLAHOMA",
+    "state": "OK",
+    "city": "LAWTON"
+  },
+  {
+    "employer": "THE UNIVERSITY OF PHOENIX INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF SAN FRANCISCO",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TAMPA",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS AT AUSTIN",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS AT DALLAS",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS AT EL PASO",
+    "state": "TX",
+    "city": "EL PASO"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS AT TYLER",
+    "state": "TX",
+    "city": "TYLER"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT HOUSTON",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER",
+    "state": "TX",
+    "city": "TYLER"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS M D ANDERSON CANCER CENTER",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS MEDICAL BRANCH",
+    "state": "TX",
+    "city": "GALVESTON"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS RIO GRANDE VALLEY",
+    "state": "TX",
+    "city": "EDINBURG"
+  },
+  {
+    "employer": "THE UNIVERSITY OF TEXAS SYSTEM",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "THE UNIVERSITY OF VERMONT",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE UNIVERSITY OF VIRGINIA",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE"
+  },
+  {
+    "employer": "THE UNIVERSITY OF VIRGINIA PHYSICIANS GROUP",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE"
+  },
+  {
+    "employer": "THE UNIVERSITY OF WEST ALABAMA",
+    "state": "AL",
+    "city": "LIVINGSTON"
+  },
+  {
+    "employer": "THE UNIVISION NETWORK LIMITED PARTNERSHIP",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "THE URBAN INSTITUTE",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE URGENT COMPANY",
+    "state": "CA",
+    "city": "BERKELEY"
+  },
+  {
+    "employer": "THE VANGUARD GROUP",
+    "state": "",
+    "city": ""
+  }
+]

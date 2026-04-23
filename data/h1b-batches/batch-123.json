@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "INPHENIX INC",
+    "state": "CA",
+    "city": "LIVERMORE"
+  },
+  {
+    "employer": "INPHER INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INPROCESS INC",
+    "state": "NY",
+    "city": "BABYLON"
+  },
+  {
+    "employer": "INQBRANDS INC",
+    "state": "CA",
+    "city": "ONTARIO"
+  },
+  {
+    "employer": "INRIKA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSEEGO WIRELESS INC",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "INSIDER INC DBA BUSINESS INSIDER",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INSIGHT DIRECT USA INC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "INSIGHT ENGINEERING COMPANY",
+    "state": "WA",
+    "city": "EVERETT"
+  },
+  {
+    "employer": "INSIGHT GLOBAL LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "INSIGHT HOSPITALITY INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "INSIGHT INTELLI INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "INSIGHT NORTH AMERICA INC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "INSIGHT NORTH AMERICA LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INSIGHTFINDER INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "INSIGHTSOFTWARE LLC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "INSIGNEO SECURITIES LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "INSITRO INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "INSMED INC",
+    "state": "NJ",
+    "city": "BRIDGEWATER"
+  },
+  {
+    "employer": "INSOURCETECH LLC",
+    "state": "CT",
+    "city": "WESTPORT"
+  },
+  {
+    "employer": "INSPECTION DEPOT INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "INSPERITY SERVICES L P DBA INSPERITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSPIRA ENTERPRISE INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "INSPIRA HEALTH NETWORK MED GRP",
+    "state": "NJ",
+    "city": "MULLICA HILL"
+  },
+  {
+    "employer": "INSPIRAGE LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "INSPIRE MEDICAL SYSTEMS LLP",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "INSPIRE RESOURCES LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "INSPIRED ENERGY LLC",
+    "state": "FL",
+    "city": "NEWBERRY"
+  },
+  {
+    "employer": "INSPIRIT AI INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "INSPIRIX TECHNOLOGIES LLC",
+    "state": "MO",
+    "city": "SAINT PETERS"
+  },
+  {
+    "employer": "INSPUR SYSTEMS INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "INSPUR USA INC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "INSPYR SOLUTIONS",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "INSTABASE INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "INSTABUG INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "INSTANT BRANDS LLC",
+    "state": "IL",
+    "city": "DOWNERS GROVE"
+  },
+  {
+    "employer": "INSTINET HOLDINGS INCORPORATED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INSTITUTE FOR ADVANCED STUDY",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "INSTITUTE FOR CANCER RESEARCH DBA RESEARCH INSTITUTE OF FOX CHASE CANCER CENTER",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "INSTITUTE FOR CHILD SUCCESS INC",
+    "state": "SC",
+    "city": "GREENVILLE"
+  },
+  {
+    "employer": "INSTITUTE FOR CHINA AMERICASTUDIES",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "INSTITUTE FOR EDUCATION RESEARCH AND SCHOLARSHIPS",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "INSTITUTE FOR ENVIRONMENTAL HEALTH INC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "INSTITUTE FOR FUTURE INTELLIGENCE INC",
+    "state": "MA",
+    "city": "NATICK"
+  },
+  {
+    "employer": "INSTITUTE FOR IN VITRO SCIENCES INC",
+    "state": "MD",
+    "city": "GAITHERSBURG"
+  },
+  {
+    "employer": "INSTITUTE FOR PROTEIN INNOVATION INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSTITUTE FOR SYSTEMS BIOLOGY",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "INSTITUTE FOR THE REDESIGN OF LEARNING",
+    "state": "CA",
+    "city": "SOUTH PASADENA"
+  },
+  {
+    "employer": "INSTITUTE OF APPLIED ACTUARIAL SCIENCE",
+    "state": "CA",
+    "city": "LAGUNA NIGUEL"
+  },
+  {
+    "employer": "INSTITUTE OF CHINESE CULTURE",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "INSTITUTE OF ELECTRICAL AND ELECTRONICS ENGINEERS INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "INSTITUTE OF GAS TECHNOLOGY D/B/A GAS TECHNOLOGY INSTITUTE",
+    "state": "IL",
+    "city": "DES PLAINES"
+  },
+  {
+    "employer": "INSTITUTE OF INFORMATION TECHNOLOGY INC",
+    "state": "TX",
+    "city": "MAGNOLIA"
+  },
+  {
+    "employer": "INSTITUTIONAL CAPITAL NETWORK INC DBA ICAPITAL",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSTITUTIONAL SHAREHOLDER SERVICES INC",
+    "state": "MD",
+    "city": "ROCKVILLE"
+  },
+  {
+    "employer": "INSTRUCTIONAL ABA CONSULTANTS",
+    "state": "IL",
+    "city": "NAPERVILLE"
+  },
+  {
+    "employer": "INSTRUMENTAL INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "INSTRUMENTAL SERVICES INC DBA INRHYTHM",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INSTRUMENTATION LABORATORY COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSULET CORPORATION",
+    "state": "MA",
+    "city": "ACTON"
+  },
+  {
+    "employer": "INSURANCE ANALYTICS GROUP LLC",
+    "state": "OH",
+    "city": "BEACHWOOD"
+  },
+  {
+    "employer": "INSURANCE AUTO AUCTIONS INC",
+    "state": "IL",
+    "city": "WESTCHESTER"
+  },
+  {
+    "employer": "INSURANCE OFFICE OF AMERICA",
+    "state": "FL",
+    "city": "LONGWOOD"
+  },
+  {
+    "employer": "INSURANCE SERVICES OFFICE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INSURIFY INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "INSURITY LLC",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "INSYCOM INC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "INSYNC INC DBA INSYNC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "INSYS GROUP INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INTABIO LLC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "INTALENT LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "INTECA IT SOLUTIONS LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "INTEGER TELECOM SERVICES INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "INTEGRA LIFESCIENCES CORPORATION",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "INTEGRAL AD SCIENCE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INTEGRAL CONSTRUCTION INC",
+    "state": "IL",
+    "city": "ROMEOVILLE"
+  },
+  {
+    "employer": "INTEGRAL DEVELOPMENT CORP",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "INTEGRAL ENGINEERING CONSULTANTS INC",
+    "state": "CA",
+    "city": "VAN NUYS"
+  },
+  {
+    "employer": "INTEGRAL MOLECULAR INC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "INTEGRAL TECHNOLOGY SOLUTIONS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INTEGRATECOM INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "INTEGRATED BENEFITS INSTITUTE INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "INTEGRATED COMMERCIALIZATION SOLUTIONS LLC",
+    "state": "PA",
+    "city": "CONSHOHOCKEN"
+  },
+  {
+    "employer": "INTEGRATED DECISIONS AND SYSTEMS INC",
+    "state": "MN",
+    "city": "BLOOMINGTON"
+  },
+  {
+    "employer": "INTEGRATED DESIGN GROUP",
+    "state": "NY",
+    "city": "YORKTOWN HEIGHTS"
+  },
+  {
+    "employer": "INTEGRATED DIGITAL MEDIA",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "INTEGRATED DNA TECHNOLOGIES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "INTEGRATED ENERGY CONCEPTS ENGINEERING PC",
+    "state": "NY",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "INTEGRATED ENVIRONMENTAL SOLUTIONS LTD",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "INTEGRATED GLAZTECH INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "INTEGRATED HEALTH GROUP",
+    "state": "MN",
+    "city": "ROSEVILLE"
+  },
+  {
+    "employer": "INTEGRATED IT SYSTEMS INC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "INTEGRATED MANAGED CARE SYSTEMS LLC",
+    "state": "MO",
+    "city": "CAPE GIRARDEAU"
+  },
+  {
+    "employer": "INTEGRATED MANAGEMENT SYSTEMS INC",
+    "state": "MI",
+    "city": "ANN ARBOR"
+  },
+  {
+    "employer": "INTEGRATED MEDICAL TRANSPORT LLC",
+    "state": "PA",
+    "city": "HARRISBURG"
+  },
+  {
+    "employer": "INTEGRATED PATHOLOGY PSC",
+    "state": "PR",
+    "city": "TRUJILLO ALTO"
+  },
+  {
+    "employer": "INTEGRATED RESOURCES INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "INTEGRATED SCIENCE AND TECHNOLOGY INC",
+    "state": "GA",
+    "city": "CARTERSVILLE"
+  },
+  {
+    "employer": "INTEGRATED SMART SOLUTIONS LLC",
+    "state": "FL",
+    "city": "NAPLES"
+  },
+  {
+    "employer": "INTEGRATED STRUCTURES CORP",
+    "state": "NY",
+    "city": "BELLPORT"
+  }
+]

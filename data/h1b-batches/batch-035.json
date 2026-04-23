@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "BLITZ STUDIOS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BLIZZARD ENTERTAINMENT INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLOCK CHAIN TECHNOLOGY SOLUTIONS INC",
+    "state": "IL",
+    "city": "PALATINE"
+  },
+  {
+    "employer": "BLOCK INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLOCK1 INFORMATION TECHNOLOGY SERVICES LLC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "BLOCKCHAIN TECHNOLOGIES LLC",
+    "state": "NE",
+    "city": "GRAND ISLAND"
+  },
+  {
+    "employer": "BLOCKEDGE TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "EAST BRUNSWICK"
+  },
+  {
+    "employer": "BLOCKFI INC",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "BLOCKGRAPH LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BLOCKNIT LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BLOCKWORKS ADVISORS LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "BLOCPOWER LLC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "BLOODWORKS NORTHWEST",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "BLOOM COMPANIES LLC",
+    "state": "WI",
+    "city": "MILWAUKEE"
+  },
+  {
+    "employer": "BLOOM ENERGY CORPORATION",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "BLOOM INSURANCE AGENCY LLC",
+    "state": "IN",
+    "city": "BLOOMINGTON"
+  },
+  {
+    "employer": "BLOOM NUTRITION LLC",
+    "state": "CA",
+    "city": "VENICE"
+  },
+  {
+    "employer": "BLOOMBERG INDEX SERVICES LIMITED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BLOOMBERG LP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLOOMFIELD DENTAL CARE INC",
+    "state": "CT",
+    "city": "BLOOMFIELD"
+  },
+  {
+    "employer": "BLOOMING BODH LLC",
+    "state": "MD",
+    "city": "GERMANTOWN"
+  },
+  {
+    "employer": "BLOOMING STARS EDUCATION CENTER LLC",
+    "state": "MA",
+    "city": "BRIGHTON"
+  },
+  {
+    "employer": "BLOOMINGDALE S LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "BLOOMINGDALES COM LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "BLOOMREACH INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLOOMSUNG INC",
+    "state": "CA",
+    "city": "FONTANA"
+  },
+  {
+    "employer": "BLOSSOM FOOTWEAR INC",
+    "state": "CA",
+    "city": "CITY OF INDUSTRY"
+  },
+  {
+    "employer": "BLOSSOM SOLUTIONS INC",
+    "state": "MD",
+    "city": "ELLICOTT CITY"
+  },
+  {
+    "employer": "BLST OPERATING COMPANY LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUDIAGNOSTICS LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "BLUE ACORN ICI INC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "BLUE ALTAIR LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "BLUE BELL USA LLC DBA A2B INDIAN VEG RESTAURANT",
+    "state": "NJ",
+    "city": "PARASIPPANY"
+  },
+  {
+    "employer": "BLUE BRISS TECHNOLOGIES INC",
+    "state": "IL",
+    "city": "NILES"
+  },
+  {
+    "employer": "BLUE CANOPY LC",
+    "state": "GA",
+    "city": "KENNESAW"
+  },
+  {
+    "employer": "BLUE CART INC",
+    "state": "CA",
+    "city": "SHINGLE SPRINGS"
+  },
+  {
+    "employer": "BLUE CHIP TALENT INC",
+    "state": "MI",
+    "city": "BLOOMFIELD HILLS"
+  },
+  {
+    "employer": "BLUE CROSS & BLUE SHIELD OF MISSISSIPPI",
+    "state": "MS",
+    "city": "FLOWOOD"
+  },
+  {
+    "employer": "BLUE CROSS & BLUE SHIELD OF RHODE ISLAND",
+    "state": "RI",
+    "city": "PROVIDENCE"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF ALABAMA",
+    "state": "AL",
+    "city": "BIRMINGHAM"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF FLORIDA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF KANSAS CITY",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF MASSACHUSETTS INC",
+    "state": "MA",
+    "city": "QUINCY"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF NORTH CAROLINA",
+    "state": "NC",
+    "city": "DURHAM"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF SOUTH CAROLINA",
+    "state": "SC",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "BLUE CROSS AND BLUE SHIELD OF VERMONT",
+    "state": "VT",
+    "city": "MONTPELIER"
+  },
+  {
+    "employer": "BLUE CROSS BLUE SHIELD OF MICHIGAN",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUE CROSS BLUE SHIELD OF NEBRASKA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUE CROSS BLUE SHIELD OF NORTH DAKOTA",
+    "state": "ND",
+    "city": "FARGO"
+  },
+  {
+    "employer": "BLUE CUBE CORPORATION",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "BLUE EYE SOFT CORP",
+    "state": "SC",
+    "city": "GREER"
+  },
+  {
+    "employer": "BLUE FUSION ENTERPRISE TECHNOLOGIE",
+    "state": "GA",
+    "city": "ROSWELL"
+  },
+  {
+    "employer": "BLUE HAVEN INITIATIVE LLC",
+    "state": "MA",
+    "city": "LEE"
+  },
+  {
+    "employer": "BLUE HERON CONSULTING CORPORATION",
+    "state": "NY",
+    "city": "ROCHESTER"
+  },
+  {
+    "employer": "BLUE INFOSOFT INC",
+    "state": "KS",
+    "city": "LEAWOOD"
+  },
+  {
+    "employer": "BLUE LINE FOODSERVICE DISTRIBUTION INC",
+    "state": "MI",
+    "city": "DETROIT"
+  },
+  {
+    "employer": "BLUE LOTUS SYSTEMS INC",
+    "state": "VA",
+    "city": "VIENNA"
+  },
+  {
+    "employer": "BLUE MATTER CONSULTING LLC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "BLUE MOON CAPITAL PARTNERS LP",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "BLUE NILE INC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BLUE ORCA LLC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "BLUE ORIGIN IT STAFFING LLC",
+    "state": "TX",
+    "city": "LIBERTY HILL"
+  },
+  {
+    "employer": "BLUE PANDA SCIENCE LLC",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "BLUE PLANET INC",
+    "state": "MD",
+    "city": "BELTSVILLE"
+  },
+  {
+    "employer": "BLUE RAVEN SOLAR HOLDINGS LLC",
+    "state": "UT",
+    "city": "OREM"
+  },
+  {
+    "employer": "BLUE RIDGE RESTORATIONS LLC",
+    "state": "VA",
+    "city": "ROANOKE"
+  },
+  {
+    "employer": "BLUE RIVER TECHNOLOGY",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "BLUE ROBOTICS INC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "BLUE SAGE SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "ENGLEWOOD CLIFFS"
+  },
+  {
+    "employer": "BLUE SIGMA SOFTWARE SOLUTIONS",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "BLUE SKY HOSPITALITY SOLUTIONS LLC",
+    "state": "NY",
+    "city": "UNIONDALE"
+  },
+  {
+    "employer": "BLUE SPACE TECHNOLOGIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUE SPIRE INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "BLUE STAR ANIMAL HOSPITAL LLC",
+    "state": "FL",
+    "city": "SAINT JOHNS"
+  },
+  {
+    "employer": "BLUE STONE IMPORT USA INC",
+    "state": "NY",
+    "city": "MANHASSET"
+  },
+  {
+    "employer": "BLUE TIDE COMMUNICATIONS CORPORATION",
+    "state": "LA",
+    "city": "BROUSSARD"
+  },
+  {
+    "employer": "BLUE VINE CAPITAL INC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "BLUE WHALE MATERIALS",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "BLUE YONDER INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUE5GREEN LLC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "BLUEBEAM INC",
+    "state": "CA",
+    "city": "PASADENA"
+  },
+  {
+    "employer": "BLUEBIRD BIO INC",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "BLUEBIX SOLUTIONS INC",
+    "state": "DE",
+    "city": "DOVER"
+  },
+  {
+    "employer": "BLUECLOUD SERVICES INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "BLUECORE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BLUECROSS BLUESHIELD ASSOCIATION",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "BLUECROSS BLUESHIELD OF TENNESSEE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUEDATA INTERNATIONAL INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "BLUEFIN CAPITAL MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "BLUEFOX TECHNOLOGIES LLC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "BLUEGREEN VACATIONS CORPORATION",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "BLUEINGREEN LLC",
+    "state": "GA",
+    "city": "BALL GROUND"
+  },
+  {
+    "employer": "BLUEMERCURY INC",
+    "state": "GA",
+    "city": "JOHNS CREEK"
+  },
+  {
+    "employer": "BLUEOWL LLC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "BLUEPEARL VET LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "BLUEPRINT CAPITAL SERVICES LLC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "BLUEPRINT MEDICINES CORPORATION",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "BLUEPRINT TECHNOLOGIES LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "BLUERIBBON GLOBAL TECHNOLOGIES LLC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "BLUERIDGE DYNAMIC SOLUTIONS LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  }
+]

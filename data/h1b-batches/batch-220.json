@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "SIMPLESOLVE INC",
+    "state": "NJ",
+    "city": "PENNINGTON"
+  },
+  {
+    "employer": "SIMPLEX INFO SYSTEMS INC",
+    "state": "TX",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "SIMPLICITY SOLUTIONS LLC",
+    "state": "MN",
+    "city": "MINNEAPOLIS"
+  },
+  {
+    "employer": "SIMPLIIGENCE INC",
+    "state": "DE",
+    "city": "DOVER"
+  },
+  {
+    "employer": "SIMPLISAFE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "SIMPSON GUMPERTZ AND HEGER INC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "SIMPSON STRONG-TIE COMPANY INC",
+    "state": "CA",
+    "city": "PLEASANTON"
+  },
+  {
+    "employer": "SIMPSON THACHER & BARTLETT LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIMS FAYOLA FOUNDATION",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "SIMSAN GLOBAL SOLUTIONS",
+    "state": "TX",
+    "city": "FLOWER MOUND"
+  },
+  {
+    "employer": "SIMULATE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIMULATED APTITUDE INC",
+    "state": "VA",
+    "city": "BROADLANDS"
+  },
+  {
+    "employer": "SIMULATIONS PLUS, INC.",
+    "state": "CA",
+    "city": "LANCASTER"
+  },
+  {
+    "employer": "SIMULMEDIA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SINA COM ONLINE",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "SINAI HEALTH SYSTEM D/B/A SINAI CHICAGO",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SINAI HOSPITAL OF BALTIMORE INC",
+    "state": "MD",
+    "city": "OWINGS MILLS"
+  },
+  {
+    "employer": "SINCERE DEVELOPERS & BUILDERS INC DBA SINCERE CONSTRUCTION",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SINCLAIR TELEVISION GROUP INC",
+    "state": "MD",
+    "city": "COCKEYSVILLE"
+  },
+  {
+    "employer": "SINCLAIR WELL PRODUCTS, INC.",
+    "state": "CA",
+    "city": "CERRITOS"
+  },
+  {
+    "employer": "SINCRO LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "SINESOFT BUSINESS SOLUTIONS INC",
+    "state": "GA",
+    "city": "CUMMING"
+  },
+  {
+    "employer": "SINEXCEL INC.",
+    "state": "CA",
+    "city": "RANCHO CUCAMONGA"
+  },
+  {
+    "employer": "SINFOTECH LLC",
+    "state": "WV",
+    "city": "MORGANTOWN"
+  },
+  {
+    "employer": "SINFRALOGIX LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SING IN CHINESE LLC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "SING TAO NEWSPAPERS SAN FRANCISCO LTD",
+    "state": "CA",
+    "city": "BURLINGAME"
+  },
+  {
+    "employer": "SINGAREDDY INFORMATION TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "LAWRENCEVILLE"
+  },
+  {
+    "employer": "SINGER AND FALK CPAS PC",
+    "state": "NY",
+    "city": "MELVILLE"
+  },
+  {
+    "employer": "SINGER VEHICLE DESIGN LLC",
+    "state": "CA",
+    "city": "TORRANCE"
+  },
+  {
+    "employer": "SINGERLEWAK LLP",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SINGH TRADING COMPANY INC",
+    "state": "MD",
+    "city": "LAUREL"
+  },
+  {
+    "employer": "SINGING RIVER HEALTH SYSTEM",
+    "state": "MS",
+    "city": "OCEAN SPRINGS"
+  },
+  {
+    "employer": "SINGLE PARTICLE LLC",
+    "state": "CA",
+    "city": "MISSION VIEJO"
+  },
+  {
+    "employer": "SINGLESTORE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SINGULAR ANALYSTS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SINGULAR PEOPLE LLC FKA MEDIANET SOFTWARE LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "SINGULARITY 6 CORPORATION",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SINGULARITY CONSULTING SERVICES LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "SINO BIOLOGICAL US INC",
+    "state": "PA",
+    "city": "WAYNE"
+  },
+  {
+    "employer": "SINORICA LLC DBA THOUGHTS TO PAPER",
+    "state": "MD",
+    "city": "GERMANTOWN"
+  },
+  {
+    "employer": "SINOVISION INCORPORATED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SINTEGRA INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "SINTO AMERICA INC",
+    "state": "MI",
+    "city": "GRAND LEDGE"
+  },
+  {
+    "employer": "SIO CAPITAL MANAGEMENT LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIO2 MEDICAL PRODUCTS INC",
+    "state": "AL",
+    "city": "AUBURN"
+  },
+  {
+    "employer": "SIOUX FALLS SCHOOL DISTRICT 49 5",
+    "state": "SD",
+    "city": "SIOUX FALLS"
+  },
+  {
+    "employer": "SIP US LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SIRA CONSULTING INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIRI CONSULTANCY SERVICES INC",
+    "state": "IA",
+    "city": "WEST DES MOINES"
+  },
+  {
+    "employer": "SIRI DATA ANALYTICS LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "SIRI INFOSOLUTIONS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIRI INFOTEC LLC",
+    "state": "TX",
+    "city": "FRISCO"
+  },
+  {
+    "employer": "SIRI LEARNING INC",
+    "state": "CA",
+    "city": "CYPRESS"
+  },
+  {
+    "employer": "SIRI SOFTWARE SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "MONMOUTH JUNCTION"
+  },
+  {
+    "employer": "SIRI TECH LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SIRIPURAPU ASSOCIATES PLLC D/B/A MEDICAL ASSOCIATES OF NORTH TEXAS",
+    "state": "TX",
+    "city": "FLOWER MOUND"
+  },
+  {
+    "employer": "SIRITEK INC",
+    "state": "IL",
+    "city": "ROLLING MDWS"
+  },
+  {
+    "employer": "SIRIUS COMPUTER SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIRIUS GLOBAL SERVICES LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIRIUS XM RADIO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIRONA MEDICAL INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SIRRUS SOFTWARE SERVICES INC DBA CYNERZY SYSTEMS",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SIS LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "SISECAM CHEMICALS WYOMING LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SISENSE INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SISKIYOU PROFESSIONAL MEDICAL SERVICES",
+    "state": "CA",
+    "city": "YREKA"
+  },
+  {
+    "employer": "SISMOS SOLUTIONS INC",
+    "state": "KS",
+    "city": "OVERLAND PARK"
+  },
+  {
+    "employer": "SITA CORP",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "SITA HEALTH AND LIFE SCIENCES INC DBA SITA SOLUTIONS",
+    "state": "NJ",
+    "city": "SOMERSET"
+  },
+  {
+    "employer": "SITA INFORMATION NETWORKING COMPUTING USA INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SITE DESIGN GROUP LTD",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SITECORE USA INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SITEK INC",
+    "state": "KY",
+    "city": "LEXINGTON"
+  },
+  {
+    "employer": "SITEL OPERATING CORPORATION DBA SITEL GROUP",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "SITERX INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SITES SOUTHWEST LTD CO",
+    "state": "NM",
+    "city": "ALBUQUERQUE"
+  },
+  {
+    "employer": "SITETRACKER INC",
+    "state": "NJ",
+    "city": "MONTCLAIR"
+  },
+  {
+    "employer": "SITEWIT CORP DBA KLIKEN.COM",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SIUVO INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "SIVALTECH INC",
+    "state": "CA",
+    "city": "MILPITAS"
+  },
+  {
+    "employer": "SIX CONTINENTS HOTELS INC INTERCONTINENTAL HOTELS GROUP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIX POINT HARNESS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SIX SIGMA ACADEMY INTERNATIONAL LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIXGILL LLC DBA PLAINSIGHT LLC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SIXSIDES ARCHITECTURE INC",
+    "state": "FL",
+    "city": "MIAMI BEACH"
+  },
+  {
+    "employer": "SIXTH STREET OPPORTUNITIES PARTNERS LP",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SJH ENGINEERING P C",
+    "state": "NJ",
+    "city": "KENDALL PARK"
+  },
+  {
+    "employer": "SJH SHEFFIELD AEROSPACE LLC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "SJS MECHANICAL SERVICES  LLC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "SK COMMERCIAL CONSTRUCTION INC",
+    "state": "TX",
+    "city": "KILLEEN"
+  },
+  {
+    "employer": "SK E & C BETEK CORP",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "SK HYNIX AMERICA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SK HYNIX MEMORY SOLUTIONS AMERICA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SK HYNIX NAND PRODUCT SOLUTIONS CORP DBA SOLIDIGM",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SK STONES BB LLC",
+    "state": "FL",
+    "city": "BOYNTON BEACH"
+  },
+  {
+    "employer": "SK TECHNOLOGIES LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SKA INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "SKADDEN ARPS SLATE MEAGHER & FLOM LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SKAGFIELD CORPORATION INC",
+    "state": "FL",
+    "city": "TALLAHASSEE"
+  }
+]

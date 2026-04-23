@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "VALCON GUAM LLC DBA VALDEZ EQUPME",
+    "state": "GU",
+    "city": "BARRIGADA"
+  },
+  {
+    "employer": "VALCRE INC",
+    "state": "CA",
+    "city": "LA JOLLA"
+  },
+  {
+    "employer": "VALDOSTA STATE UNIVERSITY",
+    "state": "GA",
+    "city": "VALDOSTA"
+  },
+  {
+    "employer": "VALENT BIOSCIENCES LLC",
+    "state": "IL",
+    "city": "LIBERTYVILLE"
+  },
+  {
+    "employer": "VALENT USA LLC",
+    "state": "IL",
+    "city": "LIBERTYVILLE"
+  },
+  {
+    "employer": "VALENTI BUILDERS INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "VALEO DETECTION SYSTEMS INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "VALEO NORTH AMERICA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VALERO ENERGY CORPORATION",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "VALGENESIS INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "VALI LLC",
+    "state": "FL",
+    "city": "ST PETERSBURG"
+  },
+  {
+    "employer": "VALIANT INTERNATIONAL INC",
+    "state": "MI",
+    "city": "AUBURN HILLS"
+  },
+  {
+    "employer": "VALIANT IT SERVICES INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "VALIANT TECHNOLOGY SOLUTIONS LLC",
+    "state": "UT",
+    "city": "SOUTH JORDAN"
+  },
+  {
+    "employer": "VALIANTICA INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "VALIANTYS AMERICA INC",
+    "state": "MA",
+    "city": "DEDHAM"
+  },
+  {
+    "employer": "VALIDATION ASSOCIATES LLC",
+    "state": "VA",
+    "city": "HERNDON"
+  },
+  {
+    "employer": "VALIDATION TECHNICAL SERVICES INTEGRATED INC DBA VTSI INC",
+    "state": "IL",
+    "city": "DES PLAINES"
+  },
+  {
+    "employer": "VALIDIT SOLUTIONS LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "VALIMATION INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "VALLEN DISTRUBUTION INC",
+    "state": "NC",
+    "city": "BELMONT"
+  },
+  {
+    "employer": "VALLES VENDIOLA LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VALLEY CHILDRENS SPECIALTY MEDICAL GROUP INC",
+    "state": "CA",
+    "city": "MADERA"
+  },
+  {
+    "employer": "VALLEY COUNTY HOSPITAL DBA VALLEY COUNTY HEALTH SYSTEM",
+    "state": "NE",
+    "city": "ORD"
+  },
+  {
+    "employer": "VALLEY FINE FOODS COMPANY INC",
+    "state": "CA",
+    "city": "BENICIA"
+  },
+  {
+    "employer": "VALLEY HEALTH TEAM INC",
+    "state": "CA",
+    "city": "SAN JOAQUIN"
+  },
+  {
+    "employer": "VALLEY NATIONAL BANK",
+    "state": "NJ",
+    "city": "WAYNE"
+  },
+  {
+    "employer": "VALLEY WOMENS SPECIALISTS D/B/A RONALD E BLANCO",
+    "state": "TX",
+    "city": "WESLACO"
+  },
+  {
+    "employer": "VALMARC CORPORATION",
+    "state": "MA",
+    "city": "NEEDHAM HEIGHTS"
+  },
+  {
+    "employer": "VALMET INC",
+    "state": "GA",
+    "city": "NORCROSS"
+  },
+  {
+    "employer": "VALMONT INDUSTRIES INC",
+    "state": "NE",
+    "city": "OMAHA"
+  },
+  {
+    "employer": "VALON TECHNOLOGIES INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VALORE PARTNERS LLC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "VALOREM LLC DBA VALOREM REPLY",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "VALORNEST IT SERVICES LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "VALOURUSA INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "VALRIX LLC",
+    "state": "IL",
+    "city": "VERNON HILLS"
+  },
+  {
+    "employer": "VALSAMIS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "VALTA ENERGY LLC",
+    "state": "CA",
+    "city": "DANA POINT"
+  },
+  {
+    "employer": "VALTECH SOLUTIONS LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "VALTIX IN",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "VALUABLE TECHNOLOGIES INC DBA MOVIEBEAM",
+    "state": "FL",
+    "city": "POMPANO BEACH"
+  },
+  {
+    "employer": "VALUDENTAL 2 PLLC DBA CELEBRATE DENTAL & BRACES BANDERA",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "VALUE CONSULTING LLC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "VALUE MOTORS COMPANY",
+    "state": "LA",
+    "city": "MARRERO"
+  },
+  {
+    "employer": "VALUELABS INC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "VALUEMOMENTUM INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "VALUENCE INTERNATIONAL USA LIMITED",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VALUEPRO INC",
+    "state": "AR",
+    "city": "LITTLE ROCK"
+  },
+  {
+    "employer": "VALVE CORPORATION",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "VAMANA SYSTEMS INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "VAN ANDEL RESEARCH INSTITUTE",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "VAN CLIBURN FOUNDATION INC",
+    "state": "TX",
+    "city": "FORT WORTH"
+  },
+  {
+    "employer": "VAN HOLTENS INC",
+    "state": "WI",
+    "city": "WATERLOO"
+  },
+  {
+    "employer": "VAN METER WILLIAMS POLLACK LLP",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "VANAM TOOLS AND ENGINEERING LLC",
+    "state": "MO",
+    "city": "SAINT JOSEPH"
+  },
+  {
+    "employer": "VANASSE HANGEN BRUSTLIN INC",
+    "state": "MA",
+    "city": "WATERTOWN"
+  },
+  {
+    "employer": "VANCE COUNTY PUBLIC SCHOOLS",
+    "state": "NC",
+    "city": "HENDERSON"
+  },
+  {
+    "employer": "VANCOUVER SCHOOL DISTRICT 37",
+    "state": "WA",
+    "city": "VANCOUVER"
+  },
+  {
+    "employer": "VANDA PHARMACEUTICALS INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "VANDERBILT UNIVERSITY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "VANDERLANDE INDUSTRIES INC",
+    "state": "GA",
+    "city": "MARIETTA"
+  },
+  {
+    "employer": "VANDERWALL LAW OFFICE LLC",
+    "state": "OR",
+    "city": "BEAVERTON"
+  },
+  {
+    "employer": "VANDEVENTER PLACE RESEARCH FOUNDATION",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "VANDOO LLC",
+    "state": "NJ",
+    "city": "NEWARK"
+  },
+  {
+    "employer": "VANE TECHNOLOGIES LLC",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "VANGUARD NATIONAL TRAILER CORPORATION",
+    "state": "IN",
+    "city": "MONON"
+  },
+  {
+    "employer": "VANITY ART LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "VANJA ALAGIC DMD PLLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "VANKAY SYSTEMS INC",
+    "state": "NC",
+    "city": "MORRISVILLE"
+  },
+  {
+    "employer": "VANREUSEL VENTURES",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "VANTA INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "VANTAGE CORPORATION",
+    "state": "MI",
+    "city": "LIVONIA"
+  },
+  {
+    "employer": "VANTAGE DATA CENTERS MGMT CO LLC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "VANTAGE HEALTH PLAN INC",
+    "state": "LA",
+    "city": "MONROE"
+  },
+  {
+    "employer": "VANTAGE INC D/B/A ACQUCO",
+    "state": "NJ",
+    "city": "PARAMUS"
+  },
+  {
+    "employer": "VANTAGE LABS LLC",
+    "state": "PA",
+    "city": "NEW HOPE"
+  },
+  {
+    "employer": "VANTAGE POINT CONSULTING INC",
+    "state": "PA",
+    "city": "HAWLEY"
+  },
+  {
+    "employer": "VANTAGE TRAVEL SERVICE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "VANTAGEERP LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "VANTEZ SYSTEMS INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "VAOYO LLC",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "VARADERO CAPITAL LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VARAHI INC DBA GERMANTOWN PHARMACY",
+    "state": "MS",
+    "city": "CANTON"
+  },
+  {
+    "employer": "VARANT INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "VARCONS INC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "VARENS SOFTTECH LLC",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "VAREX IMAGING CORPORATION",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "VARIAN MEDICAL SYSTEMS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VARIS LLC",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "VARISCALE SERVICES ENGINEERING INC",
+    "state": "NJ",
+    "city": "SECAUCUS"
+  },
+  {
+    "employer": "VARIYAS GLOBAL SOLUTIONS INC",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "VARNAR INC",
+    "state": "VA",
+    "city": "STERLING"
+  },
+  {
+    "employer": "VARNUM LLP",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "VARO BANK N A",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "VARONIS SYSTEMS, INC.",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "VARS CONSULTING INC",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "VARUNAVI IT CONSULTANTS INC",
+    "state": "NC",
+    "city": "MORRISVILLE"
+  },
+  {
+    "employer": "VASANTAS SOFTWARE INC",
+    "state": "CA",
+    "city": "TORRANCE"
+  }
+]

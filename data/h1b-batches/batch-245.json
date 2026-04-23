@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "THE COOPER HEALTH SYSTEM",
+    "state": "NJ",
+    "city": "CAMDEN"
+  },
+  {
+    "employer": "THE COROMEGA CO INC",
+    "state": "CA",
+    "city": "VISTA"
+  },
+  {
+    "employer": "THE COTERIE.ME INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE COUNCIL OF INSURANCE AGENTS & BROKERS",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE COUNTRY CLUB AT WOODFIELD INC DBA WOODFIELD COUNTRY CLUB",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "THE COUPLES CENTER TCC LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE CROSBY GROUP",
+    "state": "OK",
+    "city": "TULSA"
+  },
+  {
+    "employer": "THE CROWTHER GROUP INAPURI",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "THE CT AGRICULTURAL EXPERIMENT STA",
+    "state": "CT",
+    "city": "NEW HAVEN"
+  },
+  {
+    "employer": "THE CURATORS OF THE UN OF MISSOURI",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE CURATORS OF THE UNIVERSITY OF MISSOURI",
+    "state": "MO",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "THE DAK GROUP LTD",
+    "state": "NJ",
+    "city": "ROCHELLE PARK"
+  },
+  {
+    "employer": "THE DALTON AGENCY INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "THE DAVEY TREE EXPERT COMPANY",
+    "state": "OH",
+    "city": "KENT"
+  },
+  {
+    "employer": "THE DEI GROUP",
+    "state": "MD",
+    "city": "COLUMBIA"
+  },
+  {
+    "employer": "THE DENNIS GROUP INC",
+    "state": "MA",
+    "city": "SPRINGFIELD"
+  },
+  {
+    "employer": "THE DENVER WALDORF SCHOOL ASSOCIATION",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "THE DEPARTMENT OF MEDICINE MEDICAL SERVICE GROUP AT SUNY HSC AT SYRACUSE INC",
+    "state": "NY",
+    "city": "SYRACUSE"
+  },
+  {
+    "employer": "THE DEPOSITORY TRUST CLEARING CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE DEVEREUX FOUNDATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE DIETZ PARTNERSHIP LLC",
+    "state": "NJ",
+    "city": "PARSIPPANY"
+  },
+  {
+    "employer": "THE DOCTORS CLINC A PROFESSIONAL CORPORATION",
+    "state": "WA",
+    "city": "SILVERDALE"
+  },
+  {
+    "employer": "THE DON VITA COMPANY DBA VITA INC VITA VITA PLANNING AND LANDSCAPE ARCHITECTURE",
+    "state": "CA",
+    "city": "SAN RAFAEL"
+  },
+  {
+    "employer": "THE DOUGLAS STEWART COMPANY",
+    "state": "WI",
+    "city": "MADISON"
+  },
+  {
+    "employer": "THE DOW CHEMICAL COMPANY",
+    "state": "MI",
+    "city": "MIDLAND"
+  },
+  {
+    "employer": "THE DULUTH CLINIC LTD",
+    "state": "MN",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "THE E W SCRIPPS COMPANY",
+    "state": "OH",
+    "city": "CINCINNATI"
+  },
+  {
+    "employer": "THE ECONSORTIUM GROUP INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "THE EGGO COMPANY",
+    "state": "MI",
+    "city": "BATTLE CREEK"
+  },
+  {
+    "employer": "THE ELECTRONIC EXPRESS INC",
+    "state": "TN",
+    "city": "NASHVILLE"
+  },
+  {
+    "employer": "THE ENERGY AUTHORITY INC",
+    "state": "FL",
+    "city": "JACKSONVILLE"
+  },
+  {
+    "employer": "THE ENVIRONMENTAL FINANCIAL CONSULTING GROUP LLC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "THE EPSTEN GROUP",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "THE ESAB GROUP INC",
+    "state": "MD",
+    "city": "NORTH BETHESDA"
+  },
+  {
+    "employer": "THE EVOLVERS GROUP LP",
+    "state": "TX",
+    "city": "FLOWER MOUND"
+  },
+  {
+    "employer": "THE EXECU SEARCH GROUP LLC DBA TANDYM GROUP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE EXODUS RD",
+    "state": "CO",
+    "city": "COLORADO SPRINGS"
+  },
+  {
+    "employer": "THE FAMILY INST OF NORTHWESTERN UNIV",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE FEDERAL RESERVE BANK OF ST. LOUIS",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "THE FEINSTEIN INSTITUTES FOR MEDICAL RESEARCH",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE FIELD MUSEUM OF NATURAL HISTORY",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE FINANCIAL RISK GROUP INC",
+    "state": "NC",
+    "city": "CARY"
+  },
+  {
+    "employer": "THE FIRST YUNNAN LLC",
+    "state": "NY",
+    "city": "SYOSSET"
+  },
+  {
+    "employer": "THE FORD FOUNDATION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE FORGE INTERACTIVE, INC.",
+    "state": "CA",
+    "city": "SOLANA BEACH"
+  },
+  {
+    "employer": "THE FOUNTAIN GROUP LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "THE FREEMAN COMPANY LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "THE FRENCH AMERICAN SCHOOL OF RHODE ISLAND",
+    "state": "RI",
+    "city": "PROVIDENCE"
+  },
+  {
+    "employer": "THE FRENCH JAPANESE EDU INST OF NY IN DBA LYCEUM KENNEDY",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE FRICK COLLECTION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE FRIENDS OF CROWN HEIGHTS EDUCATIONAL CENTERS INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "THE FROST GROUP LLC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE FUN GROUP INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE FYNDER GROUP INC DBA NATURES FYND",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "THE GALLOWAY SCHOOLS INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "THE GAP INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "THE GARDEN GATE LLC",
+    "state": "AZ",
+    "city": "ORO VALLEY"
+  },
+  {
+    "employer": "THE GELBOTTLE, INC.",
+    "state": "OR",
+    "city": "PORTLAND"
+  },
+  {
+    "employer": "THE GEORGE WASHINGTON UNIVERSITY",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE GIFT OF SPEECH",
+    "state": "CA",
+    "city": "STOCKTON"
+  },
+  {
+    "employer": "THE GLACIER GROUP LLC",
+    "state": "WI",
+    "city": "MIDDLETON"
+  },
+  {
+    "employer": "THE GLOBE ACADEMY INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "THE GOODYEAR TIRE & RUBBER COMPANY",
+    "state": "OH",
+    "city": "AKRON"
+  },
+  {
+    "employer": "THE GOULD MEDICAL GROUP INC",
+    "state": "CA",
+    "city": "MODESTO"
+  },
+  {
+    "employer": "THE GREGORY SCHOOL",
+    "state": "AZ",
+    "city": "TUCSON"
+  },
+  {
+    "employer": "THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE GUND COMPANY INC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "THE H HOLDINGS LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "THE HACKETT GROUP INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "THE HANOVER RESEARCH COUNCIL LLC",
+    "state": "VA",
+    "city": "ARLINGTON"
+  },
+  {
+    "employer": "THE HARBOR PICTURE COMPANY INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE HARRY AND JEANETTE WEINBERG FOUNDATION INC",
+    "state": "MD",
+    "city": "OWINGS MILLS"
+  },
+  {
+    "employer": "THE HARRY FRANK GUGGENHEIM FDN",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE HARTFORD STEAM BOILER INSPECTION AND INSURANCE CO",
+    "state": "CT",
+    "city": "HARTFORD"
+  },
+  {
+    "employer": "THE HEALTH CARE AUTHORITY FOR BAPTIST HEALTH AN AFFILIATE OF UAB HEALTH SYSTEM D/B/A BAPTIST HEALTH",
+    "state": "AL",
+    "city": "MONTGOMERY"
+  },
+  {
+    "employer": "THE HEALTH CARE AUTHORITY OF THE CITY OF HUNTSVILLE",
+    "state": "AL",
+    "city": "HUNTSVILLE"
+  },
+  {
+    "employer": "THE HEIL CO",
+    "state": "TN",
+    "city": "CHATTANOOGA"
+  },
+  {
+    "employer": "THE HENRY L STIMSON CENTER",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE HENRY M JACKSON FOUNDATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE HEREAFTER INC",
+    "state": "OH",
+    "city": "COLUMBUS"
+  },
+  {
+    "employer": "THE HERSHEY COMPANY",
+    "state": "PA",
+    "city": "HERSHEY"
+  },
+  {
+    "employer": "THE HERSHEY SALES COMPANY",
+    "state": "PA",
+    "city": "HERSHEY"
+  },
+  {
+    "employer": "THE HERTZ CORPORATION",
+    "state": "FL",
+    "city": "ESTERO"
+  },
+  {
+    "employer": "THE HOME FOR LITTLE WANDERERS",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "THE HOSPITAL OF CENTRAL CONNECTICUT",
+    "state": "CT",
+    "city": "NEW BRITAIN"
+  },
+  {
+    "employer": "THE HUNTINGTON NATIONAL BANK",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE INDUSTRIAL COMPANY",
+    "state": "NE",
+    "city": "OMAHA"
+  },
+  {
+    "employer": "THE INN AT LITTLE WASHINGTON  D/B/A INN AT LW LLC",
+    "state": "VA",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "THE INSOMNIA AND SLEEP INSTITUTE OF ARIZONA LLC",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "THE INSTITUTE FOR LIVER HEALTH LLC D B A ARIZONA LIVER HEALTH",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "THE INSTITUTE FOR NEW ECONOMIC THINKING D B A INET",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "THE INSTITUTE OF FILMS INC",
+    "state": "FL",
+    "city": "ORLANDO"
+  },
+  {
+    "employer": "THE INTEGRATION GROUP OF AMERICAS INC",
+    "state": "LA",
+    "city": "LAFAYETTE"
+  },
+  {
+    "employer": "THE IOWA CLINIC P C",
+    "state": "IA",
+    "city": "WEST DES MOINES"
+  },
+  {
+    "employer": "THE ISLAMIC SOCIETY OF BOSTON",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "THE J DAVID GLADSTONE INSTITUTES",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "THE J M SMUCKER COMPANY",
+    "state": "OH",
+    "city": "ORRVILLE"
+  },
+  {
+    "employer": "THE J PAUL GETTY TRUST",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "THE JACKSON LABORATORY",
+    "state": "ME",
+    "city": "BAR HARBOR"
+  },
+  {
+    "employer": "THE JERDE PARTNERSHIP INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  }
+]

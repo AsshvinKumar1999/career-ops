@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "ANTYLIA SCIENTIFIC",
+    "state": "IL",
+    "city": "VERNON HILLS"
+  },
+  {
+    "employer": "ANU SOFTWARE CONSULTANTS INC",
+    "state": "MI",
+    "city": "ANN ARBOR"
+  },
+  {
+    "employer": "ANUE WATER TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "ANVETA INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "ANVILOGIC INC.",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "ANYBILL FINANCIAL SERVICES INC",
+    "state": "DC",
+    "city": "WASHINGTON"
+  },
+  {
+    "employer": "ANYSCALE INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "ANYWHERE REAL ESTATE OPERATIONS LLC",
+    "state": "NJ",
+    "city": "MADISON"
+  },
+  {
+    "employer": "AOC LLC THE ALPHA CORPORATION",
+    "state": "TN",
+    "city": "COLLIERVILLE"
+  },
+  {
+    "employer": "AOG RESOURCES LLC",
+    "state": "CA",
+    "city": "REDONDO BEACH"
+  },
+  {
+    "employer": "AON CONSULTING INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AON RE INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AON RISK CONSULTANTS INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AON SERVICES CORPORATION",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "AOPS INCORPORATED",
+    "state": "CA",
+    "city": "SAN DIEGO"
+  },
+  {
+    "employer": "AOZORA COMMUNICTY FOUNDATION INC",
+    "state": "NY",
+    "city": "BROOKLYN"
+  },
+  {
+    "employer": "APACHE POWER INDUSTRIAL LLC",
+    "state": "TX",
+    "city": "ROUND ROCK"
+  },
+  {
+    "employer": "APC SPECIALISTS LLC",
+    "state": "NY",
+    "city": "LONG ISLAND CITY"
+  },
+  {
+    "employer": "APCER LIFE SCIENCES",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "APEEL TECHNOLOGY INC",
+    "state": "CA",
+    "city": "GOLETA"
+  },
+  {
+    "employer": "APELLIS PHARMACEUTICALS INC",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "APERTOR PHARMACEUTICALS INC",
+    "state": "CA",
+    "city": "SOUTH SAN FRANCISCO"
+  },
+  {
+    "employer": "APERTURE CREDENTIALING LLC",
+    "state": "KY",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "APEX AI INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "APEX ANALYTIX LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APEX ANIMAL CARE PLLC",
+    "state": "NC",
+    "city": "MATTHEWS"
+  },
+  {
+    "employer": "APEX BAIT TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "APEX CARGO INTERNATIONAL DFW INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APEX CLEAN ENERGY INC",
+    "state": "VA",
+    "city": "CHARLOTTESVILLE"
+  },
+  {
+    "employer": "APEX DENTAL AND ORTHODONTICS PLLC",
+    "state": "TX",
+    "city": "MCKINNEY"
+  },
+  {
+    "employer": "APEX FINTECH SERVICES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APEX INFORMATICS LLC",
+    "state": "NE",
+    "city": "OMAHA"
+  },
+  {
+    "employer": "APEX IT SERVICES LLC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "APEX IT SYSTEMS GLOBAL USA LLC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APEX LAW CENTER",
+    "state": "CA",
+    "city": "SAN GABRIEL"
+  },
+  {
+    "employer": "APEX MEDICAL RESEARCH DBA AMR INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "APEX PE LLC",
+    "state": "CO",
+    "city": "ENGLEWOOD"
+  },
+  {
+    "employer": "APEX PLACEMENT AND CONSULTING LLC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "APEX SYSTEMS LLC",
+    "state": "VA",
+    "city": "GLEN ALLEN"
+  },
+  {
+    "employer": "APEX TECHNOLOGY GROUP INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "APEX TECHNOLOGY SYSTEMS INC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "APEX THERAPEUTIC SERVICES, LLC",
+    "state": "NY",
+    "city": "GREAT NECK"
+  },
+  {
+    "employer": "APEX TITLE AND CLOSING SERVICES",
+    "state": "OK",
+    "city": "TULSA"
+  },
+  {
+    "employer": "APEX TOOL GRP LLC",
+    "state": "MD",
+    "city": "SPARKS"
+  },
+  {
+    "employer": "APEX-2000 INC",
+    "state": "VA",
+    "city": "CHANTILLY"
+  },
+  {
+    "employer": "APG ASSET MANAGEMENT US INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "API CHAYA",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "API HEAT TRANSFER INC",
+    "state": "NY",
+    "city": "BUFFALO"
+  },
+  {
+    "employer": "APIAN CONSULTING INC",
+    "state": "CA",
+    "city": "EL DORADO HILLS"
+  },
+  {
+    "employer": "APICHA COMMUNITY HEALTH CENTER",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "APICORE LLC",
+    "state": "NJ",
+    "city": "NORTH BRUNSWICK"
+  },
+  {
+    "employer": "APIFIA INC DBA MAVRCK",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "APIFINY GROUP INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "APIORI TECHNOLOGIES INC",
+    "state": "MA",
+    "city": "CONCORD"
+  },
+  {
+    "employer": "APISERO INC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "APIXIO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APKUDO INC",
+    "state": "MD",
+    "city": "BALTIMORE"
+  },
+  {
+    "employer": "APL LOGISTICS AMERICAS LTD",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "APL NEW YORK CORPORATION",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "APLOMB TECHNOLOGIES INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "APLOS AMERICA INC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "APLUS CONSULTING LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "APMEX INC",
+    "state": "OK",
+    "city": "OKLAHOMA CITY"
+  },
+  {
+    "employer": "APN CONSULTING INC",
+    "state": "NJ",
+    "city": "MONMOUTH JUNCTION"
+  },
+  {
+    "employer": "APNAR PHARMA LLP",
+    "state": "NJ",
+    "city": "EAST WINDSOR"
+  },
+  {
+    "employer": "APOGEE INTERACTIVE INC",
+    "state": "GA",
+    "city": "TUCKER"
+  },
+  {
+    "employer": "APOGEE LIGHTING HOLDINGS LLC",
+    "state": "NY",
+    "city": "DEER PARK"
+  },
+  {
+    "employer": "APOGEE MED GROUP NM INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP DELAWARE INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP GEORGIA INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP KENTUCKY PSC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP NEW YORK PC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP NORTH CAROLINA PC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP OHIO INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP PENNSYLVANIA PC",
+    "state": "AZ",
+    "city": "CHANDLER"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP TENNESSEE PC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP TEXAS PA",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP WAUKESHA SC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL GROUP WISCONSIN SC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOGEE MEDICAL MANAGEMENT INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "APOLLIDON LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APOLLO AUTONOMOUS DRIVING USA LLC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "APOLLO GRAPH , INC.",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "APOLLO INSURANCE SOLUTIONS GROUP LP",
+    "state": "CA",
+    "city": "EL SEGUNDO"
+  },
+  {
+    "employer": "APOLLO INTELLIGENCE OPERATING LLC",
+    "state": "MA",
+    "city": "WATERTOWN"
+  },
+  {
+    "employer": "APOLLO MANAGEMENT HOLDINGS LP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "APOLLOMICS INC",
+    "state": "CA",
+    "city": "FOSTER CITY"
+  },
+  {
+    "employer": "APOSTLE INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "APP OF NEW MEXICO HM PLLC",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "APP OF TENNESSEE HM PLLC",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "APP ORCHID INC",
+    "state": "CA",
+    "city": "SAN RAMON"
+  },
+  {
+    "employer": "APP SOFT SOLUTIONS INC",
+    "state": "FL",
+    "city": "WESLEY CHAPEL"
+  },
+  {
+    "employer": "APPALACHIAN REGIONAL HEALTHCARE INC",
+    "state": "KY",
+    "city": "HAZARD"
+  },
+  {
+    "employer": "APPALACHIAN STATE UNIVERSITY",
+    "state": "NC",
+    "city": "BOONE"
+  },
+  {
+    "employer": "APPCO PHARMA LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "APPEN BUTLER HILL INC",
+    "state": "WA",
+    "city": "KIRKLAND"
+  },
+  {
+    "employer": "APPEX INNOVATION SOLUTIONS LLC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "APPEX SYSTEMS INC",
+    "state": "NJ",
+    "city": "ISELIN"
+  },
+  {
+    "employer": "APPFOLIO INC",
+    "state": "CA",
+    "city": "GOLETA"
+  }
+]

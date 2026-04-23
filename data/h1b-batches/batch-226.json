@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "SOUTHWEST BUSINESS CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SOUTHWEST CANCER CARE LLC",
+    "state": "AZ",
+    "city": "SIERRA VISTA"
+  },
+  {
+    "employer": "SOUTHWEST ENGINEERS INC",
+    "state": "TX",
+    "city": "GONZALES"
+  },
+  {
+    "employer": "SOUTHWEST GAS CORP",
+    "state": "NV",
+    "city": "LAS VEGAS"
+  },
+  {
+    "employer": "SOUTHWEST KEY PROGRAMS INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "SOUTHWEST MEDICAL CTR",
+    "state": "KS",
+    "city": "LIBERAL"
+  },
+  {
+    "employer": "SOUTHWEST MISSISSIPPI REGIONAL MEDICAL CTR",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SOUTHWEST NETWORK INC",
+    "state": "AZ",
+    "city": "PHOENIX"
+  },
+  {
+    "employer": "SOUTHWEST REGIONAL PCR LLC DBA MICROGENDX LLC",
+    "state": "TX",
+    "city": "LUBBOCK"
+  },
+  {
+    "employer": "SOUTHWEST RESEARCH INSTITUTE",
+    "state": "TX",
+    "city": "SAN ANTONIO"
+  },
+  {
+    "employer": "SOUTHWEST TEXAS JUNIOR COLLEGE",
+    "state": "TX",
+    "city": "UVALDE"
+  },
+  {
+    "employer": "SOUTHWEST UTAH COMMUNITY HEALTH CENTER INC",
+    "state": "UT",
+    "city": "SAINT GEORGE"
+  },
+  {
+    "employer": "SOUTHWEST VOLUSIA HEALTHCARE CORPORATION D/B/A ADVENTHEALTH FISH MEMORIAL",
+    "state": "FL",
+    "city": "ALTAMONTE SPRINGS"
+  },
+  {
+    "employer": "SOUTHWESTERN COLLEGE",
+    "state": "KS",
+    "city": "WINFIELD"
+  },
+  {
+    "employer": "SOUTHWESTERN UNIVERSITY",
+    "state": "TX",
+    "city": "GEORGETOWN"
+  },
+  {
+    "employer": "SOUTHWIRE COMPANY LLC",
+    "state": "GA",
+    "city": "CARROLLTON"
+  },
+  {
+    "employer": "SOUTHWOOD PSYCHIATRIC HOSPITAL LLC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "SOVEREIGN PHARMACEUTICALS",
+    "state": "TX",
+    "city": "FORT WORTH"
+  },
+  {
+    "employer": "SOVEREIGN TECHNOLOGIES LLC",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "SOVEREIGN TRADE INC",
+    "state": "PA",
+    "city": "STATE COLLEGE"
+  },
+  {
+    "employer": "SOVRN HOLDINGS INC",
+    "state": "CO",
+    "city": "BOULDER"
+  },
+  {
+    "employer": "SOWLAT ENGINEERS PC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SOWN TO GROW INC",
+    "state": "CA",
+    "city": "OAKLAND"
+  },
+  {
+    "employer": "SOYO SOFT INC",
+    "state": "NY",
+    "city": "HICKSVILLE"
+  },
+  {
+    "employer": "SP TECH RESOURCES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SP TEKS INC",
+    "state": "IL",
+    "city": "SCHAUMBURG"
+  },
+  {
+    "employer": "SPA ASSOCIATES LLC",
+    "state": "MI",
+    "city": "UTICA"
+  },
+  {
+    "employer": "SPA PERFORMANCE INC DOING BUSINESS AS SPARXIQ INC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "SPACE & TIME LABS INC",
+    "state": "CA",
+    "city": "SAN CLEMENTE"
+  },
+  {
+    "employer": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "state": "CA",
+    "city": "HAWTHORNE"
+  },
+  {
+    "employer": "SPACEAGE CONSULTING CORP",
+    "state": "NJ",
+    "city": "JERSEY CITY"
+  },
+  {
+    "employer": "SPACELABS HEALTHCARE LLC",
+    "state": "WA",
+    "city": "SNOQUALMIE"
+  },
+  {
+    "employer": "SPACESMITH LLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SPACEWALK SYSTEMS INC",
+    "state": "MI",
+    "city": "NOVI"
+  },
+  {
+    "employer": "SPADE DATA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SPADEWORX SOFTWARE SVCS INC",
+    "state": "CA",
+    "city": "CAMPBELL"
+  },
+  {
+    "employer": "SPAERO INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SPAN IO INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SPANCO INFOTECH INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "SPANSION LLC",
+    "state": "CA",
+    "city": "EL SEGUNDO"
+  },
+  {
+    "employer": "SPANX LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SPAR INFORMATION SYSTEMS LLC",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "SPAR MARKETING FORCE INC",
+    "state": "MI",
+    "city": "AUBURN HILLS"
+  },
+  {
+    "employer": "SPARC GROUP HOLDINGS LLC DBA LUCKY OPCO LLC",
+    "state": "NJ",
+    "city": "LYNDHURST"
+  },
+  {
+    "employer": "SPARC GROUP LLC",
+    "state": "NJ",
+    "city": "LYNDHURST"
+  },
+  {
+    "employer": "SPARC IT SOLUTION INC",
+    "state": "MA",
+    "city": "MARLBOROUGH"
+  },
+  {
+    "employer": "SPARC PLUS LLC",
+    "state": "TX",
+    "city": "GALVESTON"
+  },
+  {
+    "employer": "SPARC TECHNOLOGY SERVICES INC",
+    "state": "NJ",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "SPARITY INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SPARK CAPITAL PARTNERS LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "SPARK DATA SOLUTIONS INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SPARK INFOTECH",
+    "state": "AZ",
+    "city": "SCOTTSDALE"
+  },
+  {
+    "employer": "SPARK IT TECHNOLOGIES LLC",
+    "state": "SC",
+    "city": "ROCK HILL"
+  },
+  {
+    "employer": "SPARK SERVICES DBA BUILD GROUP INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SPARK TEK INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "SPARK THERAPEUTICS INC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "SPARKCOGNITION INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "SPARKFX LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "SPARKLET INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SPARKLING DIAMOND LLC",
+    "state": "LA",
+    "city": "LAKE CHARLES"
+  },
+  {
+    "employer": "SPARKLING JEWELRY INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SPARKSOFT CORPORATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SPARTA SYSTEMS INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "SPARTAN SOLUTIONS",
+    "state": "TN",
+    "city": "COLLIERVILLE"
+  },
+  {
+    "employer": "SPARTANBURG REGIONAL HEALTH SERVICES DISTRICT INC D B A SPARTANBURG REGIONAL HEALTHCARE SYSTEM",
+    "state": "SC",
+    "city": "SPARTANBURG"
+  },
+  {
+    "employer": "SPATIAL CORP",
+    "state": "CO",
+    "city": "BROOMFIELD"
+  },
+  {
+    "employer": "SPATIAL FRONT INC",
+    "state": "MD",
+    "city": "BETHESDA"
+  },
+  {
+    "employer": "SPAULDING REHABILITATION HOSPITAL",
+    "state": "MA",
+    "city": "SOMERVILLE"
+  },
+  {
+    "employer": "SPAXMAX REALTY INC",
+    "state": "NY",
+    "city": "FLUSHING"
+  },
+  {
+    "employer": "SPAY INC DBA STACK SPORTS",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "SPEAR PHYSICAL THERAPY PLLC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SPECIAL SERVICE FOR GROUPS INC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "SPECIALIST RESOURCES GLOBAL INC",
+    "state": "TN",
+    "city": "FRANKLIN"
+  },
+  {
+    "employer": "SPECIALIZED BICYCLE COMPONENTS INC",
+    "state": "CA",
+    "city": "MORGAN HILL"
+  },
+  {
+    "employer": "SPECIALTY NETWORKS LLC",
+    "state": "OH",
+    "city": "CLEVELAND"
+  },
+  {
+    "employer": "SPECIALTYCARE INC",
+    "state": "TN",
+    "city": "BRENTWOOD"
+  },
+  {
+    "employer": "SPECRIGHT INC",
+    "state": "CA",
+    "city": "TUSTIN"
+  },
+  {
+    "employer": "SPECTRA SOLUTIONS INC",
+    "state": "NJ",
+    "city": "PLAINSBORO"
+  },
+  {
+    "employer": "SPECTRAFORCE TECHNOLOGIES INC",
+    "state": "NC",
+    "city": "RALEIGH"
+  },
+  {
+    "employer": "SPECTRAMD USA INC DBA SPECTRAMEDIX",
+    "state": "NJ",
+    "city": "EAST WINDSOR"
+  },
+  {
+    "employer": "SPECTRASENSORS INC DBA ENDRESS HAUSER OPTICAL ANALYSIS INC",
+    "state": "CA",
+    "city": "RANCHO CUCAMONGA"
+  },
+  {
+    "employer": "SPECTRO CLOUD INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SPECTROSYS SOLUTIONS INC",
+    "state": "MA",
+    "city": "HOPKINTON"
+  },
+  {
+    "employer": "SPECTRUM BRANDS INC",
+    "state": "WI",
+    "city": "MIDDLETON"
+  },
+  {
+    "employer": "SPECTRUM COLORS GEMS INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SPECTRUM HEALTH HOSPITALS D/B/A HELEN DEVOS CHILDREN S HOSP",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "SPECTRUM HEALTH PRIMARY CARE PARTNERS D/B/A SPECTRUM HEALTH MEDICAL GROUP",
+    "state": "MI",
+    "city": "GRAND RAPIDS"
+  },
+  {
+    "employer": "SPECTRUM HEALTH SERVICES INC",
+    "state": "PA",
+    "city": "PHILADELPHIA"
+  },
+  {
+    "employer": "SPECTRUM LABORATORY PRODUCTS INC DBA SPECTRUM CHEMICAL MFG CORP",
+    "state": "NJ",
+    "city": "NEW BRUNSWICK"
+  },
+  {
+    "employer": "SPECTRUM LABS INC",
+    "state": "CA",
+    "city": "WALNUT CREEK"
+  },
+  {
+    "employer": "SPECTRUM LIGHTING INC",
+    "state": "MA",
+    "city": "FALL RIVER"
+  },
+  {
+    "employer": "SPECTRUM SOURCING GROUP LLC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "SPECTRUM TECHNOLOGIES LLC",
+    "state": "CA",
+    "city": "SUNNYVALE"
+  },
+  {
+    "employer": "SPEECHIFY INC",
+    "state": "FL",
+    "city": "SAINT PETERSBURG"
+  },
+  {
+    "employer": "SPEEDER SOLUTIONS LLC",
+    "state": "DE",
+    "city": "NEW CASTLE"
+  },
+  {
+    "employer": "SPEEDO USA PRODUCTS INC",
+    "state": "CA",
+    "city": "CYPRESS"
+  },
+  {
+    "employer": "SPEEDWAY LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "SPEKIT INC",
+    "state": "CO",
+    "city": "DENVER"
+  },
+  {
+    "employer": "SPELLMAN HIGH VOLTAGE ELECTRONICS CORPORATION",
+    "state": "NY",
+    "city": "HAUPPAUGE"
+  },
+  {
+    "employer": "SPENCER GIFTS LLC",
+    "state": "NJ",
+    "city": "EGG HARBOR TOWNSHIP"
+  }
+]

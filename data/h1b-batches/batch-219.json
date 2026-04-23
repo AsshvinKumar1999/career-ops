@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "SIENA COLLEGE",
+    "state": "NY",
+    "city": "ALBANY"
+  },
+  {
+    "employer": "SIERRA BUSINESS ADVISORS INC",
+    "state": "CA",
+    "city": "EL DORADO HILLS"
+  },
+  {
+    "employer": "SIERRA CEDAR LLC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "SIERRA CONSULTING INC",
+    "state": "IL",
+    "city": "ITASCA"
+  },
+  {
+    "employer": "SIERRA DIGITAL INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SIERRA MOUNTAIN CONSTRUCTION INC D/B/A SMCI",
+    "state": "CA",
+    "city": "SONORA"
+  },
+  {
+    "employer": "SIERRA NEVADA HOSPITALITY LLC",
+    "state": "CA",
+    "city": "SONORA"
+  },
+  {
+    "employer": "SIERRA VISTA HOSPITAL",
+    "state": "NM",
+    "city": "TRUTH OR CONSEQUENCE"
+  },
+  {
+    "employer": "SIEVA NETWORKS DBA MATRACK INC",
+    "state": "CA",
+    "city": "SAN RAMON"
+  },
+  {
+    "employer": "SIEVO INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SIFIVE INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "SIFT SCIENCE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIG SAUER INC",
+    "state": "NH",
+    "city": "PORTSMOUTH"
+  },
+  {
+    "employer": "SIGHT SCIENCES INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "SIGHTSPECTRUM LLC",
+    "state": "TX",
+    "city": "CROWLEY"
+  },
+  {
+    "employer": "SIGMA BRIGHT SOLUTIONS INC",
+    "state": "VA",
+    "city": "LEESBURG"
+  },
+  {
+    "employer": "SIGMA COMPUTING INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "SIGMA CONNECTIVITY INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SIGMA GROUP INC",
+    "state": "NJ",
+    "city": "MORGANVILLE"
+  },
+  {
+    "employer": "SIGMA IT CORP",
+    "state": "MO",
+    "city": "SAINT LOUIS"
+  },
+  {
+    "employer": "SIGMA PIPING PRODUCTS 2019 LLC",
+    "state": "TX",
+    "city": "SUGAR LAND"
+  },
+  {
+    "employer": "SIGMA RESOURCES LLC",
+    "state": "PA",
+    "city": "PITTSBURGH"
+  },
+  {
+    "employer": "SIGMA SOFTWARE LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIGMA VENTURES INC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SIGMA-ALDRICH CORPORATION",
+    "state": "MA",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "SIGMA-ALDRICH INC",
+    "state": "MA",
+    "city": "BURLINGTON"
+  },
+  {
+    "employer": "SIGMA-ALDRICH MANUFACTURING LLC",
+    "state": "MA",
+    "city": "HAVERHILL"
+  },
+  {
+    "employer": "SIGMAPHARM LABORATORIES LLC",
+    "state": "PA",
+    "city": "BENSALEM"
+  },
+  {
+    "employer": "SIGMASOFT LLC",
+    "state": "VA",
+    "city": "MANASSAS"
+  },
+  {
+    "employer": "SIGMAWAYS INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "SIGNAL ENGERY LLC",
+    "state": "TN",
+    "city": "CHATTANOOGA"
+  },
+  {
+    "employer": "SIGNAL FROM NOISE INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "SIGNAL WISE LLC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "SIGNALWAY ANTUBODY LLC",
+    "state": "MD",
+    "city": "GREENBELT"
+  },
+  {
+    "employer": "SIGNATA USA LLC",
+    "state": "MI",
+    "city": "NORTHVILLE"
+  },
+  {
+    "employer": "SIGNATECH SOLUTIONS LLC",
+    "state": "WI",
+    "city": "BROOKFIELD"
+  },
+  {
+    "employer": "SIGNATURE ATHLETICS INC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SIGNATURE COMMERCIAL SOLUTIONS LLC DBA SIGNATURE CONSULTANTS",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIGNATURE HEALTHCARE MEDICAL GRP INC",
+    "state": "MA",
+    "city": "BROCKTON"
+  },
+  {
+    "employer": "SIGNATURE IT SOLUTIONS INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "SIGNATURE IT WORLD INC",
+    "state": "OH",
+    "city": "LEWIS CENTER"
+  },
+  {
+    "employer": "SIGNATURE SYSTEMS GROUP LLC",
+    "state": "TX",
+    "city": "FLOWER MOUND"
+  },
+  {
+    "employer": "SIGNETIK LLC",
+    "state": "NE",
+    "city": "LINCOLN"
+  },
+  {
+    "employer": "SIGNIFY NORTH AMERICA CORPORATION",
+    "state": "NJ",
+    "city": "BRIDGEWATER"
+  },
+  {
+    "employer": "SIGNITIVES TECHNOLOGIES LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIGNL AI LLC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "SIGNODE INDUSTRIAL GROUP LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SIGNOS INC",
+    "state": "CA",
+    "city": "PALO ALTO"
+  },
+  {
+    "employer": "SIKA CORPORATION",
+    "state": "NJ",
+    "city": "LYNDHURST"
+  },
+  {
+    "employer": "SIKKA SOFTWARE CORPORATION",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SILA NANOTECHNOLOGIES INC",
+    "state": "CA",
+    "city": "ALAMEDA"
+  },
+  {
+    "employer": "SILERGY TECHNOLOGY",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "SILHOUETTE DESIGN ARCHITECTURE INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SILICON HOLDING LLC",
+    "state": "CA",
+    "city": "REDWOOD CITY"
+  },
+  {
+    "employer": "SILICON LABORATORIES INC",
+    "state": "TX",
+    "city": "AUSTIN"
+  },
+  {
+    "employer": "SILICON SPECTRA INC",
+    "state": "TX",
+    "city": "DALLAS"
+  },
+  {
+    "employer": "SILICON STAFF IT SERVICES INC",
+    "state": "NJ",
+    "city": "PRINCETON"
+  },
+  {
+    "employer": "SILICON TECH SOLUTIONS INC",
+    "state": "CA",
+    "city": "SAN RAMON"
+  },
+  {
+    "employer": "SILICON, INC.",
+    "state": "TX",
+    "city": "PLANO"
+  },
+  {
+    "employer": "SILKROAD TECHNOLOGY INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SILKROUTE GLOBAL INC",
+    "state": "MI",
+    "city": "TROY"
+  },
+  {
+    "employer": "SILONY MEDICAL CORP",
+    "state": "FL",
+    "city": "DORAL"
+  },
+  {
+    "employer": "SILVACO INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "SILVER AIRWAYS LLC",
+    "state": "FL",
+    "city": "HOLLYWOOD"
+  },
+  {
+    "employer": "SILVER BAY CONSULTING LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "SILVER PARTIES LLC DBA MINT INDIAN RESTAURANT",
+    "state": "CA",
+    "city": "LAGUNA HILLS"
+  },
+  {
+    "employer": "SILVERCARE NURSING DEVELOPMENT LLC",
+    "state": "PA",
+    "city": "CHESTER"
+  },
+  {
+    "employer": "SILVERFALLS SOLUTIONS INC",
+    "state": "NC",
+    "city": "OAK RIDGE"
+  },
+  {
+    "employer": "SILVERLINE TECHNOLOGIES OF AMERICA LLC",
+    "state": "TX",
+    "city": "RICHARDSON"
+  },
+  {
+    "employer": "SILVERLOGIC LLC",
+    "state": "FL",
+    "city": "BOCA RATON"
+  },
+  {
+    "employer": "SILVERMAN TRYKOWSKI ASSOCIATES INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "SILVERRIDE INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SILVERXIS INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIM INFOTECH INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIM MANAGEMENT ADVISORS INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "SIM TECH LLC",
+    "state": "TX",
+    "city": "KATY"
+  },
+  {
+    "employer": "SIMA TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "SAN JOSE"
+  },
+  {
+    "employer": "SIMAN PRO INC",
+    "state": "FL",
+    "city": "KISSIMMEE"
+  },
+  {
+    "employer": "SIMANTEL GROUP LTD",
+    "state": "IL",
+    "city": "PEORIA"
+  },
+  {
+    "employer": "SIMARN LLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "SIMAXIVE TECHNOLOGIES INC",
+    "state": "TN",
+    "city": "CORDOVA"
+  },
+  {
+    "employer": "SIMBEX LLC",
+    "state": "NH",
+    "city": "LEBANON"
+  },
+  {
+    "employer": "SIMBIOTIC SOFTWARE INC DBA SIMBIO",
+    "state": "MT",
+    "city": "MISSOULA"
+  },
+  {
+    "employer": "SIMCERE OF AMERICA INC",
+    "state": "MA",
+    "city": "CAMBRIDGE"
+  },
+  {
+    "employer": "SIMEIO SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIMERICS INC",
+    "state": "WA",
+    "city": "BELLEVUE"
+  },
+  {
+    "employer": "SIMMONS BANK",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIMMONS PREPARED FOODS INC",
+    "state": "AR",
+    "city": "SILOAM SPRINGS"
+  },
+  {
+    "employer": "SIMMONS UNIVERSITY",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "SIMNA SOLUTIONS LLC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIMON DATA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "SIMON-KUCHER & PARTNERS STRATEGY & MARKETING CONSULTANTS LLC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "SIMONS FOUNDATION",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "SIMPLAIN SOFTWARE SOLUTIONS LLC",
+    "state": "CA",
+    "city": "WALNUT"
+  },
+  {
+    "employer": "SIMPLE SYSTEMS GROUP LLC",
+    "state": "FL",
+    "city": "TAMPA"
+  },
+  {
+    "employer": "SIMPLE TENSE INC",
+    "state": "CA",
+    "city": "PASADENA"
+  },
+  {
+    "employer": "SIMPLECITIZEN INC",
+    "state": "UT",
+    "city": "SALT LAKE CITY"
+  },
+  {
+    "employer": "SIMPLEPRACTICE LLC",
+    "state": "CA",
+    "city": "SANTA MONICA"
+  },
+  {
+    "employer": "SIMPLER POSTAGE INC DBA EASYPOST",
+    "state": "UT",
+    "city": "LEHI"
+  },
+  {
+    "employer": "SIMPLERAY LLC F K A IOWA WIND AND SOLAR LLC",
+    "state": "",
+    "city": ""
+  }
+]

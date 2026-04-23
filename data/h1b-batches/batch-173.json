@@ -1,0 +1,502 @@
+[
+  {
+    "employer": "NORTHSIDE HOSPITAL INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NORTHSTAR ANESTHESIA OF MICHIGAN III PLLC",
+    "state": "TX",
+    "city": "IRVING"
+  },
+  {
+    "employer": "NORTHSTAR GROUP INC",
+    "state": "MD",
+    "city": "DERWOOD"
+  },
+  {
+    "employer": "NORTHSTAR SOFTWARE SERVICES GROUP LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NORTHSTAR TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "NORTHWELL HEALTH",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NORTHWEST ADMINISTRATORS INC",
+    "state": "WA",
+    "city": "SEATTLE"
+  },
+  {
+    "employer": "NORTHWEST BANK",
+    "state": "PA",
+    "city": "WARREN"
+  },
+  {
+    "employer": "NORTHWEST CONTRACT RESEARCH LLC",
+    "state": "WA",
+    "city": "BREWSTER"
+  },
+  {
+    "employer": "NORTHWEST FROZEN LLC DBA BANZAI SUSHI",
+    "state": "WA",
+    "city": "DES MOINES"
+  },
+  {
+    "employer": "NORTHWEST HOSP MEDICINE PHYSICIANS LLC",
+    "state": "TN",
+    "city": "KNOXVILLE"
+  },
+  {
+    "employer": "NORTHWEST HOSPITAL CENTER INC",
+    "state": "MD",
+    "city": "OWINGS MILLS"
+  },
+  {
+    "employer": "NORTHWEST IOWA HOSP CORP DBA UNITYPOINT HEALTH ST LUKE S",
+    "state": "IA",
+    "city": "SIOUX CITY"
+  },
+  {
+    "employer": "NORTHWEST MEDICAL SPECIALTIES PLLC",
+    "state": "WA",
+    "city": "TACOMA"
+  },
+  {
+    "employer": "NORTHWEST MISSOURI STATE UNIVERSITY",
+    "state": "MO",
+    "city": "MARYVILLE"
+  },
+  {
+    "employer": "NORTHWEST PEDIATRIC SPECIALISTS LLC",
+    "state": "OH",
+    "city": "TOLEDO"
+  },
+  {
+    "employer": "NORTHWEST REGIONAL EDUCATION SVCS DISTRICT",
+    "state": "OR",
+    "city": "HILLSBORO"
+  },
+  {
+    "employer": "NORTHWESTERN COLLEGE",
+    "state": "IA",
+    "city": "ORANGE CITY"
+  },
+  {
+    "employer": "NORTHWESTERN MED FACULTY FDN DBA NORTHWESTERN MED GRP",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "NORTHWESTERN MEMORIAL HEALTHCARE",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NORTHWESTERN STATE UNIVERSITY OF LOUISIANA",
+    "state": "LA",
+    "city": "NATCHITOCHES"
+  },
+  {
+    "employer": "NORTHWESTERN UNIVERSITY",
+    "state": "IL",
+    "city": "EVANSTON"
+  },
+  {
+    "employer": "NORTHWINDS TECHNOLOGY SOLUTIONS LLC",
+    "state": "VA",
+    "city": "ROANOKE"
+  },
+  {
+    "employer": "NORTHWOOD HEALTHCARE GROUP LLC",
+    "state": "NJ",
+    "city": "MONTVALE"
+  },
+  {
+    "employer": "NORTON HEALTHCARE INC",
+    "state": "KY",
+    "city": "LOUISVILLE"
+  },
+  {
+    "employer": "NORTON MCMURRAY MANUFACTURING CO",
+    "state": "IL",
+    "city": "GENEVA"
+  },
+  {
+    "employer": "NORTON ROSE FULBRIGHT US LLP",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NORTONLIFELOCK INC",
+    "state": "AZ",
+    "city": "TEMPE"
+  },
+  {
+    "employer": "NORVIC SHIPPING USA INC",
+    "state": "NY",
+    "city": "NEW YORK"
+  },
+  {
+    "employer": "NORVOC BIOSCIENCE INC",
+    "state": "CA",
+    "city": "IRVINE"
+  },
+  {
+    "employer": "NORWALK HOSPITAL ASSOCIATION",
+    "state": "CT",
+    "city": "NORWALK"
+  },
+  {
+    "employer": "NORWALK ORTHODONTICS LLC",
+    "state": "CT",
+    "city": "NORWALK"
+  },
+  {
+    "employer": "NOSTRUM ENERGY LLC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "NOSTRUM LABORATORIES INC",
+    "state": "MO",
+    "city": "KANSAS CITY"
+  },
+  {
+    "employer": "NOTARIZE INC",
+    "state": "MA",
+    "city": "BOSTON"
+  },
+  {
+    "employer": "NOTION LABS INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "NOURISHLIFE LLC",
+    "state": "IL",
+    "city": "LAKE BLUFF"
+  },
+  {
+    "employer": "NOURYON CHEMICALS LLC",
+    "state": "TX",
+    "city": "HOUSTON"
+  },
+  {
+    "employer": "NOUS INFOSYSTEMS INC",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "NOUS INFOSYSTEMS PVT LTD",
+    "state": "NJ",
+    "city": "EDISON"
+  },
+  {
+    "employer": "NOVA BIOMEDICAL",
+    "state": "MA",
+    "city": "WALTHAM"
+  },
+  {
+    "employer": "NOVA HEALTH THERAPIES INC",
+    "state": "CA",
+    "city": "SANTA CLARA"
+  },
+  {
+    "employer": "NOVA LABS",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "NOVA MEASURING INSTRUMENTS INC",
+    "state": "CA",
+    "city": "FREMONT"
+  },
+  {
+    "employer": "NOVA PRODUCE INSPECTION SERVICES LLC",
+    "state": "NJ",
+    "city": "OCEAN VIEW"
+  },
+  {
+    "employer": "NOVA R&D INC",
+    "state": "CA",
+    "city": "WEST COVINA"
+  },
+  {
+    "employer": "NOVA SOUTHEASTERN UNIVERSITY",
+    "state": "FL",
+    "city": "FORT LAUDERDALE"
+  },
+  {
+    "employer": "NOVACOAST INC",
+    "state": "CA",
+    "city": "SANTA BARBARA"
+  },
+  {
+    "employer": "NOVAGIGS INC",
+    "state": "VA",
+    "city": "MC LEAN"
+  },
+  {
+    "employer": "NOVALAW INC",
+    "state": "CA",
+    "city": "MENLO PARK"
+  },
+  {
+    "employer": "NOVALINK SOLUTIONS LLC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "NOVAMEGHA LLC",
+    "state": "NJ",
+    "city": "CRANBURY"
+  },
+  {
+    "employer": "NOVANT HEALTH INC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "NOVANT HEALTH NEW HANOVER REGIONAL MEDICAL CTR LLC",
+    "state": "NC",
+    "city": "WILMINGTON"
+  },
+  {
+    "employer": "NOVANTA CORPORATION",
+    "state": "MA",
+    "city": "BEDFORD"
+  },
+  {
+    "employer": "NOVARES U S ENGINE COMPONENTS INC",
+    "state": "WI",
+    "city": "WALWORTH"
+  },
+  {
+    "employer": "NOVAROCK BIOTHERAPEUTICS LTD",
+    "state": "NJ",
+    "city": "EWING"
+  },
+  {
+    "employer": "NOVARTIS GENE THERAPIES INC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NOVARTIS INSTITUTES FOR BIOMEDICAL RESEARCH INC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NOVARTIS PHARMACEUTICALS CORPORATION",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NOVARTIS SERVICES INC",
+    "state": "NJ",
+    "city": "EAST HANOVER"
+  },
+  {
+    "employer": "NOVATEUR TECHNOLOGIES INC",
+    "state": "CA",
+    "city": "TRACY"
+  },
+  {
+    "employer": "NOVAVAX INC",
+    "state": "MD",
+    "city": "GAITHERSBURG"
+  },
+  {
+    "employer": "NOVEL LABORATORIES INC",
+    "state": "",
+    "city": ""
+  },
+  {
+    "employer": "NOVELA NEUROTECHNOLOGIES INC",
+    "state": "CA",
+    "city": "ALAMEDA"
+  },
+  {
+    "employer": "NOVELIS CORPORATION",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NOVELIS INC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NOVELSTAR PHARMACEUTICALS INC",
+    "state": "NJ",
+    "city": "CRANBURY"
+  },
+  {
+    "employer": "NOVELTE SYSTEMS INC",
+    "state": "NJ",
+    "city": "PISCATAWAY"
+  },
+  {
+    "employer": "NOVELTY INFOTECH INC",
+    "state": "GA",
+    "city": "ALPHARETTA"
+  },
+  {
+    "employer": "NOVELTY TECHNOLGY LLC",
+    "state": "NC",
+    "city": "CHARLOTTE"
+  },
+  {
+    "employer": "NOVEN PHARMACEUTICALS INC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NOVI CONNECT INC",
+    "state": "CA",
+    "city": "LARKSPUR"
+  },
+  {
+    "employer": "NOVI IT INC",
+    "state": "MI",
+    "city": "FARMINGTON HILLS"
+  },
+  {
+    "employer": "NOVIGO INC",
+    "state": "CA",
+    "city": "SAN MATEO"
+  },
+  {
+    "employer": "NOVILAND TECHNOLOGIES INC",
+    "state": "GA",
+    "city": "DULUTH"
+  },
+  {
+    "employer": "NOVISYNC INC",
+    "state": "NY",
+    "city": "FISHKILL"
+  },
+  {
+    "employer": "NOVISYS LLC",
+    "state": "MI",
+    "city": "FARMINGTON"
+  },
+  {
+    "employer": "NOVITIUM PHARMA LLC",
+    "state": "NJ",
+    "city": "EAST WINDSOR"
+  },
+  {
+    "employer": "NOVITY INC",
+    "state": "CA",
+    "city": "SAN FRANCISCO"
+  },
+  {
+    "employer": "NOVO MARBLE LLC",
+    "state": "FL",
+    "city": "MIAMI"
+  },
+  {
+    "employer": "NOVO NORDISK INC",
+    "state": "NJ",
+    "city": "PLAINSBORO"
+  },
+  {
+    "employer": "NOVO NORDISK PHARMACEUTICAL INDUSTRIES LP",
+    "state": "NC",
+    "city": "CLAYTON"
+  },
+  {
+    "employer": "NOVO PROSO INC",
+    "state": "MO",
+    "city": "WARRENSBURG"
+  },
+  {
+    "employer": "NOVOS SOLUTIONS LLC",
+    "state": "IN",
+    "city": "ZIONSVILLE"
+  },
+  {
+    "employer": "NOVOZEN HEALTHCARE LLC",
+    "state": "NJ",
+    "city": "SOUTH PLAINFIELD"
+  },
+  {
+    "employer": "NOVUS PROFESSIONAL SERVICES INC",
+    "state": "CO",
+    "city": "COLORADO SPRINGS"
+  },
+  {
+    "employer": "NOVUSTECH INC",
+    "state": "AR",
+    "city": "ROGERS"
+  },
+  {
+    "employer": "NOWCOM LLC",
+    "state": "CA",
+    "city": "LOS ANGELES"
+  },
+  {
+    "employer": "NOYO TECHNOLOGIES INC",
+    "state": "NC",
+    "city": "DURHAM"
+  },
+  {
+    "employer": "NP CORPORATE SERVICES LLC",
+    "state": "TN",
+    "city": "SHELBYVILLE"
+  },
+  {
+    "employer": "NPD GROUP",
+    "state": "NY",
+    "city": "PORT WASHINGTON"
+  },
+  {
+    "employer": "NPI LLC",
+    "state": "GA",
+    "city": "ATLANTA"
+  },
+  {
+    "employer": "NPO USA INC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "NPTE FINAL FRONTIER LLC",
+    "state": "TX",
+    "city": "ROCKWALL"
+  },
+  {
+    "employer": "NPV STAFFING LLC",
+    "state": "IL",
+    "city": "CHICAGO"
+  },
+  {
+    "employer": "NPZ LAW GROUP PC",
+    "state": "NJ",
+    "city": "RIDGEWOOD"
+  },
+  {
+    "employer": "NR WINDOWS INC",
+    "state": "FL",
+    "city": "WEST PALM BEACH"
+  },
+  {
+    "employer": "NRA GROUP LLC",
+    "state": "PA",
+    "city": "HARRISBURG"
+  }
+]
