@@ -8,10 +8,13 @@
  *
  * Usage:
  *   node scan-h1b.mjs --category tech                    # scan tech companies
- *   node scan-h1b.mjs --category manufacturing           # scan manufacturing
- *   node scan-h1b.mjs --category all                     # scan ALL H1B companies
+ *   node scan-h1b.mjs --category manufacturing             # scan manufacturing
+ *   node scan-h1b.mjs --category all                      # scan ALL H1B companies
  *   node scan-h1b.mjs --category tech --dry-run          # preview only
- *   node scan-h1b.mjs --list                            # show available categories
+ *   node scan-h1b.mjs --list                             # show available categories
+ *   node scan-h1b.mjs --company "Google"                # scan specific company
+ *   node scan-h1b.mjs --company "Google" --dry-run      # preview specific company
+ *   node scan-h1b.mjs --search "AI Operations"           # search all H1B for keyword
  *
  * Categories available:
  *   tech, manufacturing, healthcare, financial, professional,
@@ -74,20 +77,40 @@ function buildTitleFilter() {
 
 // ── Career URL generation ───────────────────────────────────────────
 
-function generateCareerUrls(employer) {
+function generateCareerUrls(employer, state = '', city = '') {
   const slug = employer
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .substring(0, 50);
 
-  return [
+  const isIndia = ['AZ', 'BLR', 'CHE', 'HYD', 'MUM', 'PUNE', 'DEL', 'GUR'].some(
+    s => state.toUpperCase().includes(s) || city.toUpperCase().includes(s)
+  ) || ['AZ', 'BLR', 'CHE', 'HYD', 'MUM', 'PUNE', 'DEL', 'GUR'].some(
+    s => employer.toLowerCase().includes('india')
+  );
+
+  const baseUrls = [
     `https://jobs.ashbyhq.com/${slug}`,
     `https://job-boards.greenhouse.io/${slug}`,
     `https://boards-api.greenhouse.io/v1/boards/${slug}/jobs`,
     `https://jobs.lever.co/${slug}`,
     `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(slug)}`,
   ];
+
+  // India-specific job boards
+  if (isIndia || state.toUpperCase() === 'IN') {
+    return [
+      ...baseUrls,
+      `https://www.naukri.com/jobs-in-${slug}`,
+      `https://www.instahyre.com/jobs/${slug}`,
+      `https://www.ambitionbox.com/jobs/${slug}`,
+      `https://www.glassdoor.co.in/Job/jobs-in-${slug}.htm`,
+      `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(employer)}&location=India`,
+    ];
+  }
+
+  return baseUrls;
 }
 
 function detectApi(url) {
@@ -284,41 +307,79 @@ async function main() {
   }
 
   const categoryFlag = args.indexOf('--category');
-  if (categoryFlag === -1) {
-    console.error('Usage: node scan-h1b.mjs --category <name>');
-    console.error('       node scan-h1b.mjs --list  (show available categories)');
-    process.exit(1);
-  }
+  const companyFlag = args.indexOf('--company');
+  const searchFlag = args.indexOf('--search');
 
-  const category = args[categoryFlag + 1]?.toLowerCase();
   const dryRun = args.includes('--dry-run');
   const limit = parseInt(args[args.indexOf('--limit') + 1]) || 0; // 0 = unlimited
 
-  if (!category) {
-    console.error('Error: --category requires a value');
-    process.exit(1);
+  let filesToScan = [];
+  let companySearch = null;
+  let keywordSearch = null;
+
+  // Parse --company flag
+  if (companyFlag !== -1) {
+    companySearch = args[companyFlag + 1];
+    if (!companySearch) {
+      console.error('Error: --company requires a company name');
+      process.exit(1);
+    }
+  }
+
+  // Parse --search flag
+  if (searchFlag !== -1) {
+    keywordSearch = args[searchFlag + 1];
+    if (!keywordSearch) {
+      console.error('Error: --search requires a keyword');
+      process.exit(1);
+    }
   }
 
   // Determine which files to scan
-  let filesToScan = [];
-  const allFile = `${H1B_CATEGORIES_DIR}/h1b-all.tsv`;
-
-  if (category === 'all') {
-    // Scan all categories
-    const allFiles = readdirSync(H1B_CATEGORIES_DIR)
-      .filter(f => f.startsWith('h1b-') && f.endsWith('.tsv') && f !== 'h1b-all-companies.tsv');
-
-    for (const file of allFiles) {
-      const catName = file.replace('h1b-', '').replace('.tsv', '');
-      filesToScan.push({ file: `${H1B_CATEGORIES_DIR}/${file}`, category: catName });
-    }
-  } else {
-    const file = `${H1B_CATEGORIES_DIR}/h1b-${category}.tsv`;
-    if (!existsSync(file)) {
-      console.error(`Error: Category "${category}" not found. Run --list to see available categories.`);
+  if (companySearch) {
+    // Search for a specific company in all H1B data
+    const allFile = `${H1B_CATEGORIES_DIR}/h1b-all-companies.tsv`;
+    if (!existsSync(allFile)) {
+      console.error(`Error: ${allFile} not found`);
       process.exit(1);
     }
-    filesToScan.push({ file, category });
+    filesToScan.push({ file: allFile, category: 'all', companyFilter: companySearch.toLowerCase() });
+  } else if (keywordSearch) {
+    // Search all categories for keyword
+    const allFiles = readdirSync(H1B_CATEGORIES_DIR)
+      .filter(f => f.startsWith('h1b-') && f.endsWith('.tsv') && f !== 'h1b-all-companies.tsv');
+    for (const file of allFiles) {
+      const catName = file.replace('h1b-', '').replace('.tsv', '');
+      filesToScan.push({ file: `${H1B_CATEGORIES_DIR}/${file}`, category: catName, keywordFilter: keywordSearch.toLowerCase() });
+    }
+  } else if (categoryFlag !== -1) {
+    const category = args[categoryFlag + 1]?.toLowerCase();
+    if (!category) {
+      console.error('Error: --category requires a value');
+      process.exit(1);
+    }
+
+    if (category === 'all') {
+      const allFiles = readdirSync(H1B_CATEGORIES_DIR)
+        .filter(f => f.startsWith('h1b-') && f.endsWith('.tsv') && f !== 'h1b-all-companies.tsv');
+      for (const file of allFiles) {
+        const catName = file.replace('h1b-', '').replace('.tsv', '');
+        filesToScan.push({ file: `${H1B_CATEGORIES_DIR}/${file}`, category: catName });
+      }
+    } else {
+      const file = `${H1B_CATEGORIES_DIR}/h1b-${category}.tsv`;
+      if (!existsSync(file)) {
+        console.error(`Error: Category "${category}" not found. Run --list to see available categories.`);
+        process.exit(1);
+      }
+      filesToScan.push({ file, category });
+    }
+  } else {
+    console.error('Usage: node scan-h1b.mjs --category <name>');
+    console.error('       node scan-h1b.mjs --company <name>');
+    console.error('       node scan-h1b.mjs --search <keyword>');
+    console.error('       node scan-h1b.mjs --list  (show available categories)');
+    process.exit(1);
   }
 
   const titleFilter = buildTitleFilter();
@@ -330,13 +391,15 @@ async function main() {
   let totalFound = 0;
   let totalFiltered = 0;
   let totalDupes = 0;
-  let totalErrors = 0;
   const newOffers = [];
-  const errors = [];
 
   // Process each category file
-  for (const { file, category: catName } of filesToScan) {
-    console.log(`\nProcessing ${catName}...`);
+  for (const { file, category: catName, companyFilter, keywordFilter } of filesToScan) {
+    if (companySearch || keywordSearch) {
+      console.log(`\nSearching in ${catName}...`);
+    } else {
+      console.log(`\nProcessing ${catName}...`);
+    }
 
     const lines = readFileSync(file, 'utf-8').split('\n').filter(l => l.trim());
     totalCompanies += lines.length;
@@ -352,10 +415,19 @@ async function main() {
       if (cols.length < 1) continue;
 
       const employer = cols[0].trim().replace(/^"|"$/g, '');
+      const state = cols.length > 1 ? cols[1].trim() : '';
+      const city = cols.length > 2 ? cols[2].trim() : '';
+
       if (!employer) continue;
 
+      // Apply company filter if searching for specific company
+      if (companyFilter && !employer.toLowerCase().includes(companyFilter)) continue;
+
+      // Apply keyword filter if searching for keyword in company name
+      if (keywordFilter && !employer.toLowerCase().includes(keywordFilter)) continue;
+
       // Try each potential career URL
-      const urls = generateCareerUrls(employer);
+      const urls = generateCareerUrls(employer, state, city);
 
       tasks.push(async () => {
         for (const url of urls) {
@@ -407,22 +479,28 @@ async function main() {
   // Print summary
   console.log(`\n${'━'.repeat(50)}`);
   console.log(`H1B Scan — ${date}`);
-  console.log(`Category: ${category}`);
+  if (companySearch) {
+    console.log(`Company search: ${companySearch}`);
+  } else if (keywordSearch) {
+    console.log(`Keyword search: ${keywordSearch}`);
+  } else {
+    console.log(`Category: ${args[categoryFlag + 1] || 'all'}`);
+  }
   console.log(`${'━'.repeat(50)}`);
-  console.log(`Companies in category:  ${totalCompanies.toLocaleString()}`);
-  console.log(`Companies scanned:     ${totalScanned.toLocaleString()}`);
-  console.log(`Total jobs found:       ${totalFound.toLocaleString()}`);
-  console.log(`Filtered by title:     ${totalFiltered.toLocaleString()}`);
-  console.log(`Duplicates:            ${totalDupes.toLocaleString()}`);
-  console.log(`New offers added:      ${newOffers.length}`);
+  console.log(`Companies in scope:   ${totalCompanies.toLocaleString()}`);
+  console.log(`Companies scanned:    ${totalScanned.toLocaleString()}`);
+  console.log(`Total jobs found:     ${totalFound.toLocaleString()}`);
+  console.log(`Filtered by title:    ${totalFiltered.toLocaleString()}`);
+  console.log(`Duplicates:          ${totalDupes.toLocaleString()}`);
+  console.log(`New offers added:     ${newOffers.length}`);
 
   if (newOffers.length > 0) {
     console.log('\nNew offers:');
-    for (const o of newOffers.slice(0, 20)) {
+    for (const o of newOffers.slice(0, 30)) {
       console.log(`  + ${o.company} | ${o.title} | ${o.location || 'N/A'}`);
     }
-    if (newOffers.length > 20) {
-      console.log(`  ... and ${newOffers.length - 20} more`);
+    if (newOffers.length > 30) {
+      console.log(`  ... and ${newOffers.length - 30} more`);
     }
     if (dryRun) {
       console.log('\n(dry run — run without --dry-run to save results)');
